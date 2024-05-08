@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-08T06:32:31.109Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="QZgJk7pljNCn290-tbwL" version="24.3.1" type="github" pages="19">
+<mxfile host="app.diagrams.net" modified="2024-05-08T06:36:45.385Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="yTYo24T1A9W_tq434Fyp" version="24.3.1" type="github" pages="21">
   <diagram id="rfpji_oR26iXnu8gp6y1" name="Level 0">
-    <mxGraphModel dx="1434" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -32,7 +32,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="eqj7dofn9CjHiGEiGSkg" name="Audit Assignment Lvl 1">
-    <mxGraphModel dx="1434" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -126,7 +126,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Global Audit Plan LVL 0" id="SO7P523GmKmao4ISK2ce">
-    <mxGraphModel dx="1434" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -241,7 +241,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="C9vHO4o8F-HtbBLTwU_T" name="DSL &amp; RFI">
-    <mxGraphModel dx="1434" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -250,9 +250,11 @@
             <mxPoint x="190.15789473684208" y="460" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Jq0HApgrLzHW4FTiQcWF-1" value="Add Details &lt;br&gt;Scope for Audit Plan" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="130" y="320" width="120" height="60" as="geometry" />
-        </mxCell>
+        <UserObject label="Add Details &lt;br&gt;Scope for Audit Plan" link="data:page/id,00hlMRfuDbaS-sajrneF" id="Jq0HApgrLzHW4FTiQcWF-1">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+            <mxGeometry x="130" y="320" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
         <mxCell id="Jq0HApgrLzHW4FTiQcWF-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Jq0HApgrLzHW4FTiQcWF-3" target="Jq0HApgrLzHW4FTiQcWF-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -315,7 +317,7 @@
         <mxCell id="Jq0HApgrLzHW4FTiQcWF-22" value="Start" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="240" y="140" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Ms6mxtfcFHjEn8s5n1Po-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Jq0HApgrLzHW4FTiQcWF-28" target="Ms6mxtfcFHjEn8s5n1Po-1">
+        <mxCell id="Ms6mxtfcFHjEn8s5n1Po-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Jq0HApgrLzHW4FTiQcWF-28" target="Ms6mxtfcFHjEn8s5n1Po-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Jq0HApgrLzHW4FTiQcWF-28" value="Approve / Reject&lt;br&gt;Administrator&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -331,7 +333,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <UserObject label="NEXT PAGE" link="data:page/id,xXkXfWt9FnmM1K7PqG9_" id="Ms6mxtfcFHjEn8s5n1Po-1">
-          <mxCell style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxCell style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
             <mxGeometry x="325" y="770" width="80" height="80" as="geometry" />
           </mxCell>
         </UserObject>
@@ -686,13 +688,13 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="NykgSJzFip8Q2IuzWKVK-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NykgSJzFip8Q2IuzWKVK-1" target="NykgSJzFip8Q2IuzWKVK-2">
+        <mxCell id="NykgSJzFip8Q2IuzWKVK-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="NykgSJzFip8Q2IuzWKVK-1" target="NykgSJzFip8Q2IuzWKVK-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="NykgSJzFip8Q2IuzWKVK-1" value="Start" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="NykgSJzFip8Q2IuzWKVK-1" value="Start" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="-1270" y="-1840" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="NykgSJzFip8Q2IuzWKVK-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="NykgSJzFip8Q2IuzWKVK-2" target="NykgSJzFip8Q2IuzWKVK-6">
+        <mxCell id="NykgSJzFip8Q2IuzWKVK-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" parent="1" source="NykgSJzFip8Q2IuzWKVK-2" target="NykgSJzFip8Q2IuzWKVK-6" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-1010" y="-1750" />
@@ -701,54 +703,54 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="NykgSJzFip8Q2IuzWKVK-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="NykgSJzFip8Q2IuzWKVK-2">
+        <mxCell id="NykgSJzFip8Q2IuzWKVK-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="NykgSJzFip8Q2IuzWKVK-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-810" y="-1800" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NykgSJzFip8Q2IuzWKVK-2" value="Dashboard Kpi&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
+        <mxCell id="NykgSJzFip8Q2IuzWKVK-2" value="Dashboard Kpi&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
           <mxGeometry x="-1070" y="-1830" width="120" height="60" as="geometry" />
         </mxCell>
         <UserObject label="DSL &amp;amp; RFI Documents" link="data:page/id,eZWeDsNO8A5lHf7pd0LQ" id="NykgSJzFip8Q2IuzWKVK-3">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
             <mxGeometry x="-1040" y="-1730" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="Presentation &amp;amp; Kickoff Documents" link="data:page/id,2k5VoAWTn4ZmVF3ulbP7" id="NykgSJzFip8Q2IuzWKVK-4">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
             <mxGeometry x="-1040" y="-1640" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="Process Understanding Documents" link="data:page/id,vUzz8_i2PkU_AjsXSF4H" id="NykgSJzFip8Q2IuzWKVK-5">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
             <mxGeometry x="-1040" y="-1560" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="Planning Meeting MoM&amp;nbsp;&lt;br&gt;Documents" link="data:page/id,bodM2T3KiP5Xakcll3Hf" id="NykgSJzFip8Q2IuzWKVK-6">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
             <mxGeometry x="-1040" y="-1470" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="NykgSJzFip8Q2IuzWKVK-10" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="NykgSJzFip8Q2IuzWKVK-10" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-1060" y="-1700.5" as="sourcePoint" />
             <mxPoint x="-1040" y="-1700.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NykgSJzFip8Q2IuzWKVK-12" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="NykgSJzFip8Q2IuzWKVK-12" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-1060" y="-1610.5" as="sourcePoint" />
             <mxPoint x="-1040" y="-1610.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NykgSJzFip8Q2IuzWKVK-13" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="NykgSJzFip8Q2IuzWKVK-13" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-1060" y="-1530.5" as="sourcePoint" />
             <mxPoint x="-1040" y="-1530.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <UserObject label="NEXT PAGE" link="data:page/id,lzlA_cUkZQJq2WjfeU5k" id="NykgSJzFip8Q2IuzWKVK-15">
-          <mxCell style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxCell style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
             <mxGeometry x="-810" y="-1840" width="80" height="80" as="geometry" />
           </mxCell>
         </UserObject>
@@ -756,7 +758,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="lzlA_cUkZQJq2WjfeU5k" name="Audit Planning QA  Checklist">
-    <mxGraphModel dx="4734" dy="3111" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -794,6 +796,136 @@
         </mxCell>
         <mxCell id="DK32PCknRaWqJHfKyBEJ-4" value="Approve/Reject&amp;nbsp;&lt;br&gt;Administrator" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1210" y="-500" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="00hlMRfuDbaS-sajrneF" name="Detailed Scope">
+    <mxGraphModel dx="925" dy="476" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="jlDo_IHpH_gCX-HGh6p6-1" value="Detailed Scope" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="340" y="50" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jlDo_IHpH_gCX-HGh6p6-2" value="Fill Detailed Scope Form" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="270" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jlDo_IHpH_gCX-HGh6p6-7" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="jlDo_IHpH_gCX-HGh6p6-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="330" y="880" as="sourcePoint" />
+            <mxPoint x="700" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jlDo_IHpH_gCX-HGh6p6-8" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="330" y="250" as="sourcePoint" />
+            <mxPoint x="400" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jlDo_IHpH_gCX-HGh6p6-9" value="&lt;font color=&quot;#ff3333&quot;&gt;Audit Plan Title&lt;br&gt;&lt;/font&gt;Provide a Title for Audit Plan" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="401" y="220" width="179" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jlDo_IHpH_gCX-HGh6p6-11" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="330" y="320" as="sourcePoint" />
+            <mxPoint x="400" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jlDo_IHpH_gCX-HGh6p6-12" value="&lt;font color=&quot;#ff3333&quot;&gt;Business Unit&lt;/font&gt;&lt;div&gt;&amp;nbsp;Choose a Business Unit from the dropdown&amp;nbsp;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="401" y="290" width="179" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jlDo_IHpH_gCX-HGh6p6-17" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="330" y="390" as="sourcePoint" />
+            <mxPoint x="400" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jlDo_IHpH_gCX-HGh6p6-18" value="&lt;font color=&quot;#ff3333&quot;&gt;Department&lt;br&gt;&lt;/font&gt;Choose a Department from the dropdown&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="401" y="360" width="179" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jlDo_IHpH_gCX-HGh6p6-19" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="330" y="460" as="sourcePoint" />
+            <mxPoint x="400" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jlDo_IHpH_gCX-HGh6p6-20" value="&lt;font color=&quot;#ff3333&quot;&gt;Select AAF ID&lt;/font&gt;&lt;br&gt;&lt;div&gt;Select Audit Assignment Form ID (AAF ID) to allocate Pre-approved assignments&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="401" y="430" width="179" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jlDo_IHpH_gCX-HGh6p6-29" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="330" y="530" as="sourcePoint" />
+            <mxPoint x="400" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jlDo_IHpH_gCX-HGh6p6-30" value="&lt;font color=&quot;#ff3333&quot;&gt;Start Date&lt;/font&gt;&lt;div&gt;Assignment Start Date&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="401" y="500" width="179" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jlDo_IHpH_gCX-HGh6p6-31" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="330" y="600" as="sourcePoint" />
+            <mxPoint x="400" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jlDo_IHpH_gCX-HGh6p6-32" value="&lt;font color=&quot;#ff3333&quot;&gt;End Date&lt;/font&gt;&lt;div&gt;Assignment End Date&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="401" y="570" width="179" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jlDo_IHpH_gCX-HGh6p6-33" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="330" y="670" as="sourcePoint" />
+            <mxPoint x="400" y="670" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jlDo_IHpH_gCX-HGh6p6-34" value="&lt;font color=&quot;#ff3333&quot;&gt;Head Of Audit&lt;br&gt;&lt;/font&gt;Choose a Head Of Audit from the List of Users" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="401" y="640" width="179" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jlDo_IHpH_gCX-HGh6p6-35" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="330" y="740" as="sourcePoint" />
+            <mxPoint x="400" y="740" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jlDo_IHpH_gCX-HGh6p6-36" value="&lt;font color=&quot;#ff3333&quot;&gt;Audit Manager&lt;/font&gt;&lt;div&gt;Choose a Audit Manager from the List of Users&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="401" y="710" width="179" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jlDo_IHpH_gCX-HGh6p6-37" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="330" y="810" as="sourcePoint" />
+            <mxPoint x="400" y="810" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jlDo_IHpH_gCX-HGh6p6-38" value="&lt;font color=&quot;#ff3333&quot;&gt;Audit Scope&lt;br&gt;&lt;/font&gt;Write detailed Audit Scope in the given Rich Text Editor" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="401" y="780" width="179" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jlDo_IHpH_gCX-HGh6p6-39" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="330" y="880" as="sourcePoint" />
+            <mxPoint x="400" y="880" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jlDo_IHpH_gCX-HGh6p6-40" value="&lt;div&gt;&lt;font color=&quot;#ff3333&quot;&gt;Audit Procedure&lt;/font&gt;&lt;/div&gt;&lt;div&gt;Write detailed Audit Procedure&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;in the given Rich Text Editor&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="401" y="850" width="179" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="onjasasucwlx9Kj9we2S" name="Field Work">
+    <mxGraphModel dx="1434" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="TtS_ItIUl5P7vwWUC-KX-2" value="&lt;font color=&quot;#009900&quot; style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Field Work&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#666666&quot; style=&quot;font-size: 15px;&quot;&gt;Test the credibility of various controls&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="315" y="60" width="220" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="TtS_ItIUl5P7vwWUC-KX-9" value="Test Of Controls" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="300" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TtS_ItIUl5P7vwWUC-KX-10" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="375" y="150" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="TtS_ItIUl5P7vwWUC-KX-14" value="Audit Workpaper Checklist" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="430" y="200" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
