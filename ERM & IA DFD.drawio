@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-09T07:02:13.608Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="73qhLWebhTnWEJhGBECE" version="24.3.1" type="github" pages="29">
+<mxfile host="app.diagrams.net" modified="2024-05-09T07:09:56.767Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="lMFrIOy1GCAEsrlUSb3F" version="24.3.1" type="github" pages="29">
   <diagram id="rfpji_oR26iXnu8gp6y1" name="Level 0">
-    <mxGraphModel dx="1035" dy="541" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -42,7 +42,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="eqj7dofn9CjHiGEiGSkg" name="Audit Assignment Lvl 1">
-    <mxGraphModel dx="880" dy="460" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1050" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -128,7 +128,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Global Audit Plan LVL 0" id="SO7P523GmKmao4ISK2ce">
-    <mxGraphModel dx="880" dy="460" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -250,7 +250,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="C9vHO4o8F-HtbBLTwU_T" name="DSL &amp; RFI">
-    <mxGraphModel dx="1100" dy="575" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -375,7 +375,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="xXkXfWt9FnmM1K7PqG9_" name="Presentation &amp; Kickoff">
-    <mxGraphModel dx="30" dy="3760" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="584" dy="4072" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -467,7 +467,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="8sggHr_kanZW6AEmCA0b" name="Process Understanding">
-    <mxGraphModel dx="30" dy="460" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="584" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -999,13 +999,13 @@
         <mxCell id="TtS_ItIUl5P7vwWUC-KX-2" value="&lt;font color=&quot;#009900&quot; style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Field Work&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#666666&quot; style=&quot;font-size: 15px;&quot;&gt;Test the credibility of various controls&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" parent="1" vertex="1">
           <mxGeometry x="350" y="95" width="220" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="Efc7CS0aBD-vWHIIMCYY-8" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="TtS_ItIUl5P7vwWUC-KX-9" target="TtS_ItIUl5P7vwWUC-KX-78" edge="1">
+        <mxCell id="Efc7CS0aBD-vWHIIMCYY-8" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TtS_ItIUl5P7vwWUC-KX-9" target="TtS_ItIUl5P7vwWUC-KX-78">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Efc7CS0aBD-vWHIIMCYY-9" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="TtS_ItIUl5P7vwWUC-KX-9" target="Efc7CS0aBD-vWHIIMCYY-3" edge="1">
+        <mxCell id="Efc7CS0aBD-vWHIIMCYY-9" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TtS_ItIUl5P7vwWUC-KX-9" target="Efc7CS0aBD-vWHIIMCYY-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Efc7CS0aBD-vWHIIMCYY-10" value="After Check" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rounded=1;" parent="Efc7CS0aBD-vWHIIMCYY-9" connectable="0" vertex="1">
+        <mxCell id="Efc7CS0aBD-vWHIIMCYY-10" value="After Check" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rounded=1;" connectable="0" vertex="1" parent="Efc7CS0aBD-vWHIIMCYY-9">
           <mxGeometry x="-0.0832" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -1212,16 +1212,16 @@
         <mxCell id="MnGqmCE17BLNwqRaopIp-41" value="Finalized" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="-130" y="870" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Efc7CS0aBD-vWHIIMCYY-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Efc7CS0aBD-vWHIIMCYY-3" target="Efc7CS0aBD-vWHIIMCYY-5" edge="1">
+        <mxCell id="Efc7CS0aBD-vWHIIMCYY-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Efc7CS0aBD-vWHIIMCYY-3" target="Efc7CS0aBD-vWHIIMCYY-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Efc7CS0aBD-vWHIIMCYY-3" value="Go To Risk Register" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;rounded=1;gradientColor=#ffd966;" parent="1" vertex="1">
+        <mxCell id="Efc7CS0aBD-vWHIIMCYY-3" value="Go To Risk Register" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;rounded=1;gradientColor=#ffd966;" vertex="1" parent="1">
           <mxGeometry x="230" y="410" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Efc7CS0aBD-vWHIIMCYY-5" value="Mapped Risks will be highlighted&amp;nbsp;" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;rounded=1;gradientColor=#ffd966;" parent="1" vertex="1">
+        <mxCell id="Efc7CS0aBD-vWHIIMCYY-5" value="Mapped Risks will be highlighted&amp;nbsp;" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;rounded=1;gradientColor=#ffd966;" vertex="1" parent="1">
           <mxGeometry x="230" y="550" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Efc7CS0aBD-vWHIIMCYY-7" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.598;entryY=-0.021;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="TtS_ItIUl5P7vwWUC-KX-2" target="TtS_ItIUl5P7vwWUC-KX-9" edge="1">
+        <mxCell id="Efc7CS0aBD-vWHIIMCYY-7" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.598;entryY=-0.021;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="TtS_ItIUl5P7vwWUC-KX-2" target="TtS_ItIUl5P7vwWUC-KX-9">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="460" y="210" />
@@ -1376,7 +1376,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="fDOu2XCDbjO3SyMG1xVQ" name="Closing and Post Audit">
-    <mxGraphModel dx="1434" dy="10094" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1422,21 +1422,56 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="kuNdv92F4nR_C1X-FsRo-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="kuNdv92F4nR_C1X-FsRo-2" target="kuNdv92F4nR_C1X-FsRo-3" edge="1">
+        <mxCell id="2ahdBvBZp7mPYSXMhCD0-2" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="kuNdv92F4nR_C1X-FsRo-2" target="2ahdBvBZp7mPYSXMhCD0-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <UserObject label="PREVIOUS PAGE" link="data:page/id,fDOu2XCDbjO3SyMG1xVQ" id="kuNdv92F4nR_C1X-FsRo-2">
-          <mxCell style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxCell style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" parent="1" vertex="1">
             <mxGeometry x="1190" y="-6730" width="80" height="80" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="END PAGE" link="data:page/id,SO7P523GmKmao4ISK2ce" id="kuNdv92F4nR_C1X-FsRo-3">
-          <mxCell style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-            <mxGeometry x="1580" y="-6730" width="80" height="80" as="geometry" />
+          <mxCell style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;" parent="1" vertex="1">
+            <mxGeometry x="1880" y="-6740" width="80" height="80" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="DpajG_B8RaVfdA5EKVWE-1" value="Quality Assurance" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
           <mxGeometry x="1250" y="-6940" width="290" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2ahdBvBZp7mPYSXMhCD0-5" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2ahdBvBZp7mPYSXMhCD0-1" target="2ahdBvBZp7mPYSXMhCD0-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="65mFFuA4YMB07mKcDVw_-1" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2ahdBvBZp7mPYSXMhCD0-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1610" y="-6690" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2ahdBvBZp7mPYSXMhCD0-1" value="Quality Assurance for planning checklist" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="1350" y="-6720" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2ahdBvBZp7mPYSXMhCD0-6" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2ahdBvBZp7mPYSXMhCD0-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1435" y="-6420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="Quality Assurance For Planning Checklist which is coming from&amp;nbsp; Audit planning QA Checklist.&lt;div&gt;Check Audit Planning by clicking here.&lt;/div&gt;" link="data:page/id,lzlA_cUkZQJq2WjfeU5k" id="2ahdBvBZp7mPYSXMhCD0-4">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="1">
+            <mxGeometry x="1350" y="-6600" width="170" height="110" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="2ahdBvBZp7mPYSXMhCD0-7" value="Add Response for Quality and Assurance" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="1360" y="-6420" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="65mFFuA4YMB07mKcDVw_-3" value="Quality Assurance for Workpaper Checklist" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1610" y="-6720" width="180" height="60" as="geometry" />
+        </mxCell>
+        <UserObject label="Quality Assurance for Workpaper Checklist which is coming from Field Work Stepper Audit Work Paper Checklist" link="data:page/id,jOHWCXJ2YlCh6lT8egzE" id="65mFFuA4YMB07mKcDVw_-5">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="1">
+            <mxGeometry x="1620" y="-6600" width="190" height="110" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="65mFFuA4YMB07mKcDVw_-6" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.426;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="65mFFuA4YMB07mKcDVw_-3" target="65mFFuA4YMB07mKcDVw_-5">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -1594,7 +1629,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="TT-eukzlT2c3g3Ehd_k4" name="Pre Exit Meeting with CIA MoM">
-    <mxGraphModel dx="4734" dy="14772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
+    <mxGraphModel dx="4734" dy="14806" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1720,7 +1755,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="V9kYr8GFRwZ4kbUhQ20Z" name="Test Of Control">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1819,7 +1854,7 @@
         <mxCell id="EC_mLrZJkH1FI87uH7Qg-24" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font color=&quot;#330000&quot;&gt;Finalize Uploaded Files&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#330000&quot;&gt;Once the files gets approved result will be shown against the tuple added&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="380" y="920" width="180" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="AGHmD9Y65e9FtHp3h2bj-1" value="Test of Controls" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
+        <mxCell id="AGHmD9Y65e9FtHp3h2bj-1" value="Test of Controls" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
           <mxGeometry x="280" y="10" width="220" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Emu7u4FeYpMVgCkGjp_K-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Emu7u4FeYpMVgCkGjp_K-1" target="EC_mLrZJkH1FI87uH7Qg-6">
@@ -1839,7 +1874,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="c0XGmwBcdCBRUjw15hJs" name="Assign Independent Manager in-charge">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
+    <mxGraphModel dx="4734" dy="12467" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1921,7 +1956,7 @@
             <mxGeometry x="-2080" y="-11615" width="80" height="80" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="DKSBEek3FmE08wI7L8hK-1" value="Assign Independent Manager in-charge" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;rounded=1;" parent="1" vertex="1">
+        <mxCell id="DKSBEek3FmE08wI7L8hK-1" value="Assign Independent Manager in-charge" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="-2680" y="-11690" width="510" height="40" as="geometry" />
         </mxCell>
       </root>
@@ -2004,7 +2039,7 @@
             <mxGeometry x="1070" y="180" width="80" height="80" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="NraIkyJnTt4Vdzusv-V6-2" value="Exit Meeting MoMs" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;rounded=1;" parent="1" vertex="1">
+        <mxCell id="NraIkyJnTt4Vdzusv-V6-2" value="Exit Meeting MoMs" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="80" width="470" height="40" as="geometry" />
         </mxCell>
         <mxCell id="22msjdtyUNMncPkfJMhE-1" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="vOgis2KyaoCf2csHKE_7-13" target="9_ugwNQ_b7DfnEisMjsv-1">
@@ -2020,7 +2055,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="nO6HUVBcOzQf7XIppmUd" name="Audit Report QA Checklist">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
+    <mxGraphModel dx="1509" dy="5491" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2061,7 +2096,7 @@
             <mxPoint x="1300" y="-4530" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gvsmX5roMDYE2Qi9uAO0-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="u7MAOHNs_4UVuqxKLlPd-9" target="u7MAOHNs_4UVuqxKLlPd-10" edge="1">
+        <mxCell id="gvsmX5roMDYE2Qi9uAO0-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="u7MAOHNs_4UVuqxKLlPd-9" target="u7MAOHNs_4UVuqxKLlPd-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="u7MAOHNs_4UVuqxKLlPd-9" value="Add Audit Report QA Checklist with CIA MoM RAID logs by Audit Associate" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" parent="1" vertex="1">
@@ -2075,14 +2110,14 @@
             <mxGeometry x="1300" y="-4570" width="80" height="80" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="gvsmX5roMDYE2Qi9uAO0-1" value="Audit Report QA Checklist" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;rounded=1;" parent="1" vertex="1">
+        <mxCell id="gvsmX5roMDYE2Qi9uAO0-1" value="Audit Report QA Checklist" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="980" y="-4650" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="jOHWCXJ2YlCh6lT8egzE" name="Audit Workpaper Checklist">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2160,7 +2195,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="tmQ0x6Ci1NUib2guhXre" name="Final Draft IA Report">
-    <mxGraphModel dx="1434" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2209,14 +2244,14 @@
             <mxGeometry x="750" y="130" width="80" height="80" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="8CNr2PLYN1W85MKCrONb-1" value="Final Draft IA Report" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
+        <mxCell id="8CNr2PLYN1W85MKCrONb-1" value="Final Draft IA Report" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
           <mxGeometry x="500" y="60" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="E-SuewBdt1aC3bwkr6U8" name="Independent manager review lev 1">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2298,7 +2333,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="6ldmr75Alx0e23TCBMOS" name="Audit Action Plan Workshop">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
