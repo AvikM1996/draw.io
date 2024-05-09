@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-09T04:41:08.554Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="5Glphh3LxvZY_Jjg1hXt" version="24.3.1" type="github" pages="28">
+<mxfile host="app.diagrams.net" modified="2024-05-09T04:41:30.770Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="37rVli_TMNax3te_cFTe" version="24.3.1" type="github" pages="28">
   <diagram id="rfpji_oR26iXnu8gp6y1" name="Level 0">
     <mxGraphModel dx="1434" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -780,7 +780,7 @@
         </UserObject>
         <UserObject label="Presentation &amp;amp; Kickoff Documents" link="data:page/id,2k5VoAWTn4ZmVF3ulbP7" id="NykgSJzFip8Q2IuzWKVK-4">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;" parent="1" vertex="1">
-            <mxGeometry x="-1420" y="-6170" width="120" height="60" as="geometry" />
+            <mxGeometry x="-1420" y="-6170" width="130" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="Process Understanding Documents" link="data:page/id,vUzz8_i2PkU_AjsXSF4H" id="NykgSJzFip8Q2IuzWKVK-5">
