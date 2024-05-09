@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-09T05:22:12.535Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="UwZ0X56KZh3vaH-WdE_9" version="24.3.1" type="github" pages="28">
+<mxfile host="app.diagrams.net" modified="2024-05-09T05:25:29.805Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="0QM2waw8n1lXu75qQhkQ" version="24.3.1" type="github" pages="28">
   <diagram id="rfpji_oR26iXnu8gp6y1" name="Level 0">
     <mxGraphModel dx="1434" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1687,7 +1687,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="V9kYr8GFRwZ4kbUhQ20Z" name="Test Of Control">
-    <mxGraphModel dx="1114" dy="550" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1696,7 +1696,7 @@
             <mxPoint x="325" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EC_mLrZJkH1FI87uH7Qg-2" value="&lt;font color=&quot;#ff3333&quot;&gt;&lt;b&gt;Select Controls&lt;br&gt;&lt;/b&gt;&lt;/font&gt;Against Pre-Selected Department" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="EC_mLrZJkH1FI87uH7Qg-2" value="&lt;font color=&quot;#330000&quot;&gt;&lt;b style=&quot;&quot;&gt;Select Controls&lt;br&gt;&lt;/b&gt;Against Pre-Selected Department&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="380" y="250" width="180" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EC_mLrZJkH1FI87uH7Qg-3" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="EC_mLrZJkH1FI87uH7Qg-4" edge="1">
@@ -1704,16 +1704,16 @@
             <mxPoint x="325" y="350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EC_mLrZJkH1FI87uH7Qg-4" value="&lt;font color=&quot;#ff3333&quot;&gt;&lt;b&gt;Select Process&lt;br&gt;&lt;/b&gt;&lt;/font&gt;Against Pre-Selected Department" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="EC_mLrZJkH1FI87uH7Qg-4" value="&lt;font color=&quot;#330000&quot;&gt;&lt;b style=&quot;&quot;&gt;Select Process&lt;br&gt;&lt;/b&gt;Against Pre-Selected Department&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="380" y="320" width="180" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EC_mLrZJkH1FI87uH7Qg-5" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="EC_mLrZJkH1FI87uH7Qg-6" target="EC_mLrZJkH1FI87uH7Qg-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EC_mLrZJkH1FI87uH7Qg-6" value="&lt;font color=&quot;#ff3333&quot;&gt;&lt;b&gt;Add Tuple into the Field Work Table&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=#36393d;" parent="1" vertex="1">
+        <mxCell id="EC_mLrZJkH1FI87uH7Qg-6" value="&lt;b style=&quot;&quot;&gt;&lt;font color=&quot;#330000&quot;&gt;Add Tuple into the Field Work Table&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffd966;" parent="1" vertex="1">
           <mxGeometry x="230" y="60" width="180" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="EC_mLrZJkH1FI87uH7Qg-7" value="&lt;font color=&quot;#808080&quot;&gt;Fields/Attributes of a Single Tuple&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
+        <mxCell id="EC_mLrZJkH1FI87uH7Qg-7" value="&lt;font color=&quot;#330000&quot;&gt;Fields/Attributes of a Single Tuple&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;rounded=1;gradientColor=#b3b3b3;" parent="1" vertex="1">
           <mxGeometry x="250" y="170" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EC_mLrZJkH1FI87uH7Qg-8" value="" style="endArrow=none;html=1;" parent="1" edge="1">
@@ -1727,63 +1727,63 @@
             <mxPoint x="325" y="420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EC_mLrZJkH1FI87uH7Qg-10" value="&lt;font color=&quot;#ff3333&quot;&gt;&lt;b&gt;Test Name (as per RCM)&lt;/b&gt;&lt;/font&gt;&lt;div&gt;Enter Test Name&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="EC_mLrZJkH1FI87uH7Qg-10" value="&lt;b style=&quot;&quot;&gt;&lt;font color=&quot;#330000&quot;&gt;Test Name (as per RCM)&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;font color=&quot;#330000&quot;&gt;Enter Test Name&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="380" y="390" width="180" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="EC_mLrZJkH1FI87uH7Qg-11" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="EC_mLrZJkH1FI87uH7Qg-12" edge="1">
+        <mxCell id="EC_mLrZJkH1FI87uH7Qg-11" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" parent="1" source="EC_mLrZJkH1FI87uH7Qg-12" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="325" y="490" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EC_mLrZJkH1FI87uH7Qg-12" value="&lt;font color=&quot;#ff3333&quot;&gt;&lt;b&gt;Test Description&lt;/b&gt;&lt;/font&gt;&lt;div&gt;Add Description for the Test&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="EC_mLrZJkH1FI87uH7Qg-12" value="&lt;b style=&quot;&quot;&gt;&lt;font color=&quot;#330000&quot;&gt;Test Description&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;font color=&quot;#330000&quot;&gt;Add Description for the Test&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="380" y="460" width="180" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="EC_mLrZJkH1FI87uH7Qg-13" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="EC_mLrZJkH1FI87uH7Qg-14" edge="1">
+        <mxCell id="EC_mLrZJkH1FI87uH7Qg-13" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" parent="1" source="EC_mLrZJkH1FI87uH7Qg-14" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="325" y="560" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EC_mLrZJkH1FI87uH7Qg-14" value="&lt;div&gt;&lt;font color=&quot;#ff3333&quot;&gt;&lt;b&gt;Population&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;Select a Option from the dropdown&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="EC_mLrZJkH1FI87uH7Qg-14" value="&lt;div&gt;&lt;b style=&quot;&quot;&gt;&lt;font color=&quot;#330000&quot;&gt;Population&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#330000&quot;&gt;Select a Option from the dropdown&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="380" y="530" width="180" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="EC_mLrZJkH1FI87uH7Qg-15" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="EC_mLrZJkH1FI87uH7Qg-16" edge="1">
+        <mxCell id="EC_mLrZJkH1FI87uH7Qg-15" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" parent="1" source="EC_mLrZJkH1FI87uH7Qg-16" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="325" y="630" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EC_mLrZJkH1FI87uH7Qg-16" value="&lt;div&gt;&lt;font color=&quot;#ff3333&quot;&gt;&lt;b&gt;Sample Size&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;Enter a Sample Size for the Control Testing&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="EC_mLrZJkH1FI87uH7Qg-16" value="&lt;div&gt;&lt;b style=&quot;&quot;&gt;&lt;font color=&quot;#330000&quot;&gt;Sample Size&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#330000&quot;&gt;Enter a Sample Size for the Control Testing&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="380" y="600" width="180" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="EC_mLrZJkH1FI87uH7Qg-17" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="EC_mLrZJkH1FI87uH7Qg-18" edge="1">
+        <mxCell id="EC_mLrZJkH1FI87uH7Qg-17" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" parent="1" source="EC_mLrZJkH1FI87uH7Qg-18" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="325" y="700" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EC_mLrZJkH1FI87uH7Qg-18" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font color=&quot;#ff3333&quot;&gt;&lt;b&gt;Test Result&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;Test Result will be shown automatically&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="EC_mLrZJkH1FI87uH7Qg-18" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font color=&quot;#330000&quot;&gt;Test Result&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#330000&quot;&gt;Test Result will be shown automatically&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="380" y="670" width="180" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="EC_mLrZJkH1FI87uH7Qg-19" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="EC_mLrZJkH1FI87uH7Qg-20" edge="1">
+        <mxCell id="EC_mLrZJkH1FI87uH7Qg-19" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" parent="1" source="EC_mLrZJkH1FI87uH7Qg-20" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="325" y="780" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EC_mLrZJkH1FI87uH7Qg-20" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font color=&quot;#ff3333&quot;&gt;&lt;b&gt;Test Conclusion&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;Test Conclusion will be shown here after checking required parameters, It&#39;s value can be either PASS or FAIL&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="EC_mLrZJkH1FI87uH7Qg-20" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font color=&quot;#330000&quot;&gt;Test Conclusion&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#330000&quot;&gt;Test Conclusion will be shown here after checking required parameters, It&#39;s value can be either PASS or FAIL&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="380" y="740" width="180" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="EC_mLrZJkH1FI87uH7Qg-21" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="EC_mLrZJkH1FI87uH7Qg-22" edge="1">
+        <mxCell id="EC_mLrZJkH1FI87uH7Qg-21" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" parent="1" source="EC_mLrZJkH1FI87uH7Qg-22" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="325" y="870" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EC_mLrZJkH1FI87uH7Qg-22" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font color=&quot;#ff3333&quot;&gt;&lt;b&gt;Upload Control Evidence&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;Upload a file as a evidence and a description&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="EC_mLrZJkH1FI87uH7Qg-22" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font color=&quot;#330000&quot;&gt;Upload Control Evidence&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#330000&quot;&gt;Upload a file as a evidence and a description&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="380" y="830" width="180" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="EC_mLrZJkH1FI87uH7Qg-23" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="EC_mLrZJkH1FI87uH7Qg-24" edge="1">
+        <mxCell id="EC_mLrZJkH1FI87uH7Qg-23" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" parent="1" source="EC_mLrZJkH1FI87uH7Qg-24" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="325" y="960" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EC_mLrZJkH1FI87uH7Qg-24" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font color=&quot;#ff3333&quot;&gt;&lt;b&gt;Finalize Uploaded Files&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;Once the files gets approved result will be shown against the tuple added&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="EC_mLrZJkH1FI87uH7Qg-24" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font color=&quot;#330000&quot;&gt;Finalize Uploaded Files&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#330000&quot;&gt;Once the files gets approved result will be shown against the tuple added&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="380" y="920" width="180" height="80" as="geometry" />
         </mxCell>
       </root>
