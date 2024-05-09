@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-09T08:57:01.520Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="28LS9I74ltRwQxmEE4im" version="24.3.1" type="github" pages="32">
+<mxfile host="app.diagrams.net" modified="2024-05-09T08:58:37.039Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="9PpRkWfK_h1D1jFCxPaW" version="24.3.1" type="github" pages="32">
   <diagram id="rfpji_oR26iXnu8gp6y1" name="Level 0">
     <mxGraphModel dx="1434" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1385,7 +1385,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="fDOu2XCDbjO3SyMG1xVQ" name="Closing and Post Audit">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="10128" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1393,12 +1393,12 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <UserObject label="PREVIOUS PAGE" link="data:page/id,-kxxWb5hBgzSHtg66tbn" id="jkN52-qRp0LsKwnRPfco-1">
-          <mxCell style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=1;" parent="1" vertex="1">
+          <mxCell style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" parent="1" vertex="1">
             <mxGeometry x="900" y="-9180" width="80" height="80" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="NEXT PAGE" link="data:page/id,Q8PFEeoIksUd84Hvle8G" id="jkN52-qRp0LsKwnRPfco-2">
-          <mxCell style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=1;" parent="1" vertex="1">
+          <mxCell style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=1;fillColor=#e6d0de;gradientColor=#d5739d;strokeColor=#996185;" parent="1" vertex="1">
             <mxGeometry x="1570" y="-9180" width="80" height="80" as="geometry" />
           </mxCell>
         </UserObject>
@@ -1406,7 +1406,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <UserObject label="Final Audit Program" link="data:page/id,YjHqWcXBFKghXpC4AisC" id="OOQPwEmwOaxNpBbzk1Sw-1">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" parent="1" vertex="1">
             <mxGeometry x="1040" y="-9170" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
@@ -1414,14 +1414,14 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <UserObject label="Audit Wrap-up QA&amp;nbsp; Checklist&amp;nbsp;" link="data:page/id,av82I5UQGBpY9uenI46Z" id="OOQPwEmwOaxNpBbzk1Sw-2">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" parent="1" vertex="1">
             <mxGeometry x="1230" y="-9170" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="OOQPwEmwOaxNpBbzk1Sw-7" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="OOQPwEmwOaxNpBbzk1Sw-3" target="jkN52-qRp0LsKwnRPfco-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="OOQPwEmwOaxNpBbzk1Sw-3" value="Assignment Satisfaction Survey" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="OOQPwEmwOaxNpBbzk1Sw-3" value="Assignment Satisfaction Survey" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="1400" y="-9170" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TRTuxKcrwLNm3oxzbfGM-1" value="Closing and Post Audit" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=5;verticalAlign=middle;align=center;rounded=1;" parent="1" vertex="1">
@@ -1431,11 +1431,11 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Q8PFEeoIksUd84Hvle8G" name="Quality Assurance">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="7789" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="2ahdBvBZp7mPYSXMhCD0-2" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="kuNdv92F4nR_C1X-FsRo-2" target="2ahdBvBZp7mPYSXMhCD0-1">
+        <mxCell id="2ahdBvBZp7mPYSXMhCD0-2" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="kuNdv92F4nR_C1X-FsRo-2" target="2ahdBvBZp7mPYSXMhCD0-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <UserObject label="PREVIOUS PAGE" link="data:page/id,fDOu2XCDbjO3SyMG1xVQ" id="kuNdv92F4nR_C1X-FsRo-2">
@@ -1451,71 +1451,71 @@
         <mxCell id="DpajG_B8RaVfdA5EKVWE-1" value="Quality Assurance" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
           <mxGeometry x="1250" y="-6940" width="290" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="2ahdBvBZp7mPYSXMhCD0-5" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2ahdBvBZp7mPYSXMhCD0-1" target="2ahdBvBZp7mPYSXMhCD0-4">
+        <mxCell id="2ahdBvBZp7mPYSXMhCD0-5" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="2ahdBvBZp7mPYSXMhCD0-1" target="2ahdBvBZp7mPYSXMhCD0-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="65mFFuA4YMB07mKcDVw_-1" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2ahdBvBZp7mPYSXMhCD0-1">
+        <mxCell id="65mFFuA4YMB07mKcDVw_-1" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="2ahdBvBZp7mPYSXMhCD0-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1310" y="-6830" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2ahdBvBZp7mPYSXMhCD0-1" value="Quality Assurance for planning checklist" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="2ahdBvBZp7mPYSXMhCD0-1" value="Quality Assurance for planning checklist" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="1050" y="-6860" width="170" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2ahdBvBZp7mPYSXMhCD0-6" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2ahdBvBZp7mPYSXMhCD0-4">
+        <mxCell id="2ahdBvBZp7mPYSXMhCD0-6" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="2ahdBvBZp7mPYSXMhCD0-4" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1135" y="-6560" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <UserObject label="Quality Assurance For Planning Checklist which is coming from&amp;nbsp; Audit planning QA Checklist.&lt;div&gt;Check Audit Planning by clicking here.&lt;/div&gt;" link="data:page/id,lzlA_cUkZQJq2WjfeU5k" id="2ahdBvBZp7mPYSXMhCD0-4">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" parent="1" vertex="1">
             <mxGeometry x="1050" y="-6740" width="170" height="110" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="2ahdBvBZp7mPYSXMhCD0-7" value="Add Response for Quality and Assurance" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="2ahdBvBZp7mPYSXMhCD0-7" value="Add Response for Quality and Assurance" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="1060" y="-6560" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="U4BX0acDSWMQYL1bqfkX-7" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="65mFFuA4YMB07mKcDVw_-3">
+        <mxCell id="U4BX0acDSWMQYL1bqfkX-7" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="65mFFuA4YMB07mKcDVw_-3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1560" y="-6830" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="65mFFuA4YMB07mKcDVw_-3" value="Quality Assurance for Workpaper Checklist" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="65mFFuA4YMB07mKcDVw_-3" value="Quality Assurance for Workpaper Checklist" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="1310" y="-6860" width="180" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="U4BX0acDSWMQYL1bqfkX-6" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="65mFFuA4YMB07mKcDVw_-5" target="U4BX0acDSWMQYL1bqfkX-1">
+        <mxCell id="U4BX0acDSWMQYL1bqfkX-6" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="65mFFuA4YMB07mKcDVw_-5" target="U4BX0acDSWMQYL1bqfkX-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="U4BX0acDSWMQYL1bqfkX-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="65mFFuA4YMB07mKcDVw_-5" target="U4BX0acDSWMQYL1bqfkX-1">
+        <mxCell id="U4BX0acDSWMQYL1bqfkX-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="65mFFuA4YMB07mKcDVw_-5" target="U4BX0acDSWMQYL1bqfkX-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <UserObject label="Quality Assurance for Workpaper Checklist which is coming from Field Work Stepper Audit Work Paper Checklist.&lt;div&gt;Check Audit Workpaper Checklist by clicking here.&lt;/div&gt;" link="data:page/id,jOHWCXJ2YlCh6lT8egzE" id="65mFFuA4YMB07mKcDVw_-5">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" parent="1" vertex="1">
             <mxGeometry x="1320" y="-6740" width="190" height="110" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="65mFFuA4YMB07mKcDVw_-6" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.426;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="65mFFuA4YMB07mKcDVw_-3" target="65mFFuA4YMB07mKcDVw_-5">
+        <mxCell id="65mFFuA4YMB07mKcDVw_-6" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.426;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="65mFFuA4YMB07mKcDVw_-3" target="65mFFuA4YMB07mKcDVw_-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="U4BX0acDSWMQYL1bqfkX-1" value="Add Response for Quality Assurance for Workpaper Checklist" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="U4BX0acDSWMQYL1bqfkX-1" value="Add Response for Quality Assurance for Workpaper Checklist" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="1315" y="-6560" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="U4BX0acDSWMQYL1bqfkX-16" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="U4BX0acDSWMQYL1bqfkX-10" target="U4BX0acDSWMQYL1bqfkX-12">
+        <mxCell id="U4BX0acDSWMQYL1bqfkX-16" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="U4BX0acDSWMQYL1bqfkX-10" target="U4BX0acDSWMQYL1bqfkX-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="U4BX0acDSWMQYL1bqfkX-20" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U4BX0acDSWMQYL1bqfkX-10" target="kuNdv92F4nR_C1X-FsRo-3">
+        <mxCell id="U4BX0acDSWMQYL1bqfkX-20" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="U4BX0acDSWMQYL1bqfkX-10" target="kuNdv92F4nR_C1X-FsRo-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="U4BX0acDSWMQYL1bqfkX-10" value="Quality Assurance for Wrap-up checklist" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" vertex="1" parent="1">
+        <mxCell id="U4BX0acDSWMQYL1bqfkX-10" value="Quality Assurance for Wrap-up checklist" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="1560" y="-6860" width="190" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="U4BX0acDSWMQYL1bqfkX-19" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="U4BX0acDSWMQYL1bqfkX-12" target="U4BX0acDSWMQYL1bqfkX-15">
+        <mxCell id="U4BX0acDSWMQYL1bqfkX-19" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="U4BX0acDSWMQYL1bqfkX-12" target="U4BX0acDSWMQYL1bqfkX-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="U4BX0acDSWMQYL1bqfkX-12" value="Quality Assurance for Wrap-up Checklist which is coming from Close and Post Audit stepper Audit wrapup QA checklist.&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" vertex="1" parent="1">
+        <mxCell id="U4BX0acDSWMQYL1bqfkX-12" value="Quality Assurance for Wrap-up Checklist which is coming from Close and Post Audit stepper Audit wrapup QA checklist.&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="1560" y="-6740" width="190" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="U4BX0acDSWMQYL1bqfkX-15" value="Add Response for Quality Assurance for Wrap-up checklist&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" vertex="1" parent="1">
+        <mxCell id="U4BX0acDSWMQYL1bqfkX-15" value="Add Response for Quality Assurance for Wrap-up checklist&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="1555" y="-6560" width="200" height="60" as="geometry" />
         </mxCell>
       </root>
