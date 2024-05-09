@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-09T05:26:04.227Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="AjYUy6TcLJnfk8AgbhK6" version="24.3.1" type="github" pages="28">
+<mxfile host="app.diagrams.net" modified="2024-05-09T05:30:48.474Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="67vNWAsgh_OMbR7eJw7B" version="24.3.1" type="github" pages="28">
   <diagram id="rfpji_oR26iXnu8gp6y1" name="Level 0">
     <mxGraphModel dx="1434" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1797,84 +1797,87 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Awzx4FFqESrrTiKwuCj9-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Awzx4FFqESrrTiKwuCj9-2" target="Awzx4FFqESrrTiKwuCj9-5" edge="1">
+        <mxCell id="Awzx4FFqESrrTiKwuCj9-1" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Awzx4FFqESrrTiKwuCj9-2" target="Awzx4FFqESrrTiKwuCj9-5" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-1640" y="-11540" as="targetPoint" />
+            <mxPoint x="-2670" y="-11570" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <UserObject label="Start" link="data:page/id,-kxxWb5hBgzSHtg66tbn" id="Awzx4FFqESrrTiKwuCj9-2">
-          <mxCell style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-            <mxGeometry x="-1790" y="-11580" width="80" height="80" as="geometry" />
+          <mxCell style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;rounded=1;" parent="1" vertex="1">
+            <mxGeometry x="-2820" y="-11610" width="80" height="80" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="Awzx4FFqESrrTiKwuCj9-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Awzx4FFqESrrTiKwuCj9-5" target="Awzx4FFqESrrTiKwuCj9-7" edge="1">
+        <mxCell id="Awzx4FFqESrrTiKwuCj9-3" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Awzx4FFqESrrTiKwuCj9-5" target="Awzx4FFqESrrTiKwuCj9-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Awzx4FFqESrrTiKwuCj9-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Awzx4FFqESrrTiKwuCj9-5" target="Awzx4FFqESrrTiKwuCj9-11" edge="1">
+        <mxCell id="Awzx4FFqESrrTiKwuCj9-4" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Awzx4FFqESrrTiKwuCj9-5" target="Awzx4FFqESrrTiKwuCj9-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Awzx4FFqESrrTiKwuCj9-5" value="Add Assign Independent Manager by Audit Manger" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-1650" y="-11570" width="150" height="60" as="geometry" />
+        <mxCell id="Awzx4FFqESrrTiKwuCj9-5" value="Add Assign Independent Manager by Audit Manger" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="-2680" y="-11600" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Awzx4FFqESrrTiKwuCj9-7" value="View Assigned Manager By Audit Manager&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-1650" y="-11480" width="150" height="80" as="geometry" />
+        <mxCell id="Awzx4FFqESrrTiKwuCj9-7" value="View Assigned Manager By Audit Manager&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="-2680" y="-11510" width="150" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Awzx4FFqESrrTiKwuCj9-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="Awzx4FFqESrrTiKwuCj9-11" edge="1">
+        <mxCell id="Awzx4FFqESrrTiKwuCj9-9" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="Awzx4FFqESrrTiKwuCj9-11" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-1375" y="-11480" as="targetPoint" />
+            <mxPoint x="-2405" y="-11510" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Awzx4FFqESrrTiKwuCj9-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="Awzx4FFqESrrTiKwuCj9-11" edge="1">
+        <mxCell id="Awzx4FFqESrrTiKwuCj9-10" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="Awzx4FFqESrrTiKwuCj9-11" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-1250" y="-11540" as="targetPoint" />
+            <mxPoint x="-2280" y="-11570" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Awzx4FFqESrrTiKwuCj9-11" value="Add Assign EGP Workspace to independent manager by Audit Manager" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-1450" y="-11570" width="150" height="60" as="geometry" />
+        <mxCell id="Awzx4FFqESrrTiKwuCj9-11" value="Add Assign EGP Workspace to independent manager by Audit Manager" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="-2480" y="-11600" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Awzx4FFqESrrTiKwuCj9-12" value="View Assign eGP Workspace" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-1450" y="-11480" width="150" height="80" as="geometry" />
+        <mxCell id="Awzx4FFqESrrTiKwuCj9-12" value="View Assign eGP Workspace" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="-2480" y="-11510" width="150" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Awzx4FFqESrrTiKwuCj9-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
+        <mxCell id="Awzx4FFqESrrTiKwuCj9-13" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-1375" y="-11370" as="targetPoint" />
-            <mxPoint x="-1375" y="-11400" as="sourcePoint" />
+            <mxPoint x="-2405" y="-11400" as="targetPoint" />
+            <mxPoint x="-2405" y="-11430" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Awzx4FFqESrrTiKwuCj9-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="Awzx4FFqESrrTiKwuCj9-16" edge="1">
+        <mxCell id="Awzx4FFqESrrTiKwuCj9-15" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="Awzx4FFqESrrTiKwuCj9-16" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-1050" y="-11540" as="targetPoint" />
+            <mxPoint x="-2080" y="-11570" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Awzx4FFqESrrTiKwuCj9-16" value="View Audit Planning QA Checklist by Audit Manager&lt;br&gt;Data Coming from Audit Planning QA Checklist" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-1250" y="-11570" width="150" height="60" as="geometry" />
+        <mxCell id="Awzx4FFqESrrTiKwuCj9-16" value="View Audit Planning QA Checklist by Audit Manager&lt;br&gt;Data Coming from Audit Planning QA Checklist" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="-2280" y="-11600" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Awzx4FFqESrrTiKwuCj9-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" edge="1">
+        <mxCell id="Awzx4FFqESrrTiKwuCj9-17" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-1175" y="-11480" as="targetPoint" />
-            <mxPoint x="-1175" y="-11510" as="sourcePoint" />
+            <mxPoint x="-2205" y="-11510" as="targetPoint" />
+            <mxPoint x="-2205" y="-11540" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Awzx4FFqESrrTiKwuCj9-18" value="View Field work QA Checklist by Audit Manager&lt;br&gt;Data Coming from Field Work" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-1250" y="-11480" width="150" height="80" as="geometry" />
+        <mxCell id="Awzx4FFqESrrTiKwuCj9-18" value="View Field work QA Checklist by Audit Manager&lt;br&gt;Data Coming from Field Work" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="-2280" y="-11510" width="150" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Awzx4FFqESrrTiKwuCj9-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
+        <mxCell id="Awzx4FFqESrrTiKwuCj9-19" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-1175" y="-11370" as="targetPoint" />
-            <mxPoint x="-1175" y="-11400" as="sourcePoint" />
+            <mxPoint x="-2205" y="-11400" as="targetPoint" />
+            <mxPoint x="-2205" y="-11430" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Awzx4FFqESrrTiKwuCj9-28" value="Approve/Reject by&lt;div&gt;Audit Manager&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-1450" y="-11370" width="150" height="80" as="geometry" />
+        <mxCell id="Awzx4FFqESrrTiKwuCj9-28" value="Approve/Reject by&lt;div&gt;Audit Manager&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="-2480" y="-11400" width="150" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="KEHHnni72__1aF20Fvul-3" value="&lt;br&gt;&lt;span style=&quot;color: rgb(13, 13, 13); font-family: Söhne, ui-sans-serif, system-ui, -apple-system, &amp;quot;Segoe UI&amp;quot;, Roboto, Ubuntu, Cantarell, &amp;quot;Noto Sans&amp;quot;, sans-serif, &amp;quot;Helvetica Neue&amp;quot;, Arial, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: pre-wrap; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;&lt;br/&gt;Independent Manager provided a review for the Audit Manager’s evaluation&lt;/span&gt;&lt;br style=&quot;forced-color-adjust: none; color: rgb(13, 13, 13); font-family: Söhne, ui-sans-serif, system-ui, -apple-system, &amp;quot;Segoe UI&amp;quot;, Roboto, Ubuntu, Cantarell, &amp;quot;Noto Sans&amp;quot;, sans-serif, &amp;quot;Helvetica Neue&amp;quot;, Arial, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: pre-wrap; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-1250" y="-11370" width="150" height="90" as="geometry" />
+        <mxCell id="KEHHnni72__1aF20Fvul-3" value="&lt;div&gt;&lt;div&gt;Independent Manager Provide an review for the Audit Manager&#39;s evaluation&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="-2280" y="-11400" width="150" height="90" as="geometry" />
         </mxCell>
         <UserObject label="Next Tab" link="data:page/id,sdMOebaKiwu9kHxDvi5m" id="KEHHnni72__1aF20Fvul-5">
-          <mxCell style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-            <mxGeometry x="-1050" y="-11580" width="80" height="80" as="geometry" />
+          <mxCell style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;gradientColor=#ea6b66;rounded=1;" parent="1" vertex="1">
+            <mxGeometry x="-2080" y="-11610" width="80" height="80" as="geometry" />
           </mxCell>
         </UserObject>
+        <mxCell id="DKSBEek3FmE08wI7L8hK-1" value="Assign Independent Manager in-charge" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-2680" y="-11690" width="510" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
