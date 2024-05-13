@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-13T12:04:30.473Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="fJjemQOir8DhxFTl2145" version="24.4.0" type="github" pages="31">
+<mxfile host="app.diagrams.net" modified="2024-05-13T12:07:40.853Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="_TcB2TVFwAlg42-KuMCI" version="24.4.0" type="github" pages="31">
   <diagram id="rfpji_oR26iXnu8gp6y1" name="Level 0">
     <mxGraphModel dx="1434" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -2030,14 +2030,11 @@
         <mxCell id="Awzx4FFqESrrTiKwuCj9-11" value="&amp;nbsp;Assign EGP Workspace to independent manager by Audit Manager" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="-2480" y="-11600" width="150" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="3RZ10cWx3VF6Ml2XAtOW-5" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Awzx4FFqESrrTiKwuCj9-12" target="3RZ10cWx3VF6Ml2XAtOW-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Awzx4FFqESrrTiKwuCj9-12" value="View Assign eGP Workspace" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="-2480" y="-11510" width="150" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="Awzx4FFqESrrTiKwuCj9-13" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-2405" y="-11400" as="targetPoint" />
-            <mxPoint x="-2405" y="-11430" as="sourcePoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="ri_2Jwk-Q6t7L0Dg4NMO-1" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Awzx4FFqESrrTiKwuCj9-16" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -2062,8 +2059,8 @@
             <mxPoint x="-2205" y="-11430" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Awzx4FFqESrrTiKwuCj9-28" value="Approve/Reject by&lt;div&gt;Audit Manager&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="-2480" y="-11400" width="150" height="80" as="geometry" />
+        <mxCell id="Awzx4FFqESrrTiKwuCj9-28" value="View independent manager Page" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="-2485" y="-11180" width="160" height="70" as="geometry" />
         </mxCell>
         <mxCell id="KEHHnni72__1aF20Fvul-3" value="&lt;div&gt;&lt;div&gt;Independent Manager Provide an review for the Audit Manager&#39;s evaluation&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="-2280" y="-11400" width="150" height="90" as="geometry" />
@@ -2075,6 +2072,27 @@
         </UserObject>
         <mxCell id="DKSBEek3FmE08wI7L8hK-1" value="Assign Independent Manager in-charge" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="-2680" y="-11690" width="510" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3RZ10cWx3VF6Ml2XAtOW-8" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="3RZ10cWx3VF6Ml2XAtOW-4" target="Awzx4FFqESrrTiKwuCj9-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3RZ10cWx3VF6Ml2XAtOW-9" value="&lt;b&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;YES&lt;/font&gt;&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rounded=1;" vertex="1" connectable="0" parent="3RZ10cWx3VF6Ml2XAtOW-8">
+          <mxGeometry x="-0.2833" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3RZ10cWx3VF6Ml2XAtOW-10" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3RZ10cWx3VF6Ml2XAtOW-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-2580" y="-11350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3RZ10cWx3VF6Ml2XAtOW-11" value="NO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rounded=1;fontStyle=1" vertex="1" connectable="0" parent="3RZ10cWx3VF6Ml2XAtOW-10">
+          <mxGeometry x="0.0633" y="-5" relative="1" as="geometry">
+            <mxPoint y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3RZ10cWx3VF6Ml2XAtOW-4" value="Approval" style="rhombus;whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-2445" y="-11390" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
