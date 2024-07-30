@@ -14,9 +14,11 @@
             <mxGeometry x="180" y="201" width="120" height="120" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="BG6Rimkldp5BvIk_DR4n-2" value="Stage Gate Findings" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="340" y="201" width="120" height="120" as="geometry" />
-        </mxCell>
+        <UserObject label="Stage Gate Findings" link="data:page/id,nSh5L9Dfexr2OT67duSg" id="BG6Rimkldp5BvIk_DR4n-2">
+          <mxCell style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+            <mxGeometry x="340" y="201" width="120" height="120" as="geometry" />
+          </mxCell>
+        </UserObject>
         <mxCell id="BG6Rimkldp5BvIk_DR4n-3" value="Audit Executional reporting" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="500" y="201" width="120" height="120" as="geometry" />
         </mxCell>
