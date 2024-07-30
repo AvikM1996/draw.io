@@ -116,7 +116,7 @@
           <mxGeometry x="60" y="240" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PSU0vVQinf3GKAvsjEEs-2" value="Add More" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="240" y="240" width="120" height="40" as="geometry" />
+          <mxGeometry x="260" y="240" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PSU0vVQinf3GKAvsjEEs-4" value="Upload" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="590" y="395" width="120" height="40" as="geometry" />
