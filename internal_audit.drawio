@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.6" pages="3">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.6" pages="4">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Assessment">
     <mxGraphModel dx="1050" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -161,6 +161,38 @@
         </mxCell>
         <mxCell id="7ohmYXs3YFXAAWQsKNOj-28" value="Agenda 3" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="7ohmYXs3YFXAAWQsKNOj-25">
           <mxGeometry y="78" width="200" height="26" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="nSh5L9Dfexr2OT67duSg" name="Stage Gate Findings">
+    <mxGraphModel dx="1050" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="LVV3OPDkfDLosCwYrZbk-1" value="Stage Gate Findings" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="280" y="41" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LVV3OPDkfDLosCwYrZbk-3" value="No Of RFI Documents" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="70" y="120" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LVV3OPDkfDLosCwYrZbk-5" value="Approved Documents" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="340" y="120" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LVV3OPDkfDLosCwYrZbk-6" value="Rejected Documents" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="580" y="120" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LVV3OPDkfDLosCwYrZbk-7" value="Audit Planning QA Checklist" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="308" y="218" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LVV3OPDkfDLosCwYrZbk-8" value="Questions" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="280" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LVV3OPDkfDLosCwYrZbk-9" value="Response" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="280" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LVV3OPDkfDLosCwYrZbk-10" value="Additional Remark" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="280" width="200" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
