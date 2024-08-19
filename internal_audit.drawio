@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" modified="2024-08-19T11:22:54.932Z" version="24.4.3" etag="rH3bs9jJWXqLDwzLEdTB" type="github" pages="7">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" modified="2024-08-19T11:23:55.725Z" version="24.4.3" etag="pFDexb6_xAuwt73fQIyx" type="github" pages="7">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Assessment" />
   <diagram id="uK43qoGTz_9enEdZ_2Un" name="Initiation">
     <mxGraphModel dx="1050" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
@@ -304,7 +304,7 @@
           <mxGeometry x="367" y="524" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="quWu4EKj2RXeNfxkY3S_-46" value="Edit / Delete" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="481" y="524" width="90" height="30" as="geometry" />
+          <mxGeometry x="466" y="524" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hfV0lHo1h7KebUp1SEu5-1" value="Planning Start date" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="260" width="320" height="40" as="geometry" />
@@ -326,9 +326,6 @@
         </mxCell>
         <mxCell id="oYluXzfJnwvjlgZU0iEg-3" value="Assessment" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="oYluXzfJnwvjlgZU0iEg-1">
           <mxGeometry x="20" y="73" width="80" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="oYluXzfJnwvjlgZU0iEg-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="quWu4EKj2RXeNfxkY3S_-40" target="quWu4EKj2RXeNfxkY3S_-11">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="oYluXzfJnwvjlgZU0iEg-5" value="&lt;font color=&quot;#64b964&quot;&gt;In-Progress&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="585" y="488" width="90" height="30" as="geometry" />
