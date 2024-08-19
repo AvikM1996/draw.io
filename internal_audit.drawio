@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" modified="2024-08-19T11:40:53.416Z" version="24.4.3" etag="F4NFq8lcedchmmbcEaiU" type="github" pages="7">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" modified="2024-08-19T11:42:42.351Z" version="24.4.3" etag="p7-rDUBzE5goJgNzQitf" type="github" pages="7">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Assessment" />
   <diagram id="uK43qoGTz_9enEdZ_2Un" name="Initiation">
     <mxGraphModel dx="1050" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
@@ -378,22 +378,13 @@
           <mxGeometry x="110" y="270" width="15" height="20" as="geometry" />
         </mxCell>
         <mxCell id="j5JD_HJO36kL48g0M03h-6" value="Approved" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="330" y="230" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="j5JD_HJO36kL48g0M03h-7" value="Approved" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="330" y="260" width="60" height="30" as="geometry" />
+          <mxGeometry x="335" y="205" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="j5JD_HJO36kL48g0M03h-8" value="Kimberly" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="480" y="230" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="j5JD_HJO36kL48g0M03h-9" value="Kimberly" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="480" y="260" width="60" height="30" as="geometry" />
+          <mxGeometry x="470" y="210" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="j5JD_HJO36kL48g0M03h-10" value="Lee" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="640" y="230" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="j5JD_HJO36kL48g0M03h-11" value="Lee" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="640" y="260" width="60" height="30" as="geometry" />
+          <mxGeometry x="635" y="210" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="j5JD_HJO36kL48g0M03h-12" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Folder_Blank.svg;" vertex="1" parent="1">
           <mxGeometry x="85.35" y="340" width="24.64" height="20" as="geometry" />
