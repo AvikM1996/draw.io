@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" modified="2024-08-19T11:24:18.385Z" version="24.4.3" etag="eGGmbtHqLee88lWKOYA8" type="github" pages="7">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" modified="2024-08-19T11:30:09.890Z" version="24.4.3" etag="GjlQS1QKyajBS7M_bdYM" type="github" pages="7">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Assessment" />
   <diagram id="uK43qoGTz_9enEdZ_2Un" name="Initiation">
     <mxGraphModel dx="1050" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
@@ -362,7 +362,7 @@
         <mxCell id="Xft2bvT6wRybdQu46eFT-1" value="Status" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="202.5" width="90" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="Xft2bvT6wRybdQu46eFT-2" value="Preperar" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Xft2bvT6wRybdQu46eFT-2" value="Preparer" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="200" width="90" height="25" as="geometry" />
         </mxCell>
         <mxCell id="Xft2bvT6wRybdQu46eFT-3" value="Reviewer" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
