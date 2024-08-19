@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" modified="2024-08-19T12:55:43.616Z" version="24.4.3" etag="x5K17D0scI2HLcDh6qS2" type="github" pages="7">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" modified="2024-08-19T12:55:51.586Z" version="24.4.3" etag="-AKu2bRyE-3BwTLZAGas" type="github" pages="7">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Assessment" />
   <diagram id="uK43qoGTz_9enEdZ_2Un" name="Initiation">
     <mxGraphModel dx="1050" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
@@ -482,7 +482,7 @@
           <mxGeometry x="152.67" y="200" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xF6-Nqdn-ilc6JlbhmUp-2" value="Add Folder&lt;br&gt;Add Procedure&lt;br&gt;Add document&lt;br&gt;Add Risk&lt;br&gt;add control" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="70" y="10" width="90" height="90" as="geometry" />
+          <mxGeometry x="70" y="10" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="xF6-Nqdn-ilc6JlbhmUp-3" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="xF6-Nqdn-ilc6JlbhmUp-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
