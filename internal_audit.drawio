@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" modified="2024-08-19T12:13:33.032Z" version="24.4.3" etag="UCWopjgdKbJKfbllg-Ga" type="github" pages="7">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" modified="2024-08-19T12:39:21.538Z" version="24.4.3" etag="mxXqY3M0_yvRr0kP5hT9" type="github" pages="7">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Assessment" />
   <diagram id="uK43qoGTz_9enEdZ_2Un" name="Initiation">
     <mxGraphModel dx="1050" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
@@ -242,25 +242,25 @@
           <mxGeometry x="80" y="80" width="280" height="40" as="geometry" />
         </mxCell>
         <mxCell id="quWu4EKj2RXeNfxkY3S_-3" value="Entity" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="80" width="320" height="40" as="geometry" />
+          <mxGeometry x="480" y="80" width="280" height="40" as="geometry" />
         </mxCell>
         <mxCell id="quWu4EKj2RXeNfxkY3S_-4" value="Group" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="140" width="280" height="40" as="geometry" />
         </mxCell>
         <mxCell id="quWu4EKj2RXeNfxkY3S_-5" value="Department" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="140" width="320" height="40" as="geometry" />
+          <mxGeometry x="480" y="140" width="280" height="40" as="geometry" />
         </mxCell>
         <mxCell id="quWu4EKj2RXeNfxkY3S_-6" value="Assessment Date" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="260" width="280" height="40" as="geometry" />
         </mxCell>
         <mxCell id="quWu4EKj2RXeNfxkY3S_-7" value="Sub Process" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="200" width="320" height="40" as="geometry" />
+          <mxGeometry x="480" y="200" width="280" height="40" as="geometry" />
         </mxCell>
         <mxCell id="quWu4EKj2RXeNfxkY3S_-8" value="Process" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="200" width="280" height="40" as="geometry" />
         </mxCell>
         <mxCell id="quWu4EKj2RXeNfxkY3S_-11" value="Submit" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="400" y="390" width="120" height="40" as="geometry" />
+          <mxGeometry x="364" y="390" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="quWu4EKj2RXeNfxkY3S_-12" value="Pool" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;horizontal=0;horizontalStack=1;" vertex="1" parent="1">
           <mxGeometry x="76" y="456" width="380" height="304" as="geometry">
@@ -307,16 +307,13 @@
           <mxGeometry x="466" y="524" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hfV0lHo1h7KebUp1SEu5-1" value="Planning Start date" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="260" width="320" height="40" as="geometry" />
+          <mxGeometry x="480" y="260" width="280" height="40" as="geometry" />
         </mxCell>
         <mxCell id="hfV0lHo1h7KebUp1SEu5-2" value="Planning End Date" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="320" width="280" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="hfV0lHo1h7KebUp1SEu5-3" value="Choose Risk" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="320" width="320" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="aVqowr16T1entpu4-G65-1" value="Tag Users who will be the stakeholders" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="390" width="280" height="40" as="geometry" />
+          <mxGeometry x="480" y="320" width="280" height="40" as="geometry" />
         </mxCell>
         <mxCell id="oYluXzfJnwvjlgZU0iEg-1" value="" style="swimlane;startSize=20;" vertex="1" parent="1">
           <mxGeometry x="696" y="456" width="104" height="304" as="geometry" />
