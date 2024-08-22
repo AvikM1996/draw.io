@@ -41,7 +41,7 @@
           <mxGeometry x="440" y="320" width="280" height="40" as="geometry" />
         </mxCell>
         <mxCell id="LlDZ29YzTJW45Z62XU3m-1" value="Estimated End Date" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="400" width="280" height="40" as="geometry" />
+          <mxGeometry x="120" y="380" width="280" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
