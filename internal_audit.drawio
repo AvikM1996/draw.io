@@ -58,13 +58,13 @@
         <mxCell id="LlDZ29YzTJW45Z62XU3m-11" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
           <mxGeometry x="121" y="637" width="609" height="441" as="geometry" />
         </mxCell>
-        <mxCell id="LlDZ29YzTJW45Z62XU3m-14" value="Select Role" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="LlDZ29YzTJW45Z62XU3m-11">
+        <mxCell id="LlDZ29YzTJW45Z62XU3m-14" value="Select Role" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;" vertex="1" parent="LlDZ29YzTJW45Z62XU3m-11">
           <mxGeometry x="39" y="41" width="281" height="39" as="geometry" />
         </mxCell>
         <mxCell id="I2n8rQtKtNGn2wK2C0k2-1" value="Save Users" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="LlDZ29YzTJW45Z62XU3m-11">
           <mxGeometry x="400" y="40" width="99" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="LlDZ29YzTJW45Z62XU3m-16" value="User List" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LlDZ29YzTJW45Z62XU3m-16" value="User List" style="swimlane;whiteSpace=wrap;html=1;glass=1;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="760" width="530" height="240" as="geometry" />
         </mxCell>
         <mxCell id="I2n8rQtKtNGn2wK2C0k2-2" value="" style="dashed=0;labelPosition=right;align=left;shape=mxgraph.gmdl.checkbox;strokeColor=none;fillColor=#009587;strokeWidth=2;aspect=fixed;sketch=0;html=1;" vertex="1" parent="LlDZ29YzTJW45Z62XU3m-16">
