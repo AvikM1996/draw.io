@@ -4,8 +4,8 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="quWu4EKj2RXeNfxkY3S_-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Internal Audit Assessment&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="290" y="15" width="250" height="40" as="geometry" />
+        <mxCell id="quWu4EKj2RXeNfxkY3S_-1" value="&lt;p style=&quot;line-height: 120%;&quot;&gt;&lt;sup&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;Internal Audit Assessment&lt;/b&gt;&lt;/font&gt;&lt;/sup&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="310" y="5" width="210" height="60" as="geometry" />
         </mxCell>
         <mxCell id="quWu4EKj2RXeNfxkY3S_-2" value="Assessment Title" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="120" y="80" width="280" height="40" as="geometry" />
@@ -29,7 +29,7 @@
           <mxGeometry x="120" y="200" width="280" height="40" as="geometry" />
         </mxCell>
         <mxCell id="quWu4EKj2RXeNfxkY3S_-11" value="Submit" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="355" y="520" width="120" height="40" as="geometry" />
+          <mxGeometry x="440" y="380" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="hfV0lHo1h7KebUp1SEu5-1" value="Planning Start date" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="440" y="260" width="280" height="40" as="geometry" />
@@ -42,6 +42,12 @@
         </mxCell>
         <mxCell id="LlDZ29YzTJW45Z62XU3m-1" value="Estimated End Date" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="380" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LlDZ29YzTJW45Z62XU3m-2" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="481" width="600" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="LlDZ29YzTJW45Z62XU3m-3" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Add Role And Stake Holders&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="330" y="440" width="200" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
