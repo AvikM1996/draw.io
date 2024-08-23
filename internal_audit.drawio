@@ -663,7 +663,7 @@
           <mxGeometry x="433" y="475" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2paDdwkPMXPAEkka5Azf-63" value="Upload Document" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="470" width="280" height="35" as="geometry" />
+          <mxGeometry x="520" y="470" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2paDdwkPMXPAEkka5Azf-64" value="Status" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="420" y="530" width="60" height="30" as="geometry" />
@@ -688,6 +688,9 @@
         </mxCell>
         <mxCell id="2paDdwkPMXPAEkka5Azf-73" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/ilb/Cute%20Ball%20-%20Stop.png" vertex="1" parent="1">
           <mxGeometry x="780" y="195" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VLRPGzakthxPqZQtHKqa-3" value="Download Document" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="470" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
