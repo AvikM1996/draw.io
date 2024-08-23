@@ -660,25 +660,25 @@
           <mxGeometry x="521" y="400" width="280" height="35" as="geometry" />
         </mxCell>
         <mxCell id="2paDdwkPMXPAEkka5Azf-62" value="Attachment" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="433" y="475" width="60" height="30" as="geometry" />
+          <mxGeometry x="433" y="528" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2paDdwkPMXPAEkka5Azf-63" value="Upload Document" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="470" width="130" height="30" as="geometry" />
+          <mxGeometry x="520" y="523" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2paDdwkPMXPAEkka5Azf-64" value="Status" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="420" y="530" width="60" height="30" as="geometry" />
+          <mxGeometry x="420" y="583" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2paDdwkPMXPAEkka5Azf-65" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.radioButton2;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;gradientColor=#DEDEDE;fillColor=#EDEDED;checked=0;spacing=5;checkedFill=#0085FC;checkedStroke=#ffffff;sketch=0;" vertex="1" parent="1">
-          <mxGeometry x="519" y="538" width="10" height="10" as="geometry" />
+          <mxGeometry x="519" y="591" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="2paDdwkPMXPAEkka5Azf-66" value="Approved" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="540" y="528" width="60" height="30" as="geometry" />
+          <mxGeometry x="540" y="581" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2paDdwkPMXPAEkka5Azf-67" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.radioButton2;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;gradientColor=#DEDEDE;fillColor=#EDEDED;checked=0;spacing=5;checkedFill=#0085FC;checkedStroke=#ffffff;sketch=0;" vertex="1" parent="1">
-          <mxGeometry x="626" y="536" width="10" height="10" as="geometry" />
+          <mxGeometry x="626" y="589" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="2paDdwkPMXPAEkka5Azf-68" value="Rejected" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="650" y="528" width="60" height="30" as="geometry" />
+          <mxGeometry x="650" y="581" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2paDdwkPMXPAEkka5Azf-71" value="" style="line;strokeWidth=2;direction=south;html=1;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="385" y="185" width="10" height="475" as="geometry" />
@@ -690,7 +690,13 @@
           <mxGeometry x="780" y="195" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="VLRPGzakthxPqZQtHKqa-3" value="Download Document" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="660" y="470" width="130" height="30" as="geometry" />
+          <mxGeometry x="660" y="523" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NToJC4vF7ApEF1O5G1g9-1" value="Remark" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="420" y="465" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NToJC4vF7ApEF1O5G1g9-2" value="Remark" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="519" y="455" width="270" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
