@@ -514,7 +514,10 @@
           <mxGeometry x="504" y="320" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="uOhcx5u7CqNSbvQBfSDI-1" value="Save As Template" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="202.67" y="135" width="147.33" height="40" as="geometry" />
+          <mxGeometry x="280" y="135" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8SZn4O_Kl9kdYfwA0ULm-1" value="Select From Template" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="190" y="135" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
