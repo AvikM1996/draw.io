@@ -359,9 +359,11 @@
         <mxCell id="4G88kxhAYub5XNpmVaVW-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="j5JD_HJO36kL48g0M03h-2" target="4G88kxhAYub5XNpmVaVW-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="j5JD_HJO36kL48g0M03h-2" value="Policy Document" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="130" y="235" width="110" height="30" as="geometry" />
-        </mxCell>
+        <UserObject label="Policy Document" link="data:page/id,16MJtpYuX5E9WxUxkaZx" id="j5JD_HJO36kL48g0M03h-2">
+          <mxCell style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
+            <mxGeometry x="130" y="235" width="110" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
         <mxCell id="j5JD_HJO36kL48g0M03h-4" value="Supplier Document" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="130" y="265" width="130" height="30" as="geometry" />
         </mxCell>
@@ -534,8 +536,8 @@
         <mxCell id="kKqngS-W5hVqnB1ilJ7p-6" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.document;" vertex="1" parent="1">
           <mxGeometry x="110" y="240" width="15" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="kKqngS-W5hVqnB1ilJ7p-8" value="Policy Document" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="130" y="235" width="110" height="30" as="geometry" />
+        <mxCell id="kKqngS-W5hVqnB1ilJ7p-8" value="&lt;font color=&quot;#000099&quot;&gt;&lt;b&gt;Policy Document&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="130" y="235" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kKqngS-W5hVqnB1ilJ7p-9" value="Supplier Document" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="130" y="265" width="130" height="30" as="geometry" />
