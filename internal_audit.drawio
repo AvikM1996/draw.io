@@ -513,6 +513,9 @@
         <mxCell id="4G88kxhAYub5XNpmVaVW-16" value="Send Notification for review to the reviewer selected from list" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="504" y="320" width="90" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="uOhcx5u7CqNSbvQBfSDI-1" value="Save As Template" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="202.67" y="135" width="147.33" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
