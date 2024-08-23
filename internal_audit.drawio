@@ -536,7 +536,7 @@
         <mxCell id="kKqngS-W5hVqnB1ilJ7p-6" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.document;" vertex="1" parent="1">
           <mxGeometry x="110" y="240" width="15" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="kKqngS-W5hVqnB1ilJ7p-8" value="&lt;font color=&quot;#000099&quot;&gt;&lt;b&gt;Policy Document&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="kKqngS-W5hVqnB1ilJ7p-8" value="&lt;font color=&quot;#000099&quot;&gt;&lt;b&gt;Policy Document&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="130" y="235" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kKqngS-W5hVqnB1ilJ7p-9" value="Supplier Document" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
