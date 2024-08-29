@@ -342,7 +342,7 @@
           <mxGeometry x="301" y="20" width="220" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kP437PVZPI5rc014agz3-2" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;" parent="1" vertex="1">
-          <mxGeometry x="35" y="880" width="765" height="760" as="geometry" />
+          <mxGeometry x="43" y="60" width="765" height="760" as="geometry" />
         </mxCell>
         <mxCell id="kP437PVZPI5rc014agz3-4" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-plus-circled-128.png" parent="1" vertex="1">
           <mxGeometry x="77.67" y="132" width="40" height="40" as="geometry" />
