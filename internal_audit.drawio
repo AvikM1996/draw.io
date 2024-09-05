@@ -763,7 +763,7 @@
           <mxGeometry x="150" y="278" width="480" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_qkfWPqLvbwGQ5PVh6vd-9" value="Generate logs for approver reviewer" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="560" y="421" width="230" height="140" as="geometry" />
+          <mxGeometry x="570" y="350" width="230" height="140" as="geometry" />
         </mxCell>
         <mxCell id="_qkfWPqLvbwGQ5PVh6vd-11" value="&lt;b&gt;Status For Reviewer&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="610" y="40" width="130" height="30" as="geometry" />
