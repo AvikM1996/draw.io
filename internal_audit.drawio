@@ -745,7 +745,7 @@
           <mxGeometry x="60" y="40" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_qkfWPqLvbwGQ5PVh6vd-2" value="&lt;b&gt;View all assessement&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="322" y="40" width="140" height="40" as="geometry" />
+          <mxGeometry x="340" y="40" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_qkfWPqLvbwGQ5PVh6vd-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="_qkfWPqLvbwGQ5PVh6vd-4" target="_qkfWPqLvbwGQ5PVh6vd-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -757,7 +757,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_qkfWPqLvbwGQ5PVh6vd-6" value="&lt;b&gt;Audit Owner can start audit and create steps and files/risk/control and add reviewer and approver respectively&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="5" y="441" width="260" height="100" as="geometry" />
+          <mxGeometry x="5" y="370" width="260" height="100" as="geometry" />
         </mxCell>
         <mxCell id="_qkfWPqLvbwGQ5PVh6vd-8" value="&lt;b&gt;Can stake holders have the provision to add folder/files/risk/control/procedure ?&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="150" y="278" width="480" height="30" as="geometry" />
