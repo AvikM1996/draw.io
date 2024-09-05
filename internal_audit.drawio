@@ -780,6 +780,9 @@
         <mxCell id="_qkfWPqLvbwGQ5PVh6vd-16" value="Reviewer can update the status against each file/procedure" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="470" y="178" width="340" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="_qkfWPqLvbwGQ5PVh6vd-17" value="&lt;b&gt;Who will send request for approval ?&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="153" y="298" width="230" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
