@@ -763,7 +763,7 @@
           <mxGeometry x="150" y="278" width="480" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_qkfWPqLvbwGQ5PVh6vd-9" value="Generate logs for approver reviewer" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="455" y="330" width="230" height="140" as="geometry" />
+          <mxGeometry x="560" y="421" width="230" height="140" as="geometry" />
         </mxCell>
         <mxCell id="_qkfWPqLvbwGQ5PVh6vd-11" value="&lt;b&gt;Status For Reviewer&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="610" y="40" width="130" height="30" as="geometry" />
@@ -778,7 +778,7 @@
           <mxGeometry x="623" y="126" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_qkfWPqLvbwGQ5PVh6vd-16" value="Reviewer can update the status against each file/procedure" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="470" y="178" width="340" height="30" as="geometry" />
+          <mxGeometry x="492" y="178" width="340" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_qkfWPqLvbwGQ5PVh6vd-17" value="&lt;b&gt;Who will send request for approval ?&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="153" y="298" width="230" height="30" as="geometry" />
