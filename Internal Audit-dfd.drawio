@@ -119,9 +119,11 @@
         <mxCell id="4LJZ-8LRhbdld25skiyS-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4LJZ-8LRhbdld25skiyS-3" target="4LJZ-8LRhbdld25skiyS-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4LJZ-8LRhbdld25skiyS-3" value="Process" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="180" width="120" height="60" as="geometry" />
-        </mxCell>
+        <UserObject label="Process" link="data:page/id,31UYarOva6cXcI_Zgr0n" id="4LJZ-8LRhbdld25skiyS-3">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="560" y="180" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
         <mxCell id="4LJZ-8LRhbdld25skiyS-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4LJZ-8LRhbdld25skiyS-5" target="UeLEDkNgYkZcjjaUTWpy-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -314,46 +316,60 @@
         </mxCell>
         <mxCell id="2Vut0dg3RfUo22UBc_cq-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2Vut0dg3RfUo22UBc_cq-4" target="2Vut0dg3RfUo22UBc_cq-7">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="250" y="230" as="targetPoint" />
+            <mxPoint x="250" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="2Vut0dg3RfUo22UBc_cq-4" value="START" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="80" y="170" width="80" height="80" as="geometry" />
+          <mxGeometry x="80" y="240" width="80" height="80" as="geometry" />
         </mxCell>
-        <UserObject label="END" link="data:page/id,Waiu-AX5xQFznSkMyZLT" id="2Vut0dg3RfUo22UBc_cq-5">
+        <UserObject label="END" link="data:page/id,q-6wA6z_GZjFhyr_emB-" id="2Vut0dg3RfUo22UBc_cq-5">
           <mxCell style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-            <mxGeometry x="390" y="290" width="80" height="80" as="geometry" />
+            <mxGeometry x="346" y="370" width="80" height="80" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="2Vut0dg3RfUo22UBc_cq-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="2Vut0dg3RfUo22UBc_cq-7" target="2Vut0dg3RfUo22UBc_cq-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2Vut0dg3RfUo22UBc_cq-7" value="All Audit Assessment" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="210" y="180" width="130" height="60" as="geometry" />
+        <mxCell id="2Vut0dg3RfUo22UBc_cq-7" value="Choose Template or&amp;nbsp;&lt;br&gt;set default template" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="210" y="250" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2Vut0dg3RfUo22UBc_cq-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="2Vut0dg3RfUo22UBc_cq-9" target="2Vut0dg3RfUo22UBc_cq-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2Vut0dg3RfUo22UBc_cq-9" value="Department" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="390" y="180" width="120" height="60" as="geometry" />
+        <mxCell id="2Vut0dg3RfUo22UBc_cq-9" value="(Optional)&lt;br&gt;Folder or steps Add and remove" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="250" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2Vut0dg3RfUo22UBc_cq-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2Vut0dg3RfUo22UBc_cq-11" target="2Vut0dg3RfUo22UBc_cq-13">
+        <mxCell id="DSiBf9rnqyBzozc4Rqqa-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2Vut0dg3RfUo22UBc_cq-11" target="DSiBf9rnqyBzozc4Rqqa-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2Vut0dg3RfUo22UBc_cq-11" value="Process" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="180" width="120" height="60" as="geometry" />
+        <UserObject label="Going to &lt;br&gt;Under step" id="2Vut0dg3RfUo22UBc_cq-11">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="540" y="250" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="DSiBf9rnqyBzozc4Rqqa-1" value="Assign Preparer and Reviewer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="215" y="140" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2Vut0dg3RfUo22UBc_cq-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="2Vut0dg3RfUo22UBc_cq-13" target="2Vut0dg3RfUo22UBc_cq-5">
+        <mxCell id="DSiBf9rnqyBzozc4Rqqa-2" value="Assign Preparer and Reviewer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DSiBf9rnqyBzozc4Rqqa-3" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="275" y="250" as="sourcePoint" />
+            <mxPoint x="274.5" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DSiBf9rnqyBzozc4Rqqa-6" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="436" y="251" as="sourcePoint" />
+            <mxPoint x="435.5" y="201" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hpAt8ALN-SnYvF7mhdpW-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="DSiBf9rnqyBzozc4Rqqa-7" target="2Vut0dg3RfUo22UBc_cq-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2Vut0dg3RfUo22UBc_cq-13" value="Risk&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="300" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="2Vut0dg3RfUo22UBc_cq-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="2Vut0dg3RfUo22UBc_cq-15" target="2Vut0dg3RfUo22UBc_cq-11">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="2Vut0dg3RfUo22UBc_cq-15" value="Add Preparer and Reviewer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="710" y="180" width="120" height="60" as="geometry" />
+        <mxCell id="DSiBf9rnqyBzozc4Rqqa-7" value="The reviewer or preparer can request a document, and the person responsible will receive an email with a link to upload the required document." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="380" width="220" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
