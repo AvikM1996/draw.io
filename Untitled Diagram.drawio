@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.7.17" pages="3">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.7.17" pages="4">
   <diagram name="Raise Non - Conformity" id="mW-6R9g2St-HQa-Gvcc2">
     <mxGraphModel dx="1434" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -115,6 +115,17 @@
         <mxCell id="1" parent="0" />
         <mxCell id="Ibg9jEnZcSWLd0fKTlPn-1" value="Audit Management System&#xa;├── User Roles and Permissions&#xa;│   ├── Auditors&#xa;│   │   ├── Raise Nonconformities&#xa;│   │   ├── Review Responses&#xa;│   │   └── Close Nonconformities&#xa;│   ├── Auditees&#xa;│   │   ├── Receive Findings&#xa;│   │   ├── Submit Justifications&#xa;│   │   ├── Root Cause Analysis&#xa;│   │   └── Corrective Action Plans&#xa;│   └── System Administrator&#xa;│       ├── Manage User Roles&#xa;│       ├── Manage Permissions&#xa;│       └── System Configuration&#xa;├── Audit Plan&#xa;│   ├── Audit Topics&#xa;│   ├── Required Resources&#xa;│   ├── Timings and Timescales&#xa;│   └── Audit Schedule&#xa;├── Nonconformity Management Module&#xa;│   ├── Raise Nonconformity&#xa;│   │   ├── Document Type and Severity&#xa;│   │   └── Attach Documents and Evidence&#xa;│   ├── Assign Nonconformity&#xa;│   │   ├── Assign to Department or Individual&#xa;│   │   └── Notify Assigned Auditee&#xa;├── Auditee Evaluation and Response Module&#xa;│   ├── Nonconformity Evaluation&#xa;│   │   ├── Accept Findings&#xa;│   │   └── Reject Findings with Justification&#xa;│   ├── Submit Root Cause Analysis&#xa;│   │   ├── Cause Classification&#xa;│   │   ├── Contributing Factors&#xa;│   │   └── Evidence Submission&#xa;├── Corrective Action Plan (CAP) Submission&#xa;│   ├── Submit CAP&#xa;│   │   ├── Actions to Resolve&#xa;│   │   ├── Responsible Person&#xa;│   │   └── Deadline (SMART Criteria)&#xa;│   ├── Approve CAP&#xa;│       ├── Auditor Review&#xa;│       └── Lock Approved CAP&#xa;├── Implementation Tracking&#xa;│   ├── Track Corrective Actions&#xa;│   └── Notifications and Reminders&#xa;├── Nonconformity Closure&#xa;│   ├── Verify Corrective Actions&#xa;│   │   ├── Mark as Closed&#xa;│   │   └── Reopen if Issues Persist&#xa;├── Reporting and Documentation&#xa;│   ├── Nonconformity Report Generation&#xa;│   ├── Audit Trail&#xa;│   └── Audit Findings Dashboard and Metrics" style="text;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="80" y="40" width="670" height="1050" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="lnwSR8R6jfKk9h6Ie3Bd" name="Audit Plan">
+    <mxGraphModel dx="1434" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="5NiqL5UEe9PYgALMx7hh-1" value="&lt;b&gt;&lt;font style=&quot;font-size: 23px;&quot;&gt;AUDIT PLAN&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="330" y="40" width="150" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
