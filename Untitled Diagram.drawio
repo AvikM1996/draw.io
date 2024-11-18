@@ -75,34 +75,34 @@
         <mxCell id="W_Hj_2ecLi17fZ0h97jI-10" value="&#xa;&lt;strong&gt;Comments/Notes&lt;/strong&gt; (Auditor’s observations and feedback on the response)&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="440" width="320" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="W_Hj_2ecLi17fZ0h97jI-22" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;&lt;b&gt;&lt;u&gt;COMPLETE NON-CONFORMITY&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="202" y="569" width="400" height="40" as="geometry" />
+        <mxCell id="W_Hj_2ecLi17fZ0h97jI-22" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;&lt;b&gt;&lt;u&gt;CLOSE NON-CONFORMITY&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="227" y="569" width="350" height="40" as="geometry" />
         </mxCell>
         <mxCell id="W_Hj_2ecLi17fZ0h97jI-23" value="&lt;li&gt;&lt;strong&gt;Nonconformity ID&lt;/strong&gt; (Auto-generated unique identifier)&lt;/li&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="42" y="626" width="320" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="W_Hj_2ecLi17fZ0h97jI-24" value="&lt;b&gt;Date Reviewed&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="W_Hj_2ecLi17fZ0h97jI-24" value="&lt;b&gt;Date Closed&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="482" y="626" width="320" height="40" as="geometry" />
         </mxCell>
         <mxCell id="W_Hj_2ecLi17fZ0h97jI-25" value="Auditor Name / ID" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="42" y="706" width="320" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="W_Hj_2ecLi17fZ0h97jI-26" value="&#xa;&lt;strong&gt;Response Status&lt;/strong&gt; (e.g., Accepted, Rejected, In Progress)&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="W_Hj_2ecLi17fZ0h97jI-26" value="&lt;br&gt;&lt;strong&gt;Verification Status&lt;/strong&gt; (e.g., Verified, Not Verified)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="482" y="707" width="320" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="W_Hj_2ecLi17fZ0h97jI-27" value="&#xa;Corrective Action Description&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="W_Hj_2ecLi17fZ0h97jI-27" value="&#xa;&lt;li&gt;&lt;strong&gt;Final Resolution Description&lt;/strong&gt; (A summary of how the nonconformity was resolved)&lt;/li&gt;&lt;li&gt;&lt;/li&gt;&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="42" y="776" width="320" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="W_Hj_2ecLi17fZ0h97jI-28" value="&#xa;Corrective Action Plan Due Date&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="W_Hj_2ecLi17fZ0h97jI-28" value="&#xa;&lt;strong&gt;Effectiveness of Action Verified&lt;/strong&gt; (Yes/No or how the effectiveness was verified)&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="482" y="777" width="320" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="W_Hj_2ecLi17fZ0h97jI-29" value="&#xa;&lt;strong&gt;Effectiveness of Action&lt;/strong&gt; (Was the corrective action effective in resolving the issue?)&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="W_Hj_2ecLi17fZ0h97jI-29" value="&#xa;&lt;strong&gt;Root Cause Addressed&lt;/strong&gt; (Yes/No – whether the root cause has been fully addressed)&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="42" y="866" width="320" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="W_Hj_2ecLi17fZ0h97jI-30" value="&#xa;&lt;strong&gt;Supporting Documentation&lt;/strong&gt; (Additional documents or evidence supporting the review)&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="W_Hj_2ecLi17fZ0h97jI-30" value="&#xa;&lt;strong&gt;Evidence of Resolution&lt;/strong&gt; (Attach any supporting documentation that shows resolution)&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="482" y="866" width="320" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="W_Hj_2ecLi17fZ0h97jI-31" value="&#xa;&lt;strong&gt;Comments/Notes&lt;/strong&gt; (Auditor’s observations and feedback on the response)&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="W_Hj_2ecLi17fZ0h97jI-31" value="&lt;br&gt;&lt;strong&gt;Comments/Feedback&lt;/strong&gt; (Final remarks from the auditor)&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="42" y="966" width="320" height="70" as="geometry" />
         </mxCell>
       </root>
