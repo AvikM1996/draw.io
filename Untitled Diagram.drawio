@@ -130,9 +130,11 @@
         <mxCell id="5NiqL5UEe9PYgALMx7hh-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5NiqL5UEe9PYgALMx7hh-3" target="5NiqL5UEe9PYgALMx7hh-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5NiqL5UEe9PYgALMx7hh-3" value="Audit Detail Plan" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="40" y="130" width="80" height="80" as="geometry" />
-        </mxCell>
+        <UserObject label="Audit Detail Plan" link="data:page/id,X6JPLGF5cvvDZSrAP-lK" id="5NiqL5UEe9PYgALMx7hh-3">
+          <mxCell style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+            <mxGeometry x="40" y="130" width="80" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
         <mxCell id="5NiqL5UEe9PYgALMx7hh-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5NiqL5UEe9PYgALMx7hh-4" target="5NiqL5UEe9PYgALMx7hh-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
