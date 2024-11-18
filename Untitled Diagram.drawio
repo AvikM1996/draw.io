@@ -25,6 +25,9 @@
         <mxCell id="CCrLASGQos-RDN-FPQm--3" value="&#xa;&lt;strong&gt;Severity/Impact&lt;/strong&gt; (e.g., Major, Minor, Critical)&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="271" width="320" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="CCrLASGQos-RDN-FPQm--4" value="&#xa;&lt;strong&gt;Evidence/Supporting Documents&lt;/strong&gt; (Attach evidence like photos, documents, or logs)&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="360" width="320" height="70" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
