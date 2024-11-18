@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.7.17" pages="6">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.7.17" pages="7">
   <diagram name="Raise Non - Conformity" id="mW-6R9g2St-HQa-Gvcc2">
     <mxGraphModel dx="1434" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -132,7 +132,7 @@
         </mxCell>
         <UserObject label="Audit Identify" link="data:page/id,X6JPLGF5cvvDZSrAP-lK" id="5NiqL5UEe9PYgALMx7hh-3">
           <mxCell style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-            <mxGeometry x="40" y="130" width="80" height="80" as="geometry" />
+            <mxGeometry x="80" y="130" width="80" height="80" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="5NiqL5UEe9PYgALMx7hh-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5NiqL5UEe9PYgALMx7hh-4" target="5NiqL5UEe9PYgALMx7hh-6">
@@ -140,23 +140,23 @@
         </mxCell>
         <UserObject label="Audit Topic" link="data:page/id,q2Vaeq3fhbAQ3BX79Ntj" id="5NiqL5UEe9PYgALMx7hh-4">
           <mxCell style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-            <mxGeometry x="180" y="130" width="80" height="80" as="geometry" />
+            <mxGeometry x="230" y="130" width="80" height="80" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="5NiqL5UEe9PYgALMx7hh-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5NiqL5UEe9PYgALMx7hh-6" target="5NiqL5UEe9PYgALMx7hh-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5NiqL5UEe9PYgALMx7hh-6" value="Required Resources" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="130" width="80" height="80" as="geometry" />
+          <mxGeometry x="370" y="130" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="5NiqL5UEe9PYgALMx7hh-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5NiqL5UEe9PYgALMx7hh-8" target="5NiqL5UEe9PYgALMx7hh-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5NiqL5UEe9PYgALMx7hh-8" value="Timing &amp;amp; Timescales" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="450" y="130" width="80" height="80" as="geometry" />
+          <mxGeometry x="520" y="130" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="5NiqL5UEe9PYgALMx7hh-10" value="Audit Schedule" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="590" y="130" width="80" height="80" as="geometry" />
+          <mxGeometry x="680" y="130" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -209,6 +209,38 @@
         </mxCell>
         <mxCell id="eNOKokHBGdDFROlR6HYI-5" value="Associated Document (Required / Optional)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="425" y="200" width="240" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="o5pFA6ptwTRjmg64uqGC" name="Required Resources">
+    <mxGraphModel dx="1434" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="E-sHhzWmIK0naYJYRtSK-1" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;REQUIRED RESOURCES&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="320" y="40" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="E-sHhzWmIK0naYJYRtSK-2" value="Personnel Required&lt;br&gt;Multi-select dropdown for selecting team members (auditors, technical experts, etc.)." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="100" width="680" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XKKasrAWKx0mt9vLgh9H-1" value="Document Name" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="240" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XKKasrAWKx0mt9vLgh9H-2" value="Document Category" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XKKasrAWKx0mt9vLgh9H-5" value="Responsible Department" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="240" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XKKasrAWKx0mt9vLgh9H-6" value="Purpose" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="240" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XKKasrAWKx0mt9vLgh9H-7" value="Deadline Date" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="240" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XKKasrAWKx0mt9vLgh9H-8" value="ADD MORE" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
+          <mxGeometry x="750" y="240" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
