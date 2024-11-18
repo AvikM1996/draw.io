@@ -210,12 +210,6 @@
         <mxCell id="eNOKokHBGdDFROlR6HYI-5" value="Associated Document (Required / Optional)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="425" y="200" width="240" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="eNOKokHBGdDFROlR6HYI-6" value="Additional Scope" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="320" width="240" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="eNOKokHBGdDFROlR6HYI-7" value="Audit Criteria&lt;br&gt;Text area for listing standards, policies, or regulations being assessed." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="425" y="320" width="240" height="60" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
