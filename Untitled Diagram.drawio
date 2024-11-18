@@ -113,7 +113,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Ibg9jEnZcSWLd0fKTlPn-1" value="Audit Management System&#xa;├── User Roles and Permissions&#xa;│   ├── Auditors&#xa;│   │   ├── Raise Nonconformities&#xa;│   │   ├── Review Responses&#xa;│   │   └── Close Nonconformities&#xa;│   ├── Auditees&#xa;│   │   ├── Receive Findings&#xa;│   │   ├── Submit Justifications&#xa;│   │   ├── Root Cause Analysis&#xa;│   │   └── Corrective Action Plans&#xa;│   └── System Administrator&#xa;│       ├── Manage User Roles&#xa;│       ├── Manage Permissions&#xa;│       └── System Configuration&#xa;├── Audit Plan&#xa;│   ├── Audit Topics&#xa;│   ├── Required Resources&#xa;│   ├── Timings and Timescales&#xa;│   └── Audit Schedule&#xa;├── Nonconformity Management Module&#xa;│   ├── Raise Nonconformity&#xa;│   │   ├── Document Type and Severity&#xa;│   │   └── Attach Documents and Evidence&#xa;│   ├── Assign Nonconformity&#xa;│   │   ├── Assign to Department or Individual&#xa;│   │   └── Notify Assigned Auditee&#xa;├── Auditee Evaluation and Response Module&#xa;│   ├── Nonconformity Evaluation&#xa;│   │   ├── Accept Findings&#xa;│   │   └── Reject Findings with Justification&#xa;│   ├── Submit Root Cause Analysis&#xa;│   │   ├── Cause Classification&#xa;│   │   ├── Contributing Factors&#xa;│   │   └── Evidence Submission&#xa;├── Corrective Action Plan (CAP) Submission&#xa;│   ├── Submit CAP&#xa;│   │   ├── Actions to Resolve&#xa;│   │   ├── Responsible Person&#xa;│   │   └── Deadline (SMART Criteria)&#xa;│   ├── Approve CAP&#xa;│       ├── Auditor Review&#xa;│       └── Lock Approved CAP&#xa;├── Implementation Tracking&#xa;│   ├── Track Corrective Actions&#xa;│   └── Notifications and Reminders&#xa;├── Nonconformity Closure&#xa;│   ├── Verify Corrective Actions&#xa;│   │   ├── Mark as Closed&#xa;│   │   └── Reopen if Issues Persist&#xa;├── Reporting and Documentation&#xa;│   ├── Nonconformity Report Generation&#xa;│   ├── Audit Trail&#xa;│   └── Audit Findings Dashboard and Metrics" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="Ibg9jEnZcSWLd0fKTlPn-1" value="Audit Management System&#xa;├── User Roles and Permissions&#xa;│   ├── Auditors&#xa;│   │   ├── Raise Nonconformities&#xa;│   │   ├── Review Responses&#xa;│   │   └── Close Nonconformities&#xa;│   ├── Auditees&#xa;│   │   ├── Receive Findings&#xa;│   │   ├── Submit Justifications&#xa;│   │   ├── Root Cause Analysis&#xa;│   │   └── Corrective Action Plans&#xa;│   └── System Administrator&#xa;│       ├── Manage User Roles&#xa;│       ├── Manage Permissions&#xa;│       └── System Configuration&#xa;├── Audit Plan&#xa;│   ├── Audit Topics&#xa;│   ├── Required Resources&#xa;│   ├── Timings and Timescales&#xa;│   └── Audit Schedule&#xa;├── Nonconformity Management Module&#xa;│   ├── Raise Nonconformity&#xa;│   │   ├── Document Type and Severity&#xa;│   │   └── Attach Documents and Evidence&#xa;│   ├── Assign Nonconformity&#xa;│   │   ├── Assign to Department or Individual&#xa;│   │   └── Notify Assigned Auditee&#xa;├── Auditee Evaluation and Response Module&#xa;│   ├── Nonconformity Evaluation&#xa;│   │   ├── Accept Findings&#xa;│   │   └── Reject Findings with Justification&#xa;│   ├── Submit Root Cause Analysis&#xa;│   │   ├── Cause Classification&#xa;│   │   ├── Contributing Factors&#xa;│   │   └── Evidence Submission&#xa;├── Corrective Action Plan (CAP) Submission&#xa;│   ├── Submit CAP&#xa;│   │   ├── Actions to Resolve&#xa;│   │   ├── Responsible Person&#xa;│   │   └── Deadline (SMART Criteria)&#xa;│   ├── Approve CAP&#xa;│       ├── Auditor Review&#xa;│       └── Lock Approved CAP&#xa;├── Implementation Tracking&#xa;│   ├── Track Corrective Actions&#xa;│   └── Notifications and Reminders&#xa;├── Nonconformity Closure&#xa;│   ├── Verify Corrective Actions&#xa;│   │   ├── Mark as Closed&#xa;│   │   └── Reopen if Issues Persist&#xa;├── Reporting and Documentation&#xa;│   ├── Nonconformity Report Generation&#xa;│   ├── Audit Trail&#xa;│   └── Audit Findings Dashboard and Metrics" style="text;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="80" y="40" width="670" height="1050" as="geometry" />
         </mxCell>
       </root>
@@ -124,38 +124,40 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="5NiqL5UEe9PYgALMx7hh-1" value="&lt;b&gt;&lt;font style=&quot;font-size: 23px;&quot;&gt;AUDIT PLAN&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="5NiqL5UEe9PYgALMx7hh-1" value="&lt;b&gt;&lt;font style=&quot;font-size: 23px;&quot;&gt;AUDIT PLAN&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="330" y="40" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="5NiqL5UEe9PYgALMx7hh-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5NiqL5UEe9PYgALMx7hh-3" target="5NiqL5UEe9PYgALMx7hh-4">
+        <mxCell id="5NiqL5UEe9PYgALMx7hh-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="5NiqL5UEe9PYgALMx7hh-3" target="5NiqL5UEe9PYgALMx7hh-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <UserObject label="Audit Identify" link="data:page/id,X6JPLGF5cvvDZSrAP-lK" id="5NiqL5UEe9PYgALMx7hh-3">
-          <mxCell style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxCell style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
             <mxGeometry x="80" y="130" width="80" height="80" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="5NiqL5UEe9PYgALMx7hh-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5NiqL5UEe9PYgALMx7hh-4" target="5NiqL5UEe9PYgALMx7hh-6">
+        <mxCell id="5NiqL5UEe9PYgALMx7hh-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="5NiqL5UEe9PYgALMx7hh-4" target="5NiqL5UEe9PYgALMx7hh-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <UserObject label="Audit Topic" link="data:page/id,q2Vaeq3fhbAQ3BX79Ntj" id="5NiqL5UEe9PYgALMx7hh-4">
-          <mxCell style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxCell style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
             <mxGeometry x="230" y="130" width="80" height="80" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="5NiqL5UEe9PYgALMx7hh-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5NiqL5UEe9PYgALMx7hh-6" target="5NiqL5UEe9PYgALMx7hh-8">
+        <mxCell id="5NiqL5UEe9PYgALMx7hh-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="5NiqL5UEe9PYgALMx7hh-6" target="5NiqL5UEe9PYgALMx7hh-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5NiqL5UEe9PYgALMx7hh-6" value="Required Resources" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="130" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="5NiqL5UEe9PYgALMx7hh-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5NiqL5UEe9PYgALMx7hh-8" target="5NiqL5UEe9PYgALMx7hh-10">
+        <UserObject label="Required Resources" link="data:page/id,o5pFA6ptwTRjmg64uqGC" id="5NiqL5UEe9PYgALMx7hh-6">
+          <mxCell style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+            <mxGeometry x="370" y="130" width="80" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="5NiqL5UEe9PYgALMx7hh-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="5NiqL5UEe9PYgALMx7hh-8" target="5NiqL5UEe9PYgALMx7hh-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5NiqL5UEe9PYgALMx7hh-8" value="Timing &amp;amp; Timescales" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="5NiqL5UEe9PYgALMx7hh-8" value="Timing &amp;amp; Timescales" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="520" y="130" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="5NiqL5UEe9PYgALMx7hh-10" value="Audit Schedule" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="5NiqL5UEe9PYgALMx7hh-10" value="Audit Schedule" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="680" y="130" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
@@ -218,29 +220,29 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="E-sHhzWmIK0naYJYRtSK-1" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;REQUIRED RESOURCES&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="320" y="40" width="200" height="30" as="geometry" />
+        <mxCell id="E-sHhzWmIK0naYJYRtSK-1" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;REQUIRED RESOURCES&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="426" y="40" width="200" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="E-sHhzWmIK0naYJYRtSK-2" value="Personnel Required&lt;br&gt;Multi-select dropdown for selecting team members (auditors, technical experts, etc.)." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="100" width="680" height="60" as="geometry" />
+        <mxCell id="E-sHhzWmIK0naYJYRtSK-2" value="Personnel Required&lt;br&gt;Multi-select dropdown for selecting team members (auditors, technical experts, etc.)." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="189" y="100" width="680" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="XKKasrAWKx0mt9vLgh9H-1" value="Document Name" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="240" width="110" height="60" as="geometry" />
+        <mxCell id="XKKasrAWKx0mt9vLgh9H-1" value="Document Name" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="98" y="240" width="110" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="XKKasrAWKx0mt9vLgh9H-2" value="Document Category" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="240" width="120" height="60" as="geometry" />
+        <mxCell id="XKKasrAWKx0mt9vLgh9H-2" value="Document Category" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="218" y="240" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="XKKasrAWKx0mt9vLgh9H-5" value="Responsible Department" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="240" width="150" height="60" as="geometry" />
+        <mxCell id="XKKasrAWKx0mt9vLgh9H-5" value="Responsible Department" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="348" y="240" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="XKKasrAWKx0mt9vLgh9H-6" value="Purpose" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="490" y="240" width="110" height="60" as="geometry" />
+        <mxCell id="XKKasrAWKx0mt9vLgh9H-6" value="Purpose" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="508" y="240" width="110" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="XKKasrAWKx0mt9vLgh9H-7" value="Deadline Date" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="610" y="240" width="110" height="60" as="geometry" />
+        <mxCell id="XKKasrAWKx0mt9vLgh9H-7" value="Deadline Date" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="628" y="240" width="110" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="XKKasrAWKx0mt9vLgh9H-8" value="ADD MORE" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
-          <mxGeometry x="750" y="240" width="120" height="60" as="geometry" />
+        <mxCell id="XKKasrAWKx0mt9vLgh9H-8" value="ADD MORE" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" parent="1" vertex="1">
+          <mxGeometry x="768" y="240" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
