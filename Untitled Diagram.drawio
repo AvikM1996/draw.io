@@ -66,17 +66,14 @@
         <mxCell id="W_Hj_2ecLi17fZ0h97jI-7" value="&#xa;Corrective Action Plan Due Date&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="271" width="320" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="W_Hj_2ecLi17fZ0h97jI-8" value="&#xa;&lt;strong&gt;Evidence/Supporting Documents&lt;/strong&gt; (Attach evidence like photos, documents, or logs)&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="W_Hj_2ecLi17fZ0h97jI-8" value="&#xa;&lt;strong&gt;Effectiveness of Action&lt;/strong&gt; (Was the corrective action effective in resolving the issue?)&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="360" width="320" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="W_Hj_2ecLi17fZ0h97jI-9" value="&#xa;&lt;strong&gt;Responsible Party&lt;/strong&gt; (Who is accountable for resolving the nonconformity&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="W_Hj_2ecLi17fZ0h97jI-9" value="&#xa;&lt;strong&gt;Supporting Documentation&lt;/strong&gt; (Additional documents or evidence supporting the review)&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="360" width="320" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="W_Hj_2ecLi17fZ0h97jI-10" value="&lt;strong&gt;Root Cause (if known)&lt;/strong&gt; (Preliminary identification of the underlying cause)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="W_Hj_2ecLi17fZ0h97jI-10" value="&#xa;&lt;strong&gt;Comments/Notes&lt;/strong&gt; (Auditor’s observations and feedback on the response)&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="460" width="320" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="W_Hj_2ecLi17fZ0h97jI-11" value="&#xa;&lt;strong&gt;Deadline for Corrective Action&lt;/strong&gt; (When the issue needs to be resolved by)&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="460" width="320" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
