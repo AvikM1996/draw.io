@@ -57,7 +57,7 @@
         <mxCell id="W_Hj_2ecLi17fZ0h97jI-4" value="Auditor Name / ID" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="200" width="320" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="W_Hj_2ecLi17fZ0h97jI-5" value="Non Conformity Description" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="W_Hj_2ecLi17fZ0h97jI-5" value="&#xa;&lt;strong&gt;Response Status&lt;/strong&gt; (e.g., Accepted, Rejected, In Progress)&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="201" width="320" height="40" as="geometry" />
         </mxCell>
         <mxCell id="W_Hj_2ecLi17fZ0h97jI-6" value="&#xa;&lt;strong&gt;Category of Nonconformity&lt;/strong&gt; (e.g., ISO standard violation, safety, compliance, quality, etc.)&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
