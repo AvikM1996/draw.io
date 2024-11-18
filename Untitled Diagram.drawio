@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.7.17" pages="5">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.7.17" pages="6">
   <diagram name="Raise Non - Conformity" id="mW-6R9g2St-HQa-Gvcc2">
     <mxGraphModel dx="1434" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -183,6 +183,35 @@
           <mxGeometry x="80" y="320" width="240" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zJ_UW1aUisLxtSNOeaRU-9" value="Audit Criteria&lt;br&gt;Text area for listing standards, policies, or regulations being assessed." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="425" y="320" width="240" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="q2Vaeq3fhbAQ3BX79Ntj" name="Audit Topic">
+    <mxGraphModel dx="1434" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="eNOKokHBGdDFROlR6HYI-1" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;AUDIT TOPIC&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="320" y="40" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eNOKokHBGdDFROlR6HYI-2" value="Audit Name" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="100" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eNOKokHBGdDFROlR6HYI-3" value="Audit Objective" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="425" y="100" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eNOKokHBGdDFROlR6HYI-4" value="Department" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="200" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eNOKokHBGdDFROlR6HYI-5" value="Process" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="425" y="200" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eNOKokHBGdDFROlR6HYI-6" value="Additional Scope" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="320" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eNOKokHBGdDFROlR6HYI-7" value="Audit Criteria&lt;br&gt;Text area for listing standards, policies, or regulations being assessed." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="425" y="320" width="240" height="60" as="geometry" />
         </mxCell>
       </root>
