@@ -31,7 +31,7 @@
         <mxCell id="CCrLASGQos-RDN-FPQm--6" value="&#xa;&lt;strong&gt;Responsible Party&lt;/strong&gt; (Who is accountable for resolving the nonconformity&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="360" width="320" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="CCrLASGQos-RDN-FPQm--7" value="&#xa;&lt;li&gt;&lt;strong&gt;Root Cause (if known)&lt;/strong&gt; (Preliminary identification of the underlying cause)&lt;/li&gt;&lt;li&gt;&lt;/li&gt;&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="CCrLASGQos-RDN-FPQm--7" value="&lt;strong&gt;Root Cause (if known)&lt;/strong&gt; (Preliminary identification of the underlying cause)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="460" width="320" height="70" as="geometry" />
         </mxCell>
       </root>
