@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="24.8.6" pages="11">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" modified="2024-11-19T12:44:16.026Z" version="24.4.0" etag="pS4jBnQH6AhqxzPgPnJF" type="github" pages="12">
   <diagram id="lnwSR8R6jfKk9h6Ie3Bd" name="Audit Plan">
-    <mxGraphModel dx="1434" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1050" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -23,7 +23,7 @@
             <mxGeometry x="160" y="121" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="q-BE-F-dIzCm2tna2cn6-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YrX_Xoop6cyVScZIV77R-4" target="YrX_Xoop6cyVScZIV77R-6">
+        <mxCell id="q-BE-F-dIzCm2tna2cn6-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="YrX_Xoop6cyVScZIV77R-4" target="YrX_Xoop6cyVScZIV77R-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YrX_Xoop6cyVScZIV77R-4" value="Timing &amp;amp;&lt;br&gt;&amp;nbsp;Timescales" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -37,7 +37,7 @@
             <mxGeometry x="320" y="121" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="q-BE-F-dIzCm2tna2cn6-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YrX_Xoop6cyVScZIV77R-6" target="YrX_Xoop6cyVScZIV77R-7">
+        <mxCell id="q-BE-F-dIzCm2tna2cn6-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="YrX_Xoop6cyVScZIV77R-6" target="YrX_Xoop6cyVScZIV77R-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YrX_Xoop6cyVScZIV77R-6" value="Audit Schedule" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -50,7 +50,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="X6JPLGF5cvvDZSrAP-lK" name="Plan Details">
-    <mxGraphModel dx="1114" dy="550" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1050" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -72,28 +72,28 @@
         <mxCell id="zJ_UW1aUisLxtSNOeaRU-9" value="Audit Criteria&lt;br&gt;Text area for listing standards, policies, or regulations being assessed." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="289" y="576" width="240" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6QNcXbgYqfNJcXNbWOAD-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="6QNcXbgYqfNJcXNbWOAD-2" target="6QNcXbgYqfNJcXNbWOAD-4">
+        <mxCell id="6QNcXbgYqfNJcXNbWOAD-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="6QNcXbgYqfNJcXNbWOAD-2" target="6QNcXbgYqfNJcXNbWOAD-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6QNcXbgYqfNJcXNbWOAD-2" value="Start" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="6QNcXbgYqfNJcXNbWOAD-2" value="Start" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="170" y="55" width="80" height="80" as="geometry" />
         </mxCell>
         <UserObject label="End" link="data:page/id,lnwSR8R6jfKk9h6Ie3Bd" id="6QNcXbgYqfNJcXNbWOAD-3">
-          <mxCell style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxCell style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
             <mxGeometry x="550" y="55" width="80" height="80" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="6QNcXbgYqfNJcXNbWOAD-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="6QNcXbgYqfNJcXNbWOAD-4" target="6QNcXbgYqfNJcXNbWOAD-3">
+        <mxCell id="6QNcXbgYqfNJcXNbWOAD-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="6QNcXbgYqfNJcXNbWOAD-4" target="6QNcXbgYqfNJcXNbWOAD-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6QNcXbgYqfNJcXNbWOAD-4" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;AUDIT PLAN DETAILS&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="6QNcXbgYqfNJcXNbWOAD-4" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;AUDIT PLAN DETAILS&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="310" y="65" width="180" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="q2Vaeq3fhbAQ3BX79Ntj" name="Audit Topic">
-    <mxGraphModel dx="1434" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1050" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -123,16 +123,16 @@
             <mxGeometry x="540" y="40" width="80" height="80" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="vbwyxKBix4xCpRTmdP4--1" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;strong&gt;Scope:&lt;/strong&gt; Description of the topic&#39;s focus area (e.g., &quot;Review of purchase orders to ensure compliance with procurement policies&quot;).&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="vbwyxKBix4xCpRTmdP4--1" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;strong&gt;Scope:&lt;/strong&gt; Description of the topic&#39;s focus area (e.g., &quot;Review of purchase orders to ensure compliance with procurement policies&quot;).&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="240" y="270" width="320" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="vbwyxKBix4xCpRTmdP4--2" value="&lt;strong style=&quot;font-size: 15px;&quot;&gt;Applicable Standards:&lt;/strong&gt;&amp;nbsp;Relevant standards or guidelines (e.g., &quot;ISO 9001:2015, Section 8.4&quot;)." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="vbwyxKBix4xCpRTmdP4--2" value="&lt;strong style=&quot;font-size: 15px;&quot;&gt;Applicable Standards:&lt;/strong&gt;&amp;nbsp;Relevant standards or guidelines (e.g., &quot;ISO 9001:2015, Section 8.4&quot;)." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="240" y="469" width="320" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="vbwyxKBix4xCpRTmdP4--3" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;strong&gt;Department/Process Owner:&lt;/strong&gt; The department or individual responsible for the topic (e.g., Procurement Team).&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="vbwyxKBix4xCpRTmdP4--3" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;strong&gt;Department/Process Owner:&lt;/strong&gt; The department or individual responsible for the topic (e.g., Procurement Team).&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="240" y="680" width="320" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="vbwyxKBix4xCpRTmdP4--4" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;strong&gt;Evidence Required:&lt;/strong&gt; List of documents or data to be reviewed (e.g., &quot;Vendor contracts, purchase orders&quot;).&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="vbwyxKBix4xCpRTmdP4--4" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;strong&gt;Evidence Required:&lt;/strong&gt; List of documents or data to be reviewed (e.g., &quot;Vendor contracts, purchase orders&quot;).&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="241" y="789" width="320" height="80" as="geometry" />
         </mxCell>
       </root>
@@ -259,7 +259,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="o5pFA6ptwTRjmg64uqGC" name="Required Resources">
-    <mxGraphModel dx="1434" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1050" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -271,11 +271,6 @@
         </mxCell>
         <mxCell id="XKKasrAWKx0mt9vLgh9H-1" value="Document Name" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="98" y="240" width="110" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="G6nyH0I-c6d_bRrxEt_f-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XKKasrAWKx0mt9vLgh9H-2" target="uvN2oCM1A4_kcyeS5unE-16">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="278" y="380" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="XKKasrAWKx0mt9vLgh9H-2" value="Document Category" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="218" y="240" width="120" height="60" as="geometry" />
@@ -292,39 +287,38 @@
         <mxCell id="XKKasrAWKx0mt9vLgh9H-8" value="ADD MORE" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" parent="1" vertex="1">
           <mxGeometry x="768" y="240" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="uvN2oCM1A4_kcyeS5unE-16" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
-          <mxGeometry x="178" y="398" width="262" height="282" as="geometry" />
+        <mxCell id="hZfqaHafyCbD9cGBl5Lh-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="hZfqaHafyCbD9cGBl5Lh-12" target="hZfqaHafyCbD9cGBl5Lh-13" edge="1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="uvN2oCM1A4_kcyeS5unE-17" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;Policy Documents&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="189" y="408" width="130" height="30" as="geometry" />
+        <mxCell id="hZfqaHafyCbD9cGBl5Lh-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="hZfqaHafyCbD9cGBl5Lh-12" target="hZfqaHafyCbD9cGBl5Lh-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="uvN2oCM1A4_kcyeS5unE-18" value="Standard Operating Procedures (SOPs)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="187" y="438" width="240" height="30" as="geometry" />
+        <mxCell id="hZfqaHafyCbD9cGBl5Lh-12" value="Start" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="470" y="340" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="uvN2oCM1A4_kcyeS5unE-19" value="Records" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="190" y="464" width="70" height="30" as="geometry" />
+        <mxCell id="hZfqaHafyCbD9cGBl5Lh-13" value="StakeHolder" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="306" y="450" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="uvN2oCM1A4_kcyeS5unE-20" value="Compliance and Certification Documents" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="191" y="489" width="240" height="30" as="geometry" />
+        <mxCell id="hZfqaHafyCbD9cGBl5Lh-14" value="DCM" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="590" y="450" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="uvN2oCM1A4_kcyeS5unE-21" value="Plans and Reports" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="192" y="518" width="120" height="30" as="geometry" />
+        <mxCell id="hZfqaHafyCbD9cGBl5Lh-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="hZfqaHafyCbD9cGBl5Lh-17" target="hZfqaHafyCbD9cGBl5Lh-13" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="454.75" y="750" as="targetPoint" />
+            <mxPoint x="510" y="670" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="uvN2oCM1A4_kcyeS5unE-22" value=" Financial Documents" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="186" y="543" width="140" height="30" as="geometry" />
+        <mxCell id="hZfqaHafyCbD9cGBl5Lh-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.408;entryY=0.996;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="hZfqaHafyCbD9cGBl5Lh-17" target="hZfqaHafyCbD9cGBl5Lh-14" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="564.75" y="750" as="targetPoint" />
+            <mxPoint x="510" y="670" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="uvN2oCM1A4_kcyeS5unE-23" value="Contracts and Agreements" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="187" y="568" width="170" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="uvN2oCM1A4_kcyeS5unE-24" value="Performance and Monitoring Data" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="190" y="593" width="200" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="uvN2oCM1A4_kcyeS5unE-25" value="Legal and Regulatory Documents" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="188" y="618" width="200" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="uvN2oCM1A4_kcyeS5unE-26" value="Technical and IT Documentation" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="190" y="648" width="190" height="30" as="geometry" />
-        </mxCell>
+        <UserObject label="End" link="data:page/id,lnwSR8R6jfKk9h6Ie3Bd" id="hZfqaHafyCbD9cGBl5Lh-17">
+          <mxCell style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+            <mxGeometry x="470" y="630" width="80" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
@@ -377,6 +371,108 @@
         <mxCell id="1" parent="0" />
         <mxCell id="pYh_apa1c2o0lE3EVgvo-1" value="Audit Plan UI&#xa;|&#xa;├── 1. Audit Plan Overview Screen&#xa;|   ├── Overview of the Audit Plan&#xa;|   ├── Display general details like Audit Name, Scope, and Objectives.&#xa;|   ├── User Permissions:&#xa;|   |   ├── **Auditors**: Can view, edit, and modify audit details.&#xa;|   |   └── **Auditees**: Can only view the overview.&#xa;|   └── Actions:&#xa;|       ├── Edit Audit Plan (Auditors)&#xa;|       └── View Audit Plan (Auditees)&#xa;|&#xa;├── 2. Audit Topics Screen&#xa;|   ├── List of Audit Topics&#xa;|   |   ├── Each topic displayed with a title and description.&#xa;|   |   └── Permissions:&#xa;|   |       ├── **Auditors**: Can add, edit, or remove topics.&#xa;|   |       └── **Auditees**: Can only view topics.&#xa;|   └── Actions:&#xa;|       ├── Add/Edit Topic (Auditors)&#xa;|       └── View Topic Details (Auditees)&#xa;|&#xa;├── 3. Required Resources Screen&#xa;|   ├── Personnel Assignment Section&#xa;|   |   ├── Display list of personnel required for each audit task.&#xa;|   |   ├── List of assigned personnel for each audit topic.&#xa;|   |   └── Permissions:&#xa;|   |       ├── **System Admins**: Can assign personnel.&#xa;|   |       ├── **Auditors**: Can suggest or modify assignments.&#xa;|   |       └── **Auditees**: Can confirm availability.&#xa;|   ├── Documentation Section&#xa;|   |   ├── List of required documents (with upload/download option).&#xa;|   |   └── Permissions:&#xa;|   |       ├── **Auditors**: Can request and review documents.&#xa;|   |       └── **Auditees**: Can upload and view documents.&#xa;|   └── Actions:&#xa;|       ├── Assign Personnel (System Admins)&#xa;|       ├── Suggest Personnel (Auditors)&#xa;|       └── Upload Documentation (Auditees)&#xa;|&#xa;├── 4. Timings and Timescales Screen&#xa;|   ├── Audit Dates and Timescales&#xa;|   |   ├── Calendar view showing planned dates for each activity.&#xa;|   |   ├── Timeline for the audit process (e.g., start and end dates for each phase).&#xa;|   |   └── Permissions:&#xa;|   |       ├── **System Admins**: Can set audit dates.&#xa;|   |       ├── **Auditors**: Can suggest timing adjustments.&#xa;|   |       └── **Auditees**: Can confirm their availability.&#xa;|   ├── Opening Meeting Agenda&#xa;|   |   ├── Display the agenda with detailed timing and activities.&#xa;|   |   └── Permissions:&#xa;|   |       ├── **Auditors**: Can prepare and modify the agenda.&#xa;|   |       └── **Auditees**: Can only view the agenda.&#xa;|   └── Actions:&#xa;|       ├── Edit Dates (System Admins)&#xa;|       ├── Suggest Timing Adjustments (Auditors)&#xa;|       └── Confirm Availability (Auditees)&#xa;|&#xa;├── 5. Audit Schedule Screen&#xa;|   ├── Detailed Activity List&#xa;|   |   ├── List of audit activities (e.g., documentation review, meetings).&#xa;|   |   ├── Display who is responsible for each activity.&#xa;|   |   └── Permissions:&#xa;|   |       ├── **Auditors**: Can create, assign, or modify activities.&#xa;|   |       └── **Auditees**: Can view assigned activities.&#xa;|   ├── Resource Requirements for Activities&#xa;|   |   ├── List of resources (tools, systems, people) required for each activity.&#xa;|   |   └── Permissions:&#xa;|   |       ├── **Auditors**: Can define resource requirements.&#xa;|   |       └── **Auditees**: Ensure resources are available for the activities.&#xa;|   └── Actions:&#xa;|       ├── Add/Modify Activity (Auditors)&#xa;|       ├── View Activities (Auditees)&#xa;|       └── Confirm Resource Availability (Auditees)&#xa;|&#xa;└── 6. Audit Summary and Confirmation Screen&#xa;    ├── Summary of the Audit Plan&#xa;    ├── Final confirmation of all topics, resources, and schedules.&#xa;    ├── User Permissions:&#xa;    |   ├── **Auditors**: Can review the final summary and make any last adjustments.&#xa;    |   └── **Auditees**: Can only view and confirm.&#xa;    └── Actions:&#xa;        ├── Confirm Final Plan (Auditees)&#xa;        └── Review and Adjust (Auditors)" style="text;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="210" y="80" width="490" height="1230" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="RQ-eYbyqXjk2bQYSHkOz" name="Timings and Timescales">
+    <mxGraphModel dx="1615" dy="803" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="XHb9oUEetxBwOP2MdBU4-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="XHb9oUEetxBwOP2MdBU4-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="715" y="140" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XHb9oUEetxBwOP2MdBU4-1" value="&lt;u&gt;&lt;font color=&quot;#ff3333&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Timings and Timescales&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;/font&gt;&lt;/u&gt;&lt;font style=&quot;font-size: 13px;&quot; color=&quot;#4d4d4d&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;It schedules key milestones and activities for the audit process, ensuring efficient management, resource allocation, and task timeframes&lt;/font&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;.&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="20" width="490" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="XHb9oUEetxBwOP2MdBU4-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XHb9oUEetxBwOP2MdBU4-5" target="XHb9oUEetxBwOP2MdBU4-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XHb9oUEetxBwOP2MdBU4-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XHb9oUEetxBwOP2MdBU4-5" target="XHb9oUEetxBwOP2MdBU4-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XHb9oUEetxBwOP2MdBU4-5" value="&lt;font style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 15px;&quot;&gt;Opening Meeting&lt;br&gt;&lt;/b&gt;&lt;font color=&quot;#4d4d4d&quot; style=&quot;font-size: 13px;&quot;&gt;Involves scheduling the opening meeting, introducing the audit team, setting expectations, and outlining the audit process timeline.&lt;/font&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="320" y="210" width="405" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="XHb9oUEetxBwOP2MdBU4-7" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Audit Preparation and Planning&lt;/font&gt;&lt;/b&gt;&lt;b style=&quot;font-size: 15px;&quot;&gt;&lt;br&gt;&lt;/b&gt;&lt;font color=&quot;#4d4d4d&quot;&gt;Outlines preparation tasks, including resource gathering and scheduling, with fields for &lt;strong&gt;Start/End Dates&lt;/strong&gt;, &lt;strong&gt;Time&lt;/strong&gt;, &lt;strong&gt;Details&lt;/strong&gt;, and &lt;strong&gt;Document Upload&lt;/strong&gt;.&lt;/font&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="320" y="360" width="405" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="XHb9oUEetxBwOP2MdBU4-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="XHb9oUEetxBwOP2MdBU4-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="522.5" y="470" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XHb9oUEetxBwOP2MdBU4-10" value="&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;Main Audit Activities&lt;/b&gt;&lt;/font&gt;&lt;b style=&quot;font-size: 15px;&quot;&gt;&lt;br&gt;&lt;/b&gt;&lt;font color=&quot;#4d4d4d&quot; style=&quot;font-size: 13px;&quot;&gt;Defines and schedules core audit activities, such as document review, interviews, meetings, and workplace visits with timeframes.&lt;/font&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="320" y="510" width="405" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="XHb9oUEetxBwOP2MdBU4-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="XHb9oUEetxBwOP2MdBU4-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="522.5" y="620" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XHb9oUEetxBwOP2MdBU4-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="XHb9oUEetxBwOP2MdBU4-12" target="XHb9oUEetxBwOP2MdBU4-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XHb9oUEetxBwOP2MdBU4-12" value="&lt;font style=&quot;&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Review and Reporting&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;font color=&quot;#4d4d4d&quot; style=&quot;font-size: 13px;&quot;&gt;Involves reviewing audit findings, compiling the final report, and presenting it to stakeholders with a defined timeline.&lt;/font&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="320" y="680" width="405" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="XHb9oUEetxBwOP2MdBU4-14" value="&lt;font style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Closing Meeting&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;font color=&quot;#4d4d4d&quot; style=&quot;font-size: 13px;&quot;&gt;Schedules the closing meeting to present audit findings, recommendations, and next steps, ensuring all stakeholders are aligned.&lt;/font&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="320" y="840" width="405" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="XHb9oUEetxBwOP2MdBU4-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="XHb9oUEetxBwOP2MdBU4-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="512.5" y="950" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XHb9oUEetxBwOP2MdBU4-18" value="&lt;font style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 15px;&quot;&gt;&amp;nbsp;Follow-up and Action Plan&lt;br&gt;&lt;/b&gt;&lt;font color=&quot;#4d4d4d&quot; style=&quot;font-size: 13px;&quot;&gt;Tracks the implementation of audit recommendations and ensures follow-up actions are completed within a specified timeframe.&lt;/font&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="310" y="1000" width="405" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="XHb9oUEetxBwOP2MdBU4-19" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;font color=&quot;#ff3333&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;strong style=&quot;background-color: initial; text-align: left;&quot;&gt;Date Picker&lt;/strong&gt;&lt;span style=&quot;background-color: initial; text-align: left;&quot;&gt;: Meeting date&lt;/span&gt;&lt;/div&gt;&lt;strong style=&quot;text-align: left; background-color: initial;&quot;&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;strong style=&quot;background-color: initial;&quot;&gt;Time Picker&lt;/strong&gt;&lt;span style=&quot;background-color: initial; font-weight: normal;&quot;&gt;: Meeting time&lt;/span&gt;&lt;/div&gt;&lt;/strong&gt;&lt;strong style=&quot;text-align: left; background-color: initial;&quot;&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;strong style=&quot;background-color: initial;&quot;&gt;Text Box&lt;/strong&gt;&lt;span style=&quot;background-color: initial; font-weight: normal;&quot;&gt;: Meeting agenda&lt;/span&gt;&lt;/div&gt;&lt;/strong&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;align=center;fillColor=#f9f7ed;strokeColor=none;fillStyle=auto;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="805" y="220" width="245" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="XHb9oUEetxBwOP2MdBU4-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="XHb9oUEetxBwOP2MdBU4-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="725" y="415" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XHb9oUEetxBwOP2MdBU4-22" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;strong style=&quot;background-color: initial; text-align: left;&quot;&gt;Date Picker&lt;/strong&gt;&lt;span style=&quot;background-color: initial; text-align: left;&quot;&gt;: Preparation start date&lt;/span&gt;&lt;/div&gt;&lt;strong style=&quot;text-align: left; background-color: initial;&quot;&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;strong style=&quot;background-color: initial;&quot;&gt;Date Picker&lt;/strong&gt;&lt;span style=&quot;background-color: initial; font-weight: normal;&quot;&gt;: Preparation end date&lt;/span&gt;&lt;/div&gt;&lt;/strong&gt;&lt;strong style=&quot;text-align: left; background-color: initial;&quot;&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;strong style=&quot;background-color: initial;&quot;&gt;Time Picker&lt;/strong&gt;&lt;span style=&quot;background-color: initial; font-weight: normal;&quot;&gt;: Preparation time&lt;/span&gt;&lt;/div&gt;&lt;/strong&gt;&lt;strong style=&quot;text-align: left; background-color: initial;&quot;&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;strong style=&quot;background-color: initial;&quot;&gt;Text Box&lt;/strong&gt;&lt;span style=&quot;background-color: initial; font-weight: normal;&quot;&gt;: Preparation details&lt;/span&gt;&lt;/div&gt;&lt;/strong&gt;&lt;strong style=&quot;text-align: left; background-color: initial;&quot;&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;strong style=&quot;background-color: initial;&quot;&gt;File Upload&lt;/strong&gt;&lt;span style=&quot;background-color: initial; font-weight: normal;&quot;&gt;: Upload documents&lt;/span&gt;&lt;/div&gt;&lt;/strong&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#f9f7ed;strokeColor=none;fillStyle=auto;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="805" y="357.5" width="245" height="115" as="geometry" />
+        </mxCell>
+        <mxCell id="XHb9oUEetxBwOP2MdBU4-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="XHb9oUEetxBwOP2MdBU4-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="725" y="565" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XHb9oUEetxBwOP2MdBU4-24" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;strong style=&quot;font-size: 14px; background-color: initial; text-align: left;&quot;&gt;Date Picker&lt;/strong&gt;&lt;span style=&quot;font-size: 14px; background-color: initial; text-align: left;&quot;&gt;: Activity start date&lt;/span&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;strong style=&quot;background-color: initial; text-align: left;&quot;&gt;Date Picker&lt;/strong&gt;&lt;span style=&quot;background-color: initial; text-align: left;&quot;&gt;: Activity end date&lt;/span&gt;&lt;/div&gt;&lt;strong style=&quot;text-align: left; background-color: initial;&quot;&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;strong style=&quot;background-color: initial;&quot;&gt;Time Picker&lt;/strong&gt;&lt;span style=&quot;background-color: initial; font-weight: normal;&quot;&gt;: Daily activity hours&lt;/span&gt;&lt;/div&gt;&lt;/strong&gt;&lt;strong style=&quot;text-align: left; background-color: initial;&quot;&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;strong style=&quot;background-color: initial;&quot;&gt;Text Box&lt;/strong&gt;&lt;span style=&quot;background-color: initial; font-weight: normal;&quot;&gt;: Activity details&lt;/span&gt;&lt;/div&gt;&lt;/strong&gt;&lt;strong style=&quot;text-align: left; background-color: initial;&quot;&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;strong style=&quot;background-color: initial;&quot;&gt;Multi-Select Dropdown&lt;/strong&gt;&lt;span style=&quot;background-color: initial; font-weight: normal;&quot;&gt;: Assigned personnel&lt;/span&gt;&lt;/div&gt;&lt;/strong&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#f9f7ed;strokeColor=none;fillStyle=auto;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="805" y="505" width="315" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="XHb9oUEetxBwOP2MdBU4-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="XHb9oUEetxBwOP2MdBU4-26">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="725" y="735" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XHb9oUEetxBwOP2MdBU4-26" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;strong style=&quot;font-size: 14px; background-color: initial;&quot;&gt;Date Picker&lt;/strong&gt;&lt;span style=&quot;font-size: 14px; background-color: initial;&quot;&gt;: Review start date&lt;/span&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;strong style=&quot;background-color: initial;&quot;&gt;Date Picker&lt;/strong&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;: Review end date&lt;/span&gt;&lt;/div&gt;&lt;strong style=&quot;background-color: initial;&quot;&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;strong style=&quot;background-color: initial;&quot;&gt;Time Picker&lt;/strong&gt;&lt;span style=&quot;background-color: initial; font-weight: normal;&quot;&gt;: Review hours&lt;/span&gt;&lt;/div&gt;&lt;/strong&gt;&lt;strong style=&quot;background-color: initial;&quot;&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;strong style=&quot;background-color: initial;&quot;&gt;Text Box&lt;/strong&gt;&lt;span style=&quot;background-color: initial; font-weight: normal;&quot;&gt;: Report preparation details&lt;/span&gt;&lt;/div&gt;&lt;/strong&gt;&lt;strong style=&quot;background-color: initial;&quot;&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;strong style=&quot;background-color: initial;&quot;&gt;File Upload&lt;/strong&gt;&lt;span style=&quot;background-color: initial; font-weight: normal;&quot;&gt;: Upload final report&lt;/span&gt;&lt;/div&gt;&lt;/strong&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#f9f7ed;strokeColor=none;fillStyle=auto;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="805" y="680" width="295" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="XHb9oUEetxBwOP2MdBU4-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="715" y="895" as="sourcePoint" />
+            <mxPoint x="795" y="895.1111111111109" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XHb9oUEetxBwOP2MdBU4-28" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;strong style=&quot;background-color: initial;&quot;&gt;Date Picker&lt;/strong&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;: Closing meeting date&lt;/span&gt;&lt;/div&gt;&lt;strong style=&quot;background-color: initial;&quot;&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;strong style=&quot;background-color: initial;&quot;&gt;Time Picker&lt;/strong&gt;&lt;span style=&quot;background-color: initial; font-weight: normal;&quot;&gt;: Closing meeting time&lt;/span&gt;&lt;/div&gt;&lt;/strong&gt;&lt;strong style=&quot;background-color: initial;&quot;&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;strong style=&quot;background-color: initial;&quot;&gt;Text Box&lt;/strong&gt;&lt;span style=&quot;background-color: initial; font-weight: normal;&quot;&gt;: Meeting agenda&lt;/span&gt;&lt;/div&gt;&lt;/strong&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;align=center;fillColor=#f9f7ed;strokeColor=none;fillStyle=auto;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="805" y="855" width="250" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="XHb9oUEetxBwOP2MdBU4-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="XHb9oUEetxBwOP2MdBU4-30">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="715" y="1055" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XHb9oUEetxBwOP2MdBU4-30" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;strong style=&quot;font-size: 14px; background-color: initial; text-align: left;&quot;&gt;Date Picker&lt;/strong&gt;&lt;span style=&quot;font-size: 14px; background-color: initial; text-align: left;&quot;&gt;: Action plan start date&lt;/span&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;strong style=&quot;background-color: initial; text-align: left;&quot;&gt;Date Picker&lt;/strong&gt;&lt;span style=&quot;background-color: initial; text-align: left;&quot;&gt;: Action plan end date&lt;/span&gt;&lt;/div&gt;&lt;strong style=&quot;text-align: left; background-color: initial;&quot;&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;strong style=&quot;background-color: initial;&quot;&gt;Text Box&lt;/strong&gt;&lt;span style=&quot;background-color: initial; font-weight: normal;&quot;&gt;: Follow-up details&lt;/span&gt;&lt;/div&gt;&lt;/strong&gt;&lt;strong style=&quot;text-align: left; background-color: initial;&quot;&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;strong style=&quot;background-color: initial;&quot;&gt;Multi-Select Dropdown&lt;/strong&gt;&lt;span style=&quot;background-color: initial; font-weight: normal;&quot;&gt;: Assigned personnel for follow-up&lt;/span&gt;&lt;/div&gt;&lt;/strong&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#f9f7ed;strokeColor=none;fillStyle=auto;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="790" y="1005" width="385" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
