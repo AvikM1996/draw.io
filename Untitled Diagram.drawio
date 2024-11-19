@@ -41,7 +41,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YrX_Xoop6cyVScZIV77R-6" value="Audit Schedule" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="700" y="121" width="120" height="60" as="geometry" />
+          <mxGeometry x="680" y="121" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YrX_Xoop6cyVScZIV77R-7" value="End" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="720" y="240" width="80" height="80" as="geometry" />
