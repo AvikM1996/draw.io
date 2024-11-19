@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="24.8.6" pages="12">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="24.8.6" pages="13">
   <diagram id="lnwSR8R6jfKk9h6Ie3Bd" name="Audit Plan">
     <mxGraphModel dx="1434" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -346,7 +346,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="RQ-eYbyqXjk2bQYSHkOz" name="Timings and Timescales">
-    <mxGraphModel dx="1434" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -443,6 +443,82 @@
         </mxCell>
         <mxCell id="XHb9oUEetxBwOP2MdBU4-30" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;strong style=&quot;font-size: 14px; background-color: initial; text-align: left;&quot;&gt;Date Picker&lt;/strong&gt;&lt;span style=&quot;font-size: 14px; background-color: initial; text-align: left;&quot;&gt;: Action plan start date&lt;/span&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;strong style=&quot;background-color: initial; text-align: left;&quot;&gt;Date Picker&lt;/strong&gt;&lt;span style=&quot;background-color: initial; text-align: left;&quot;&gt;: Action plan end date&lt;/span&gt;&lt;/div&gt;&lt;strong style=&quot;text-align: left; background-color: initial;&quot;&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;strong style=&quot;background-color: initial;&quot;&gt;Text Box&lt;/strong&gt;&lt;span style=&quot;background-color: initial; font-weight: normal;&quot;&gt;: Follow-up details&lt;/span&gt;&lt;/div&gt;&lt;/strong&gt;&lt;strong style=&quot;text-align: left; background-color: initial;&quot;&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;strong style=&quot;background-color: initial;&quot;&gt;Multi-Select Dropdown&lt;/strong&gt;&lt;span style=&quot;background-color: initial; font-weight: normal;&quot;&gt;: Assigned personnel for follow-up&lt;/span&gt;&lt;/div&gt;&lt;/strong&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#f9f7ed;strokeColor=none;fillStyle=auto;gradientColor=none;" parent="1" vertex="1">
           <mxGeometry x="790" y="1005" width="385" height="100" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="uYOTu5tecloFnl-TssBZ" name="Audit Schedule">
+    <mxGraphModel dx="778" dy="387" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="fet58L1kpgje_adO5ReE-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fet58L1kpgje_adO5ReE-1" target="fet58L1kpgje_adO5ReE-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fet58L1kpgje_adO5ReE-6" value="&lt;b&gt;&lt;font color=&quot;#ff3333&quot; style=&quot;font-size: 13px;&quot;&gt;Fields Involved&lt;/font&gt;&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="fet58L1kpgje_adO5ReE-5">
+          <mxGeometry x="-0.2568" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fet58L1kpgje_adO5ReE-1" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 15px; background-color: initial;&quot;&gt;&lt;b&gt;&lt;font color=&quot;#ff3333&quot;&gt;&lt;u&gt;Audit Schedule&lt;/u&gt;&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;font color=&quot;#4d4d4d&quot; style=&quot;font-size: 13px;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;br&gt;Crucial for defining all the audit activities and assigning responsibility, ensuring a well-organized schedule with all activities planned and resourced efficiently.&lt;/div&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="30" width="490" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="eWYyJYzUlO7OU3uhJ0SP-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fet58L1kpgje_adO5ReE-4" target="eWYyJYzUlO7OU3uhJ0SP-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fet58L1kpgje_adO5ReE-4" value="&lt;div style=&quot;&quot;&gt;&lt;h3 style=&quot;&quot;&gt;&lt;font color=&quot;#1a1a1a&quot; style=&quot;font-size: 15px; font-weight: normal;&quot;&gt;Activity Overview&lt;br&gt;&lt;/font&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&lt;font color=&quot;#4d4d4d&quot; style=&quot;font-size: 13px;&quot;&gt;Brief description of the audit activity to be conducted (Field Type: Text Box).&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;font color=&quot;#4d4d4d&quot;&gt;&lt;/font&gt;&lt;/span&gt;&lt;/h3&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="160" y="220" width="490" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="eWYyJYzUlO7OU3uhJ0SP-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eWYyJYzUlO7OU3uhJ0SP-1" target="eWYyJYzUlO7OU3uhJ0SP-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eWYyJYzUlO7OU3uhJ0SP-1" value="&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;h3 style=&quot;&quot;&gt;&lt;font style=&quot;font-weight: normal;&quot; color=&quot;#1a1a1a&quot;&gt;Activity Date&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/font&gt;&lt;font style=&quot;font-weight: normal; font-size: 13px;&quot; color=&quot;#4d4d4d&quot;&gt;Select the date when the audit activity will take place (&lt;span style=&quot;font-size: 13px;&quot;&gt;Field Type&lt;/span&gt;: Date Picker).&lt;/font&gt;&lt;/h3&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="160" y="410" width="490" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="eWYyJYzUlO7OU3uhJ0SP-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eWYyJYzUlO7OU3uhJ0SP-3" target="eWYyJYzUlO7OU3uhJ0SP-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eWYyJYzUlO7OU3uhJ0SP-3" value="&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;h3 style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 15px; font-weight: normal;&quot;&gt;Activity Time&lt;br&gt;&lt;/span&gt;&lt;font color=&quot;#4d4d4d&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 13px; font-weight: normal;&quot;&gt;Specify the start time for the activity (&lt;/span&gt;&lt;strong style=&quot;background-color: initial; font-size: 13px;&quot;&gt;Field Type&lt;/strong&gt;&lt;span style=&quot;background-color: initial; font-size: 13px; font-weight: normal;&quot;&gt;: Time Picker).&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;background-color: initial; font-size: 15px; font-weight: normal;&quot;&gt;&lt;/span&gt;&lt;/h3&gt;&lt;h3&gt;&lt;/h3&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="160" y="600" width="490" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="eWYyJYzUlO7OU3uhJ0SP-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eWYyJYzUlO7OU3uhJ0SP-5" target="eWYyJYzUlO7OU3uhJ0SP-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eWYyJYzUlO7OU3uhJ0SP-5" value="&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;h3 style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial; font-weight: normal;&quot;&gt;Activity Description&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-weight: normal; font-size: 13px;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot; color=&quot;#4d4d4d&quot;&gt;Detailed explanation of what the audit activity entails (&lt;span style=&quot;font-size: 13px;&quot;&gt;Field Type&lt;/span&gt;: Text Box).&lt;/font&gt;&lt;/span&gt;&lt;/h3&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="160" y="790" width="490" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="eWYyJYzUlO7OU3uhJ0SP-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eWYyJYzUlO7OU3uhJ0SP-7" target="eWYyJYzUlO7OU3uhJ0SP-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eWYyJYzUlO7OU3uhJ0SP-7" value="&lt;div style=&quot;&quot;&gt;&lt;h3 style=&quot;font-size: 15px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-weight: normal;&quot;&gt;Assigned Personnel&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-weight: normal; font-size: 13px;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot; color=&quot;#4d4d4d&quot;&gt;&amp;nbsp;Select the team members responsible for the activity (Field Type: Multi-Select Dropdown).&lt;/font&gt;&lt;/span&gt;&lt;/h3&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="160" y="980" width="490" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="eWYyJYzUlO7OU3uhJ0SP-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eWYyJYzUlO7OU3uhJ0SP-9" target="eWYyJYzUlO7OU3uhJ0SP-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eWYyJYzUlO7OU3uhJ0SP-9" value="&lt;div style=&quot;&quot;&gt;&lt;h3 style=&quot;font-size: 13px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-weight: normal;&quot;&gt;Supporting Documents&lt;br&gt;&lt;/span&gt;&lt;font style=&quot;font-weight: normal; font-size: 13px;&quot; color=&quot;#4d4d4d&quot;&gt;Upload documents or resources required for the activity (Field Type: File Upload).&lt;/font&gt;&lt;/h3&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="160" y="1170" width="490" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="eWYyJYzUlO7OU3uhJ0SP-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eWYyJYzUlO7OU3uhJ0SP-11" target="eWYyJYzUlO7OU3uhJ0SP-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eWYyJYzUlO7OU3uhJ0SP-11" value="&lt;div style=&quot;&quot;&gt;&lt;h3 style=&quot;font-size: 13px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-weight: normal;&quot;&gt;&lt;font color=&quot;#1a1a1a&quot;&gt;Completion Status&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&lt;font color=&quot;#4d4d4d&quot;&gt;Mark the activity as completed or pending (Field Type: Checkbox).&lt;/font&gt;&lt;/span&gt;&lt;/h3&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="160" y="1360" width="490" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="eWYyJYzUlO7OU3uhJ0SP-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eWYyJYzUlO7OU3uhJ0SP-13" target="eWYyJYzUlO7OU3uhJ0SP-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eWYyJYzUlO7OU3uhJ0SP-13" value="&lt;div style=&quot;&quot;&gt;&lt;h3 style=&quot;font-size: 13px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 15px; font-weight: normal;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot; color=&quot;#1a1a1a&quot;&gt;Additional Notes&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&lt;font color=&quot;#4d4d4d&quot;&gt;Add any extra context or instructions related to the activity (Field Type: Text Box).&lt;/font&gt;&lt;/span&gt;&lt;/h3&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="160" y="1550" width="490" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="eWYyJYzUlO7OU3uhJ0SP-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eWYyJYzUlO7OU3uhJ0SP-15" target="eWYyJYzUlO7OU3uhJ0SP-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eWYyJYzUlO7OU3uhJ0SP-15" value="&lt;div style=&quot;&quot;&gt;&lt;h3 style=&quot;font-size: 13px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-weight: normal;&quot;&gt;Activity Type&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&lt;font color=&quot;#4d4d4d&quot;&gt;Select the type of activity (e.g., documentation review, meeting) (Field Type: Dropdown).&lt;/font&gt;&lt;/span&gt;&lt;/h3&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="160" y="1740" width="490" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="eWYyJYzUlO7OU3uhJ0SP-17" value="&lt;div style=&quot;&quot;&gt;&lt;h3 style=&quot;font-size: 13px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-weight: normal;&quot;&gt;Resource Requirements&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&lt;font color=&quot;#4d4d4d&quot;&gt;Specify any special resources needed for the activity (Field Type: Text Box).&lt;/font&gt;&lt;/span&gt;&lt;/h3&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="160" y="1930" width="490" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
