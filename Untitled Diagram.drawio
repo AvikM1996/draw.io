@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="24.8.6" pages="14">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="24.8.6" pages="15">
   <diagram id="lnwSR8R6jfKk9h6Ie3Bd" name="Audit Plan">
     <mxGraphModel dx="1434" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -325,17 +325,6 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="pQjyzq0iqgrYzBJx_Rjg" name="Page-10">
-    <mxGraphModel dx="1013" dy="500" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
-      <root>
-        <mxCell id="0" />
-        <mxCell id="1" parent="0" />
-        <mxCell id="eXzdJFSAje5jBEXkIKhx-1" value="Timings and Timescales  &#xa;├── Overview  &#xa;│   ├── Description:  &#xa;│   │   This module focuses on defining, managing, and monitoring the timeline of audit activities.  &#xa;│   │   It ensures all audit phases are executed within the defined schedules and durations.  &#xa;│   │   Includes flexibility to reschedule phases based on unforeseen circumstances.  &#xa;│   ├── Key Objectives:  &#xa;│   │   ├── Provide clear deadlines for each audit phase.  &#xa;│   │   ├── Allow rescheduling based on availability of resources or delays.  &#xa;│   │   ├── Ensure auditors and auditees have visibility of audit timelines.  &#xa;│   │   └── Maintain an audit trail of changes to schedules.  &#xa;├── Components  &#xa;│   ├── Schedule Dates:  &#xa;│   │   ├── Define start and end dates for:  &#xa;│   │   │   ├── Planning Phase  &#xa;│   │   │   ├── Execution Phase  &#xa;│   │   │   ├── Reporting Phase  &#xa;│   │   │   ├── Nonconformity Response Phase  &#xa;│   │   │   └── Corrective Action Implementation Phase  &#xa;│   │   ├── Example:  &#xa;│   │   │   ├── Start Date: 01-Dec-2024  &#xa;│   │   │   ├── End Date: 15-Dec-2024  &#xa;│   │   │   └── Buffer for Adjustments: 2 Days  &#xa;│   │   └── Notifications: Automatic reminders and alerts for approaching deadlines.  &#xa;│   ├── Duration of Each Phase:  &#xa;│   │   ├── Determine how long each phase will take:  &#xa;│   │   │   ├── Planning Phase: 2 Weeks  &#xa;│   │   │   ├── Execution Phase: 3 Weeks  &#xa;│   │   │   ├── Reporting Phase: 1 Week  &#xa;│   │   │   ├── Nonconformity Response Phase: 2 Weeks  &#xa;│   │   │   └── Corrective Action Implementation Phase: Ongoing  &#xa;│   │   ├── Manage overlaps for parallel tasks to optimize timelines.  &#xa;│   │   └── Use Gantt charts or similar tools to visualize timelines.  &#xa;├── Permissions  &#xa;│   ├── Create:  &#xa;│   │   ├── Allowed for: **Auditors**  &#xa;│   │   └── Tasks:  &#xa;│   │       ├── Add new schedule entries for audit phases.  &#xa;│   │       ├── Propose tentative timelines for auditee response.  &#xa;│   │       └── Input buffer periods for delays or conflicts.  &#xa;│   ├── Read:  &#xa;│   │   ├── Allowed for: **Auditors, System Administrators**  &#xa;│   │   └── Tasks:  &#xa;│   │       ├── View current and past audit schedules.  &#xa;│   │       ├── Monitor deadlines and track real-time status of audit phases.  &#xa;│   │       └── Access a historical log of timing adjustments.  &#xa;│   ├── Update:  &#xa;│   │   ├── Allowed for: **Auditors**  &#xa;│   │   └── Tasks:  &#xa;│   │       ├── Modify start or end dates if delays occur.  &#xa;│   │       ├── Adjust phase durations based on resource availability.  &#xa;│   │       └── Reassign timelines if conflicts with other audits arise.  &#xa;│   ├── Delete:  &#xa;│   │   ├── Allowed for: **System Administrators**  &#xa;│   │   └── Tasks:  &#xa;│   │       ├── Remove outdated or cancelled schedules.  &#xa;│   │       ├── Clear incorrect entries in the schedule.  &#xa;│   │       └── Ensure deleted records are logged for audit trail.  &#xa;├── Workflow  &#xa;│   ├── Step 1: **Define Timings and Timescales**  &#xa;│   │   ├── Auditor creates an initial timeline for the audit plan.  &#xa;│   │   ├── Key inputs:  &#xa;│   │   │   ├── Start and end dates for each phase.  &#xa;│   │   │   ├── Availability of resources.  &#xa;│   │   │   ├── Organizational priorities.  &#xa;│   │   │   └── Required buffer periods.  &#xa;│   │   └── Example: Planning Phase: 01-Dec-2024 to 14-Dec-2024  &#xa;│   ├── Step 2: **Approval and Notifications**  &#xa;│   │   ├── Timeline is shared with relevant stakeholders (e.g., Auditors, Auditees).  &#xa;│   │   ├── System sends notifications for deadlines and milestones.  &#xa;│   │   └── Adjustments can be requested during this stage.  &#xa;│   ├── Step 3: **Monitor and Update Timelines**  &#xa;│   │   ├── Auditors track real-time progress of each phase.  &#xa;│   │   ├── Adjustments are made in case of delays or resource shortages.  &#xa;│   │   ├── Automatic notifications sent to affected stakeholders for updates.  &#xa;│   │   └── Changes logged for audit trail.  &#xa;│   ├── Step 4: **Completion**  &#xa;│   │   ├── Final phase timelines locked for reporting.  &#xa;│   │   └── Historical data is archived for future audits.  &#xa;├── Features  &#xa;│   ├── Gantt Chart Visualization: To track overlapping phases.  &#xa;│   ├── Automatic Reminders: To notify stakeholders of deadlines.  &#xa;│   ├── Audit Trail: To log changes to timings and timescales.  &#xa;│   ├── Conflict Checker: To ensure resources aren’t overbooked.  &#xa;│   └── Report Generation: Export timelines and schedules for documentation." style="text;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="90" y="10" width="710" height="1250" as="geometry" />
-        </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
   <diagram id="vQ_rprRKp0mrq_bhoC6c" name="Page-11">
     <mxGraphModel dx="1114" dy="550" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -347,8 +336,257 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="RQ-eYbyqXjk2bQYSHkOz" name="Timings and Timescales">
+  <diagram id="uYOTu5tecloFnl-TssBZ" name="Audit Schedule">
+    <mxGraphModel dx="1000" dy="497" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="fet58L1kpgje_adO5ReE-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fet58L1kpgje_adO5ReE-1" target="fet58L1kpgje_adO5ReE-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fet58L1kpgje_adO5ReE-6" value="&lt;b&gt;&lt;font color=&quot;#ff3333&quot; style=&quot;font-size: 13px;&quot;&gt;Fields Involved&lt;/font&gt;&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="fet58L1kpgje_adO5ReE-5">
+          <mxGeometry x="-0.2568" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fet58L1kpgje_adO5ReE-1" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 15px; background-color: initial;&quot;&gt;&lt;b&gt;&lt;font color=&quot;#ff3333&quot;&gt;&lt;u&gt;Audit Schedule&lt;/u&gt;&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;font color=&quot;#4d4d4d&quot; style=&quot;font-size: 13px;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;br&gt;Crucial for defining all the audit activities and assigning responsibility, ensuring a well-organized schedule with all activities planned and resourced efficiently.&lt;/div&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="30" width="490" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="eWYyJYzUlO7OU3uhJ0SP-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=1;opacity=70;" edge="1" parent="1" source="fet58L1kpgje_adO5ReE-4" target="eWYyJYzUlO7OU3uhJ0SP-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fet58L1kpgje_adO5ReE-4" value="&lt;div style=&quot;&quot;&gt;&lt;h3 style=&quot;&quot;&gt;&lt;font color=&quot;#1a1a1a&quot; style=&quot;font-size: 15px; font-weight: normal;&quot;&gt;Activity Overview&lt;br&gt;&lt;/font&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&lt;font color=&quot;#4d4d4d&quot; style=&quot;font-size: 13px;&quot;&gt;Brief description of the audit activity to be conducted (Field Type: Text Box).&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;font color=&quot;#4d4d4d&quot;&gt;&lt;/font&gt;&lt;/span&gt;&lt;/h3&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=1;opacity=70;" vertex="1" parent="1">
+          <mxGeometry x="160" y="220" width="490" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="eWYyJYzUlO7OU3uhJ0SP-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=1;opacity=70;" edge="1" parent="1" source="eWYyJYzUlO7OU3uhJ0SP-1" target="eWYyJYzUlO7OU3uhJ0SP-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eWYyJYzUlO7OU3uhJ0SP-1" value="&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;h3 style=&quot;&quot;&gt;&lt;font style=&quot;font-weight: normal;&quot; color=&quot;#1a1a1a&quot;&gt;Activity Date&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/font&gt;&lt;font style=&quot;font-weight: normal; font-size: 13px;&quot; color=&quot;#4d4d4d&quot;&gt;Select the date when the audit activity will take place (&lt;span style=&quot;font-size: 13px;&quot;&gt;Field Type&lt;/span&gt;: Date Picker).&lt;/font&gt;&lt;/h3&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=1;opacity=70;" vertex="1" parent="1">
+          <mxGeometry x="160" y="410" width="490" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="eWYyJYzUlO7OU3uhJ0SP-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=1;opacity=70;" edge="1" parent="1" source="eWYyJYzUlO7OU3uhJ0SP-3" target="eWYyJYzUlO7OU3uhJ0SP-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eWYyJYzUlO7OU3uhJ0SP-3" value="&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;h3 style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 15px; font-weight: normal;&quot;&gt;Activity Time&lt;br&gt;&lt;/span&gt;&lt;font color=&quot;#4d4d4d&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 13px; font-weight: normal;&quot;&gt;Specify the start time for the activity (&lt;/span&gt;&lt;strong style=&quot;background-color: initial; font-size: 13px;&quot;&gt;Field Type&lt;/strong&gt;&lt;span style=&quot;background-color: initial; font-size: 13px; font-weight: normal;&quot;&gt;: Time Picker).&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;background-color: initial; font-size: 15px; font-weight: normal;&quot;&gt;&lt;/span&gt;&lt;/h3&gt;&lt;h3&gt;&lt;/h3&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=1;opacity=70;" vertex="1" parent="1">
+          <mxGeometry x="160" y="600" width="490" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="eWYyJYzUlO7OU3uhJ0SP-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=1;opacity=70;" edge="1" parent="1" source="eWYyJYzUlO7OU3uhJ0SP-5" target="eWYyJYzUlO7OU3uhJ0SP-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eWYyJYzUlO7OU3uhJ0SP-5" value="&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;h3 style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial; font-weight: normal;&quot;&gt;Activity Description&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-weight: normal; font-size: 13px;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot; color=&quot;#4d4d4d&quot;&gt;Detailed explanation of what the audit activity entails (&lt;span style=&quot;font-size: 13px;&quot;&gt;Field Type&lt;/span&gt;: Text Box).&lt;/font&gt;&lt;/span&gt;&lt;/h3&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=1;opacity=70;" vertex="1" parent="1">
+          <mxGeometry x="160" y="790" width="490" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="eWYyJYzUlO7OU3uhJ0SP-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=1;opacity=70;" edge="1" parent="1" source="eWYyJYzUlO7OU3uhJ0SP-7" target="eWYyJYzUlO7OU3uhJ0SP-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eWYyJYzUlO7OU3uhJ0SP-7" value="&lt;div style=&quot;&quot;&gt;&lt;h3 style=&quot;font-size: 15px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-weight: normal;&quot;&gt;Assigned Personnel&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-weight: normal; font-size: 13px;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot; color=&quot;#4d4d4d&quot;&gt;&amp;nbsp;Select the team members responsible for the activity (Field Type: Multi-Select Dropdown).&lt;/font&gt;&lt;/span&gt;&lt;/h3&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=1;opacity=70;" vertex="1" parent="1">
+          <mxGeometry x="160" y="980" width="490" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="eWYyJYzUlO7OU3uhJ0SP-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=1;opacity=70;" edge="1" parent="1" source="eWYyJYzUlO7OU3uhJ0SP-9" target="eWYyJYzUlO7OU3uhJ0SP-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eWYyJYzUlO7OU3uhJ0SP-9" value="&lt;div style=&quot;&quot;&gt;&lt;h3 style=&quot;font-size: 15px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-weight: normal;&quot;&gt;Supporting Documents&lt;br&gt;&lt;/span&gt;&lt;font style=&quot;font-weight: normal; font-size: 13px;&quot; color=&quot;#4d4d4d&quot;&gt;Upload documents or resources required for the activity (Field Type: File Upload).&lt;/font&gt;&lt;/h3&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=1;opacity=70;" vertex="1" parent="1">
+          <mxGeometry x="160" y="1170" width="490" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="eWYyJYzUlO7OU3uhJ0SP-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=1;opacity=70;" edge="1" parent="1" source="eWYyJYzUlO7OU3uhJ0SP-11" target="eWYyJYzUlO7OU3uhJ0SP-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eWYyJYzUlO7OU3uhJ0SP-11" value="&lt;div style=&quot;&quot;&gt;&lt;h3 style=&quot;font-size: 13px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-weight: normal; font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot; color=&quot;#1a1a1a&quot;&gt;Completion Status&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&lt;font color=&quot;#4d4d4d&quot;&gt;Mark the activity as completed or pending (Field Type: Checkbox).&lt;/font&gt;&lt;/span&gt;&lt;/h3&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=1;opacity=70;" vertex="1" parent="1">
+          <mxGeometry x="160" y="1360" width="490" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="eWYyJYzUlO7OU3uhJ0SP-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=1;opacity=70;" edge="1" parent="1" source="eWYyJYzUlO7OU3uhJ0SP-13" target="eWYyJYzUlO7OU3uhJ0SP-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eWYyJYzUlO7OU3uhJ0SP-13" value="&lt;div style=&quot;&quot;&gt;&lt;h3 style=&quot;font-size: 13px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 15px; font-weight: normal;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot; color=&quot;#1a1a1a&quot;&gt;Additional Notes&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&lt;font color=&quot;#4d4d4d&quot;&gt;Add any extra context or instructions related to the activity (Field Type: Text Box).&lt;/font&gt;&lt;/span&gt;&lt;/h3&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=1;opacity=70;" vertex="1" parent="1">
+          <mxGeometry x="160" y="1550" width="490" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="eWYyJYzUlO7OU3uhJ0SP-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=1;opacity=70;" edge="1" parent="1" source="eWYyJYzUlO7OU3uhJ0SP-15" target="eWYyJYzUlO7OU3uhJ0SP-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eWYyJYzUlO7OU3uhJ0SP-15" value="&lt;div style=&quot;&quot;&gt;&lt;h3 style=&quot;font-size: 15px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-weight: normal;&quot;&gt;Activity Type&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&lt;font color=&quot;#4d4d4d&quot;&gt;Select the type of activity (e.g., documentation review, meeting) (Field Type: Dropdown).&lt;/font&gt;&lt;/span&gt;&lt;/h3&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=1;opacity=70;" vertex="1" parent="1">
+          <mxGeometry x="160" y="1740" width="490" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="eWYyJYzUlO7OU3uhJ0SP-17" value="&lt;div style=&quot;&quot;&gt;&lt;h3 style=&quot;font-size: 15px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-weight: normal;&quot;&gt;Resource Requirements&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&lt;font color=&quot;#4d4d4d&quot;&gt;Specify any special resources needed for the activity (Field Type: Text Box).&lt;/font&gt;&lt;/span&gt;&lt;/h3&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=1;opacity=70;" vertex="1" parent="1">
+          <mxGeometry x="160" y="1930" width="490" height="110" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="J2l1ELJHpDlWPcjtg4Wr" name="Non Conformities Flow">
     <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="745EpXRIxTgD122Wt2pH-1" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 18px;&quot;&gt;RAISE NON CONFORMITIES &amp;amp; CLOSURE&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="28" y="43" width="380" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="BResTFthe0nyfv94GuGZ-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="BResTFthe0nyfv94GuGZ-1" target="BResTFthe0nyfv94GuGZ-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BResTFthe0nyfv94GuGZ-1" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Start&lt;/font&gt;&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="-410" y="160" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BResTFthe0nyfv94GuGZ-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="BResTFthe0nyfv94GuGZ-2" target="BResTFthe0nyfv94GuGZ-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BResTFthe0nyfv94GuGZ-2" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;RASISE NON CONFORMITY&lt;/font&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-200" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BResTFthe0nyfv94GuGZ-4" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;AUDITOR&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-313" y="168" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BResTFthe0nyfv94GuGZ-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="BResTFthe0nyfv94GuGZ-5" target="BResTFthe0nyfv94GuGZ-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BResTFthe0nyfv94GuGZ-5" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;LINK RELEVANT DOCUMENT&lt;/font&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="60" y="170" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BResTFthe0nyfv94GuGZ-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="BResTFthe0nyfv94GuGZ-7" target="BResTFthe0nyfv94GuGZ-11" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BResTFthe0nyfv94GuGZ-7" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;ASSIGN / NOTIFY TO AUDITEE/DEPARTMENT&lt;/b&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="338" y="100" width="210" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="BResTFthe0nyfv94GuGZ-11" value="AUDITEE RECEIVES NOTIFICATION" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="627.5" y="360" width="155" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="BResTFthe0nyfv94GuGZ-15" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" target="BResTFthe0nyfv94GuGZ-20" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="629" y="425" as="sourcePoint" />
+            <mxPoint x="540" y="420" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="539" y="425" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BResTFthe0nyfv94GuGZ-16" value="&lt;font style=&quot;font-size: 15px;&quot; color=&quot;#00994d&quot;&gt;&lt;b&gt;ACCEPT&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="543" y="392" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BResTFthe0nyfv94GuGZ-17" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="BResTFthe0nyfv94GuGZ-11" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="609" y="548" as="sourcePoint" />
+            <mxPoint x="705" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BResTFthe0nyfv94GuGZ-18" value="&lt;font style=&quot;font-size: 15px;&quot; color=&quot;#cc0000&quot;&gt;&lt;b&gt;REJECT&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="700" y="498" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BResTFthe0nyfv94GuGZ-19" value="MANDATORY JUSTIFICATION" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="655" y="550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BResTFthe0nyfv94GuGZ-20" value="ROOT CAUSE ANALYSIS&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="410" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BResTFthe0nyfv94GuGZ-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="BResTFthe0nyfv94GuGZ-24" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="290" y="510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BResTFthe0nyfv94GuGZ-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="BResTFthe0nyfv94GuGZ-24" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="470" y="620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BResTFthe0nyfv94GuGZ-24" value="CORRECTIVE ACTION PLAN" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="410" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BResTFthe0nyfv94GuGZ-25" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="530" y="420" as="sourcePoint" />
+            <mxPoint x="530" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BResTFthe0nyfv94GuGZ-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="BResTFthe0nyfv94GuGZ-29" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="235" y="680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BResTFthe0nyfv94GuGZ-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="BResTFthe0nyfv94GuGZ-29" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="85" y="510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BResTFthe0nyfv94GuGZ-29" value="AUDITOR" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="180" y="450" width="110" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="BResTFthe0nyfv94GuGZ-32" value="&lt;font style=&quot;font-size: 15px;&quot; color=&quot;#00994d&quot;&gt;&lt;b&gt;APPROVE&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="238" y="598" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BResTFthe0nyfv94GuGZ-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="BResTFthe0nyfv94GuGZ-34" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="80" y="710" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BResTFthe0nyfv94GuGZ-34" value="LOCKED FOR FURTHER EDITING" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="180" y="680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BResTFthe0nyfv94GuGZ-37" value="&lt;font style=&quot;font-size: 15px;&quot; color=&quot;#ff0000&quot;&gt;&lt;b&gt;REJECT&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="90" y="478" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BResTFthe0nyfv94GuGZ-38" value="REQUEST REVISION" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="-40" y="483" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BResTFthe0nyfv94GuGZ-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="BResTFthe0nyfv94GuGZ-42" target="BResTFthe0nyfv94GuGZ-43" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BResTFthe0nyfv94GuGZ-42" value="AUDITORS / AUDITEE TRACK CAP" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="410" y="620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BResTFthe0nyfv94GuGZ-43" value="NOTIFICATION / REMINDERS FOR DEADLINE &amp;amp; FOLLOW UP" style="rhombus;whiteSpace=wrap;html=1;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="370" y="750" width="200" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="BResTFthe0nyfv94GuGZ-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="BResTFthe0nyfv94GuGZ-48" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-80" y="710" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BResTFthe0nyfv94GuGZ-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="BResTFthe0nyfv94GuGZ-48" target="BResTFthe0nyfv94GuGZ-52" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BResTFthe0nyfv94GuGZ-48" value="AUDITOR" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry y="670" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BResTFthe0nyfv94GuGZ-51" value="&lt;font style=&quot;font-size: 15px;&quot; color=&quot;#009900&quot;&gt;&lt;b&gt;VERIFIED&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-85" y="678" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BResTFthe0nyfv94GuGZ-52" value="CAP REOPENED FOR FURTHER ACTION" style="rhombus;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="-50" y="830" width="180" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="BResTFthe0nyfv94GuGZ-54" value="&lt;font style=&quot;font-size: 15px;&quot; color=&quot;#cc0000&quot;&gt;&lt;b&gt;REJECTED&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="49" y="768" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BResTFthe0nyfv94GuGZ-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="BResTFthe0nyfv94GuGZ-55" target="BResTFthe0nyfv94GuGZ-56" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BResTFthe0nyfv94GuGZ-55" value="NON CONFORMITY CLOSED" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-205" y="680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BResTFthe0nyfv94GuGZ-56" value="END" style="ellipse;whiteSpace=wrap;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="-385" y="670" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BResTFthe0nyfv94GuGZ-61" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="41" y="991" as="sourcePoint" />
+            <mxPoint x="610" y="991" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BResTFthe0nyfv94GuGZ-62" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="603" y="988" as="sourcePoint" />
+            <mxPoint x="603" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BResTFthe0nyfv94GuGZ-63" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" parent="1" target="BResTFthe0nyfv94GuGZ-24" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="600" y="525" as="sourcePoint" />
+            <mxPoint x="540" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="RQ-eYbyqXjk2bQYSHkOz" name="Timings and Timescales">
+    <mxGraphModel dx="1114" dy="550" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -449,251 +687,369 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="uYOTu5tecloFnl-TssBZ" name="Audit Schedule">
-    <mxGraphModel dx="1000" dy="497" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+  <diagram id="pQjyzq0iqgrYzBJx_Rjg" name="Page-10">
+    <mxGraphModel dx="1114" dy="550" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="fet58L1kpgje_adO5ReE-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fet58L1kpgje_adO5ReE-1" target="fet58L1kpgje_adO5ReE-4">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="fet58L1kpgje_adO5ReE-6" value="&lt;b&gt;&lt;font color=&quot;#ff3333&quot; style=&quot;font-size: 13px;&quot;&gt;Fields Involved&lt;/font&gt;&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="fet58L1kpgje_adO5ReE-5">
-          <mxGeometry x="-0.2568" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="fet58L1kpgje_adO5ReE-1" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 15px; background-color: initial;&quot;&gt;&lt;b&gt;&lt;font color=&quot;#ff3333&quot;&gt;&lt;u&gt;Audit Schedule&lt;/u&gt;&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;font color=&quot;#4d4d4d&quot; style=&quot;font-size: 13px;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;br&gt;Crucial for defining all the audit activities and assigning responsibility, ensuring a well-organized schedule with all activities planned and resourced efficiently.&lt;/div&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="30" width="490" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="eWYyJYzUlO7OU3uhJ0SP-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=1;opacity=70;" edge="1" parent="1" source="fet58L1kpgje_adO5ReE-4" target="eWYyJYzUlO7OU3uhJ0SP-1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="fet58L1kpgje_adO5ReE-4" value="&lt;div style=&quot;&quot;&gt;&lt;h3 style=&quot;&quot;&gt;&lt;font color=&quot;#1a1a1a&quot; style=&quot;font-size: 15px; font-weight: normal;&quot;&gt;Activity Overview&lt;br&gt;&lt;/font&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&lt;font color=&quot;#4d4d4d&quot; style=&quot;font-size: 13px;&quot;&gt;Brief description of the audit activity to be conducted (Field Type: Text Box).&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;font color=&quot;#4d4d4d&quot;&gt;&lt;/font&gt;&lt;/span&gt;&lt;/h3&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=1;opacity=70;" vertex="1" parent="1">
-          <mxGeometry x="160" y="220" width="490" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="eWYyJYzUlO7OU3uhJ0SP-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=1;opacity=70;" edge="1" parent="1" source="eWYyJYzUlO7OU3uhJ0SP-1" target="eWYyJYzUlO7OU3uhJ0SP-3">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="eWYyJYzUlO7OU3uhJ0SP-1" value="&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;h3 style=&quot;&quot;&gt;&lt;font style=&quot;font-weight: normal;&quot; color=&quot;#1a1a1a&quot;&gt;Activity Date&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/font&gt;&lt;font style=&quot;font-weight: normal; font-size: 13px;&quot; color=&quot;#4d4d4d&quot;&gt;Select the date when the audit activity will take place (&lt;span style=&quot;font-size: 13px;&quot;&gt;Field Type&lt;/span&gt;: Date Picker).&lt;/font&gt;&lt;/h3&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=1;opacity=70;" vertex="1" parent="1">
-          <mxGeometry x="160" y="410" width="490" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="eWYyJYzUlO7OU3uhJ0SP-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=1;opacity=70;" edge="1" parent="1" source="eWYyJYzUlO7OU3uhJ0SP-3" target="eWYyJYzUlO7OU3uhJ0SP-5">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="eWYyJYzUlO7OU3uhJ0SP-3" value="&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;h3 style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 15px; font-weight: normal;&quot;&gt;Activity Time&lt;br&gt;&lt;/span&gt;&lt;font color=&quot;#4d4d4d&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 13px; font-weight: normal;&quot;&gt;Specify the start time for the activity (&lt;/span&gt;&lt;strong style=&quot;background-color: initial; font-size: 13px;&quot;&gt;Field Type&lt;/strong&gt;&lt;span style=&quot;background-color: initial; font-size: 13px; font-weight: normal;&quot;&gt;: Time Picker).&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;background-color: initial; font-size: 15px; font-weight: normal;&quot;&gt;&lt;/span&gt;&lt;/h3&gt;&lt;h3&gt;&lt;/h3&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=1;opacity=70;" vertex="1" parent="1">
-          <mxGeometry x="160" y="600" width="490" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="eWYyJYzUlO7OU3uhJ0SP-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=1;opacity=70;" edge="1" parent="1" source="eWYyJYzUlO7OU3uhJ0SP-5" target="eWYyJYzUlO7OU3uhJ0SP-7">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="eWYyJYzUlO7OU3uhJ0SP-5" value="&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;h3 style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial; font-weight: normal;&quot;&gt;Activity Description&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-weight: normal; font-size: 13px;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot; color=&quot;#4d4d4d&quot;&gt;Detailed explanation of what the audit activity entails (&lt;span style=&quot;font-size: 13px;&quot;&gt;Field Type&lt;/span&gt;: Text Box).&lt;/font&gt;&lt;/span&gt;&lt;/h3&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=1;opacity=70;" vertex="1" parent="1">
-          <mxGeometry x="160" y="790" width="490" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="eWYyJYzUlO7OU3uhJ0SP-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=1;opacity=70;" edge="1" parent="1" source="eWYyJYzUlO7OU3uhJ0SP-7" target="eWYyJYzUlO7OU3uhJ0SP-9">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="eWYyJYzUlO7OU3uhJ0SP-7" value="&lt;div style=&quot;&quot;&gt;&lt;h3 style=&quot;font-size: 15px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-weight: normal;&quot;&gt;Assigned Personnel&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-weight: normal; font-size: 13px;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot; color=&quot;#4d4d4d&quot;&gt;&amp;nbsp;Select the team members responsible for the activity (Field Type: Multi-Select Dropdown).&lt;/font&gt;&lt;/span&gt;&lt;/h3&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=1;opacity=70;" vertex="1" parent="1">
-          <mxGeometry x="160" y="980" width="490" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="eWYyJYzUlO7OU3uhJ0SP-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=1;opacity=70;" edge="1" parent="1" source="eWYyJYzUlO7OU3uhJ0SP-9" target="eWYyJYzUlO7OU3uhJ0SP-11">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="eWYyJYzUlO7OU3uhJ0SP-9" value="&lt;div style=&quot;&quot;&gt;&lt;h3 style=&quot;font-size: 15px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-weight: normal;&quot;&gt;Supporting Documents&lt;br&gt;&lt;/span&gt;&lt;font style=&quot;font-weight: normal; font-size: 13px;&quot; color=&quot;#4d4d4d&quot;&gt;Upload documents or resources required for the activity (Field Type: File Upload).&lt;/font&gt;&lt;/h3&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=1;opacity=70;" vertex="1" parent="1">
-          <mxGeometry x="160" y="1170" width="490" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="eWYyJYzUlO7OU3uhJ0SP-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=1;opacity=70;" edge="1" parent="1" source="eWYyJYzUlO7OU3uhJ0SP-11" target="eWYyJYzUlO7OU3uhJ0SP-13">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="eWYyJYzUlO7OU3uhJ0SP-11" value="&lt;div style=&quot;&quot;&gt;&lt;h3 style=&quot;font-size: 13px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-weight: normal; font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot; color=&quot;#1a1a1a&quot;&gt;Completion Status&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&lt;font color=&quot;#4d4d4d&quot;&gt;Mark the activity as completed or pending (Field Type: Checkbox).&lt;/font&gt;&lt;/span&gt;&lt;/h3&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=1;opacity=70;" vertex="1" parent="1">
-          <mxGeometry x="160" y="1360" width="490" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="eWYyJYzUlO7OU3uhJ0SP-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=1;opacity=70;" edge="1" parent="1" source="eWYyJYzUlO7OU3uhJ0SP-13" target="eWYyJYzUlO7OU3uhJ0SP-15">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="eWYyJYzUlO7OU3uhJ0SP-13" value="&lt;div style=&quot;&quot;&gt;&lt;h3 style=&quot;font-size: 13px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 15px; font-weight: normal;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot; color=&quot;#1a1a1a&quot;&gt;Additional Notes&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&lt;font color=&quot;#4d4d4d&quot;&gt;Add any extra context or instructions related to the activity (Field Type: Text Box).&lt;/font&gt;&lt;/span&gt;&lt;/h3&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=1;opacity=70;" vertex="1" parent="1">
-          <mxGeometry x="160" y="1550" width="490" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="eWYyJYzUlO7OU3uhJ0SP-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=1;opacity=70;" edge="1" parent="1" source="eWYyJYzUlO7OU3uhJ0SP-15" target="eWYyJYzUlO7OU3uhJ0SP-17">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="eWYyJYzUlO7OU3uhJ0SP-15" value="&lt;div style=&quot;&quot;&gt;&lt;h3 style=&quot;font-size: 15px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-weight: normal;&quot;&gt;Activity Type&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&lt;font color=&quot;#4d4d4d&quot;&gt;Select the type of activity (e.g., documentation review, meeting) (Field Type: Dropdown).&lt;/font&gt;&lt;/span&gt;&lt;/h3&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=1;opacity=70;" vertex="1" parent="1">
-          <mxGeometry x="160" y="1740" width="490" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="eWYyJYzUlO7OU3uhJ0SP-17" value="&lt;div style=&quot;&quot;&gt;&lt;h3 style=&quot;font-size: 15px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-weight: normal;&quot;&gt;Resource Requirements&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&lt;font color=&quot;#4d4d4d&quot;&gt;Specify any special resources needed for the activity (Field Type: Text Box).&lt;/font&gt;&lt;/span&gt;&lt;/h3&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=1;opacity=70;" vertex="1" parent="1">
-          <mxGeometry x="160" y="1930" width="490" height="110" as="geometry" />
+        <mxCell id="eXzdJFSAje5jBEXkIKhx-1" value="Timings and Timescales  &#xa;├── Overview  &#xa;│   ├── Description:  &#xa;│   │   This module focuses on defining, managing, and monitoring the timeline of audit activities.  &#xa;│   │   It ensures all audit phases are executed within the defined schedules and durations.  &#xa;│   │   Includes flexibility to reschedule phases based on unforeseen circumstances.  &#xa;│   ├── Key Objectives:  &#xa;│   │   ├── Provide clear deadlines for each audit phase.  &#xa;│   │   ├── Allow rescheduling based on availability of resources or delays.  &#xa;│   │   ├── Ensure auditors and auditees have visibility of audit timelines.  &#xa;│   │   └── Maintain an audit trail of changes to schedules.  &#xa;├── Components  &#xa;│   ├── Schedule Dates:  &#xa;│   │   ├── Define start and end dates for:  &#xa;│   │   │   ├── Planning Phase  &#xa;│   │   │   ├── Execution Phase  &#xa;│   │   │   ├── Reporting Phase  &#xa;│   │   │   ├── Nonconformity Response Phase  &#xa;│   │   │   └── Corrective Action Implementation Phase  &#xa;│   │   ├── Example:  &#xa;│   │   │   ├── Start Date: 01-Dec-2024  &#xa;│   │   │   ├── End Date: 15-Dec-2024  &#xa;│   │   │   └── Buffer for Adjustments: 2 Days  &#xa;│   │   └── Notifications: Automatic reminders and alerts for approaching deadlines.  &#xa;│   ├── Duration of Each Phase:  &#xa;│   │   ├── Determine how long each phase will take:  &#xa;│   │   │   ├── Planning Phase: 2 Weeks  &#xa;│   │   │   ├── Execution Phase: 3 Weeks  &#xa;│   │   │   ├── Reporting Phase: 1 Week  &#xa;│   │   │   ├── Nonconformity Response Phase: 2 Weeks  &#xa;│   │   │   └── Corrective Action Implementation Phase: Ongoing  &#xa;│   │   ├── Manage overlaps for parallel tasks to optimize timelines.  &#xa;│   │   └── Use Gantt charts or similar tools to visualize timelines.  &#xa;├── Permissions  &#xa;│   ├── Create:  &#xa;│   │   ├── Allowed for: **Auditors**  &#xa;│   │   └── Tasks:  &#xa;│   │       ├── Add new schedule entries for audit phases.  &#xa;│   │       ├── Propose tentative timelines for auditee response.  &#xa;│   │       └── Input buffer periods for delays or conflicts.  &#xa;│   ├── Read:  &#xa;│   │   ├── Allowed for: **Auditors, System Administrators**  &#xa;│   │   └── Tasks:  &#xa;│   │       ├── View current and past audit schedules.  &#xa;│   │       ├── Monitor deadlines and track real-time status of audit phases.  &#xa;│   │       └── Access a historical log of timing adjustments.  &#xa;│   ├── Update:  &#xa;│   │   ├── Allowed for: **Auditors**  &#xa;│   │   └── Tasks:  &#xa;│   │       ├── Modify start or end dates if delays occur.  &#xa;│   │       ├── Adjust phase durations based on resource availability.  &#xa;│   │       └── Reassign timelines if conflicts with other audits arise.  &#xa;│   ├── Delete:  &#xa;│   │   ├── Allowed for: **System Administrators**  &#xa;│   │   └── Tasks:  &#xa;│   │       ├── Remove outdated or cancelled schedules.  &#xa;│   │       ├── Clear incorrect entries in the schedule.  &#xa;│   │       └── Ensure deleted records are logged for audit trail.  &#xa;├── Workflow  &#xa;│   ├── Step 1: **Define Timings and Timescales**  &#xa;│   │   ├── Auditor creates an initial timeline for the audit plan.  &#xa;│   │   ├── Key inputs:  &#xa;│   │   │   ├── Start and end dates for each phase.  &#xa;│   │   │   ├── Availability of resources.  &#xa;│   │   │   ├── Organizational priorities.  &#xa;│   │   │   └── Required buffer periods.  &#xa;│   │   └── Example: Planning Phase: 01-Dec-2024 to 14-Dec-2024  &#xa;│   ├── Step 2: **Approval and Notifications**  &#xa;│   │   ├── Timeline is shared with relevant stakeholders (e.g., Auditors, Auditees).  &#xa;│   │   ├── System sends notifications for deadlines and milestones.  &#xa;│   │   └── Adjustments can be requested during this stage.  &#xa;│   ├── Step 3: **Monitor and Update Timelines**  &#xa;│   │   ├── Auditors track real-time progress of each phase.  &#xa;│   │   ├── Adjustments are made in case of delays or resource shortages.  &#xa;│   │   ├── Automatic notifications sent to affected stakeholders for updates.  &#xa;│   │   └── Changes logged for audit trail.  &#xa;│   ├── Step 4: **Completion**  &#xa;│   │   ├── Final phase timelines locked for reporting.  &#xa;│   │   └── Historical data is archived for future audits.  &#xa;├── Features  &#xa;│   ├── Gantt Chart Visualization: To track overlapping phases.  &#xa;│   ├── Automatic Reminders: To notify stakeholders of deadlines.  &#xa;│   ├── Audit Trail: To log changes to timings and timescales.  &#xa;│   ├── Conflict Checker: To ensure resources aren’t overbooked.  &#xa;│   └── Report Generation: Export timelines and schedules for documentation." style="text;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="90" y="10" width="710" height="1250" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="J2l1ELJHpDlWPcjtg4Wr" name="Non Conformities Flow">
-    <mxGraphModel dx="2643" dy="965" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+  <diagram id="Q_ae1-ro73w0oBFwKTpr" name="Page-15">
+    <mxGraphModel dx="2707" dy="917" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="745EpXRIxTgD122Wt2pH-1" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 18px;&quot;&gt;RAISE NON CONFORMITIES &amp;amp; CLOSURE&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="28" y="43" width="380" height="40" as="geometry" />
+        <mxCell id="Q1A30nnY172D_lfz3FBl-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="50" width="940" height="450" as="geometry" />
         </mxCell>
-        <mxCell id="BResTFthe0nyfv94GuGZ-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BResTFthe0nyfv94GuGZ-1" target="BResTFthe0nyfv94GuGZ-2">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="Q1A30nnY172D_lfz3FBl-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="50" width="940" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="BResTFthe0nyfv94GuGZ-1" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Start&lt;/font&gt;&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="-410" y="160" width="80" height="80" as="geometry" />
+        <mxCell id="Q1A30nnY172D_lfz3FBl-7" value="&lt;span style=&quot;text-align: left;&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Timings and Timescales&amp;nbsp;&amp;nbsp;&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="55" width="200" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BResTFthe0nyfv94GuGZ-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BResTFthe0nyfv94GuGZ-2" target="BResTFthe0nyfv94GuGZ-5">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="dyFqSjRSFqyQp-p7Ub-_-1" value="" style="line;strokeWidth=1;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="180" width="940" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="BResTFthe0nyfv94GuGZ-2" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;RASISE NON CONFORMITY&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-200" y="170" width="120" height="60" as="geometry" />
+        <mxCell id="dyFqSjRSFqyQp-p7Ub-_-2" value="" style="line;strokeWidth=1;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="240" width="940" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="BResTFthe0nyfv94GuGZ-4" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;AUDITOR&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-313" y="168" width="90" height="30" as="geometry" />
+        <mxCell id="dyFqSjRSFqyQp-p7Ub-_-3" value="" style="line;strokeWidth=1;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="300" width="940" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="BResTFthe0nyfv94GuGZ-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BResTFthe0nyfv94GuGZ-5" target="BResTFthe0nyfv94GuGZ-7">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="dyFqSjRSFqyQp-p7Ub-_-4" value="" style="line;strokeWidth=1;direction=south;html=1;" vertex="1" parent="1">
+          <mxGeometry x="235" y="90" width="10" height="410" as="geometry" />
         </mxCell>
-        <mxCell id="BResTFthe0nyfv94GuGZ-5" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;LINK RELEVANT DOCUMENT&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="60" y="170" width="140" height="60" as="geometry" />
+        <mxCell id="dyFqSjRSFqyQp-p7Ub-_-6" value="" style="line;strokeWidth=1;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="360" width="940" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="BResTFthe0nyfv94GuGZ-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BResTFthe0nyfv94GuGZ-7" target="BResTFthe0nyfv94GuGZ-11">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="dyFqSjRSFqyQp-p7Ub-_-7" value="" style="line;strokeWidth=1;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="430" width="940" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="BResTFthe0nyfv94GuGZ-7" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;ASSIGN / NOTIFY TO AUDITEE/DEPARTMENT&lt;/b&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="338" y="100" width="210" height="200" as="geometry" />
+        <mxCell id="dyFqSjRSFqyQp-p7Ub-_-8" value="Audit 1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="143" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BResTFthe0nyfv94GuGZ-11" value="AUDITEE RECEIVES NOTIFICATION" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="627.5" y="360" width="155" height="130" as="geometry" />
+        <mxCell id="dyFqSjRSFqyQp-p7Ub-_-9" value="Audit 4" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="320" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BResTFthe0nyfv94GuGZ-15" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="BResTFthe0nyfv94GuGZ-20">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="629" y="425" as="sourcePoint" />
-            <mxPoint x="540" y="420" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="539" y="425" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="dyFqSjRSFqyQp-p7Ub-_-10" value="Audit 3" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="260" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BResTFthe0nyfv94GuGZ-16" value="&lt;font style=&quot;font-size: 15px;&quot; color=&quot;#00994d&quot;&gt;&lt;b&gt;ACCEPT&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="543" y="392" width="90" height="30" as="geometry" />
+        <mxCell id="dyFqSjRSFqyQp-p7Ub-_-11" value="Audit 2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="198" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BResTFthe0nyfv94GuGZ-17" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="BResTFthe0nyfv94GuGZ-11">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="609" y="548" as="sourcePoint" />
-            <mxPoint x="705" y="550" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="dyFqSjRSFqyQp-p7Ub-_-12" value="Audit 5" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="390" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BResTFthe0nyfv94GuGZ-18" value="&lt;font style=&quot;font-size: 15px;&quot; color=&quot;#cc0000&quot;&gt;&lt;b&gt;REJECT&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="700" y="498" width="80" height="30" as="geometry" />
+        <mxCell id="dyFqSjRSFqyQp-p7Ub-_-13" value="Audit 6" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="33" y="452" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BResTFthe0nyfv94GuGZ-19" value="MANDATORY JUSTIFICATION" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="655" y="550" width="120" height="60" as="geometry" />
+        <mxCell id="dyFqSjRSFqyQp-p7Ub-_-14" value="" style="line;strokeWidth=1;direction=south;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="90" width="10" height="410" as="geometry" />
         </mxCell>
-        <mxCell id="BResTFthe0nyfv94GuGZ-20" value="ROOT CAUSE ANALYSIS&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="410" y="320" width="120" height="60" as="geometry" />
+        <mxCell id="dyFqSjRSFqyQp-p7Ub-_-15" value="" style="line;strokeWidth=1;direction=south;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="90" width="10" height="410" as="geometry" />
         </mxCell>
-        <mxCell id="BResTFthe0nyfv94GuGZ-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BResTFthe0nyfv94GuGZ-24">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="290" y="510" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="dyFqSjRSFqyQp-p7Ub-_-16" value="" style="line;strokeWidth=1;direction=south;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="90" width="10" height="410" as="geometry" />
         </mxCell>
-        <mxCell id="BResTFthe0nyfv94GuGZ-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BResTFthe0nyfv94GuGZ-24">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="470" y="620" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="dyFqSjRSFqyQp-p7Ub-_-18" value="" style="line;strokeWidth=1;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="114" width="720" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="BResTFthe0nyfv94GuGZ-24" value="CORRECTIVE ACTION PLAN" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="410" y="480" width="120" height="60" as="geometry" />
+        <mxCell id="dyFqSjRSFqyQp-p7Ub-_-20" value="&lt;b&gt;Audit Name&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="18" y="95" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BResTFthe0nyfv94GuGZ-25" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="530" y="420" as="sourcePoint" />
-            <mxPoint x="530" y="480" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="dyFqSjRSFqyQp-p7Ub-_-21" value="&lt;b&gt;Planning&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="270" y="90" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BResTFthe0nyfv94GuGZ-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BResTFthe0nyfv94GuGZ-29">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="235" y="680" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="dyFqSjRSFqyQp-p7Ub-_-22" value="&lt;b&gt;Fildwork&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="410" y="90" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BResTFthe0nyfv94GuGZ-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BResTFthe0nyfv94GuGZ-29">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="85" y="510" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="dyFqSjRSFqyQp-p7Ub-_-23" value="&lt;b&gt;Reporting&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="560" y="90" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BResTFthe0nyfv94GuGZ-29" value="AUDITOR" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="180" y="450" width="110" height="120" as="geometry" />
+        <mxCell id="dyFqSjRSFqyQp-p7Ub-_-24" value="&lt;b&gt;Followup&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="700" y="90" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BResTFthe0nyfv94GuGZ-32" value="&lt;font style=&quot;font-size: 15px;&quot; color=&quot;#00994d&quot;&gt;&lt;b&gt;APPROVE&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="238" y="598" width="100" height="30" as="geometry" />
+        <mxCell id="dyFqSjRSFqyQp-p7Ub-_-25" value="" style="line;strokeWidth=1;direction=south;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="120" width="10" height="380" as="geometry" />
         </mxCell>
-        <mxCell id="BResTFthe0nyfv94GuGZ-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BResTFthe0nyfv94GuGZ-34">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="80" y="710" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="dyFqSjRSFqyQp-p7Ub-_-26" value="" style="line;strokeWidth=1;direction=south;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="120" width="10" height="380" as="geometry" />
         </mxCell>
-        <mxCell id="BResTFthe0nyfv94GuGZ-34" value="LOCKED FOR FURTHER EDITING" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="680" width="120" height="60" as="geometry" />
+        <mxCell id="dyFqSjRSFqyQp-p7Ub-_-27" value="" style="line;strokeWidth=1;direction=south;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="120" width="10" height="380" as="geometry" />
         </mxCell>
-        <mxCell id="BResTFthe0nyfv94GuGZ-37" value="&lt;font style=&quot;font-size: 15px;&quot; color=&quot;#ff0000&quot;&gt;&lt;b&gt;REJECT&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="90" y="478" width="80" height="30" as="geometry" />
+        <mxCell id="dyFqSjRSFqyQp-p7Ub-_-28" value="" style="line;strokeWidth=1;direction=south;html=1;" vertex="1" parent="1">
+          <mxGeometry x="740" y="120" width="10" height="380" as="geometry" />
         </mxCell>
-        <mxCell id="BResTFthe0nyfv94GuGZ-38" value="REQUEST REVISION" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="-40" y="483" width="120" height="60" as="geometry" />
+        <mxCell id="dyFqSjRSFqyQp-p7Ub-_-29" value="" style="line;strokeWidth=1;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="130" width="940" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="BResTFthe0nyfv94GuGZ-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BResTFthe0nyfv94GuGZ-42" target="BResTFthe0nyfv94GuGZ-43">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="oT8xj38zDdm7z4ZwX7zW-1" value="Start Date" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="245" y="113" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BResTFthe0nyfv94GuGZ-42" value="AUDITORS / AUDITEE TRACK CAP" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="410" y="620" width="120" height="60" as="geometry" />
+        <mxCell id="oT8xj38zDdm7z4ZwX7zW-2" value="Start Date" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="680" y="113" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BResTFthe0nyfv94GuGZ-43" value="NOTIFICATION / REMINDERS FOR DEADLINE &amp;amp; FOLLOW UP" style="rhombus;whiteSpace=wrap;html=1;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="370" y="750" width="200" height="190" as="geometry" />
+        <mxCell id="oT8xj38zDdm7z4ZwX7zW-3" value="Start Date" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="530" y="113" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BResTFthe0nyfv94GuGZ-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BResTFthe0nyfv94GuGZ-48">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-80" y="710" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="oT8xj38zDdm7z4ZwX7zW-4" value="Start Date" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="390" y="113" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BResTFthe0nyfv94GuGZ-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BResTFthe0nyfv94GuGZ-48" target="BResTFthe0nyfv94GuGZ-52">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="oT8xj38zDdm7z4ZwX7zW-5" value="End Date" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="320" y="113" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BResTFthe0nyfv94GuGZ-48" value="AUDITOR" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry y="670" width="80" height="80" as="geometry" />
+        <mxCell id="oT8xj38zDdm7z4ZwX7zW-6" value="End Date" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="460" y="113" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BResTFthe0nyfv94GuGZ-51" value="&lt;font style=&quot;font-size: 15px;&quot; color=&quot;#009900&quot;&gt;&lt;b&gt;VERIFIED&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-85" y="678" width="90" height="30" as="geometry" />
+        <mxCell id="oT8xj38zDdm7z4ZwX7zW-7" value="End Date" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="610" y="113" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BResTFthe0nyfv94GuGZ-52" value="CAP REOPENED FOR FURTHER ACTION" style="rhombus;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="-50" y="830" width="180" height="160" as="geometry" />
+        <mxCell id="oT8xj38zDdm7z4ZwX7zW-8" value="End Date" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="750" y="113" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BResTFthe0nyfv94GuGZ-54" value="&lt;font style=&quot;font-size: 15px;&quot; color=&quot;#cc0000&quot;&gt;&lt;b&gt;REJECTED&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="49" y="768" width="100" height="30" as="geometry" />
+        <mxCell id="oT8xj38zDdm7z4ZwX7zW-9" value="" style="line;strokeWidth=1;direction=south;html=1;" vertex="1" parent="1">
+          <mxGeometry x="807" y="90" width="10" height="410" as="geometry" />
         </mxCell>
-        <mxCell id="BResTFthe0nyfv94GuGZ-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BResTFthe0nyfv94GuGZ-55" target="BResTFthe0nyfv94GuGZ-56">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="oT8xj38zDdm7z4ZwX7zW-10" value="" style="line;strokeWidth=1;direction=south;html=1;" vertex="1" parent="1">
+          <mxGeometry x="880" y="120" width="10" height="380" as="geometry" />
         </mxCell>
-        <mxCell id="BResTFthe0nyfv94GuGZ-55" value="NON CONFORMITY CLOSED" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-205" y="680" width="120" height="60" as="geometry" />
+        <mxCell id="oT8xj38zDdm7z4ZwX7zW-11" value="&lt;b&gt;Actual Time&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="840" y="90" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BResTFthe0nyfv94GuGZ-56" value="END" style="ellipse;whiteSpace=wrap;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="-385" y="670" width="80" height="80" as="geometry" />
+        <mxCell id="oT8xj38zDdm7z4ZwX7zW-12" value="Start Date" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="820" y="113" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BResTFthe0nyfv94GuGZ-61" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="41" y="991" as="sourcePoint" />
-            <mxPoint x="610" y="991" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="oT8xj38zDdm7z4ZwX7zW-13" value="End Date" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="890" y="113" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BResTFthe0nyfv94GuGZ-62" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="603" y="988" as="sourcePoint" />
-            <mxPoint x="603" y="520" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="oT8xj38zDdm7z4ZwX7zW-14" value="20th Nov 2024" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="245" y="143" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BResTFthe0nyfv94GuGZ-63" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" target="BResTFthe0nyfv94GuGZ-24">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="600" y="525" as="sourcePoint" />
-            <mxPoint x="540" y="530" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="oT8xj38zDdm7z4ZwX7zW-15" value="30 th Nov 2024" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="320" y="143" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oT8xj38zDdm7z4ZwX7zW-16" value="1st Dec 2024" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="395" y="143" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oT8xj38zDdm7z4ZwX7zW-17" value="14th&amp;nbsp; Dec 2024" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="460" y="145" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oT8xj38zDdm7z4ZwX7zW-18" value="15th Dec 2024" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="540" y="145" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oT8xj38zDdm7z4ZwX7zW-19" value="4th Jan 2025" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="610" y="145" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oT8xj38zDdm7z4ZwX7zW-20" value="5th Jan&lt;br&gt;2025" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="680" y="145" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oT8xj38zDdm7z4ZwX7zW-21" value="17th Jan 2025" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="750" y="143" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oT8xj38zDdm7z4ZwX7zW-22" value="15th Nov&lt;br&gt;2024" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="817" y="145" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oT8xj38zDdm7z4ZwX7zW-23" value="23th Jan 2025" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="890" y="143" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oT8xj38zDdm7z4ZwX7zW-24" value="20th Nov 2024" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="247.5" y="198" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oT8xj38zDdm7z4ZwX7zW-25" value="30 th Nov 2024" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="322.5" y="198" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oT8xj38zDdm7z4ZwX7zW-26" value="1st Dec 2024" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="397.5" y="198" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oT8xj38zDdm7z4ZwX7zW-27" value="14th&amp;nbsp; Dec 2024" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="462.5" y="200" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oT8xj38zDdm7z4ZwX7zW-28" value="15th Dec 2024" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="542.5" y="200" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oT8xj38zDdm7z4ZwX7zW-29" value="4th Jan 2025" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="612.5" y="200" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oT8xj38zDdm7z4ZwX7zW-30" value="5th Jan&lt;br&gt;2025" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="682.5" y="200" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oT8xj38zDdm7z4ZwX7zW-31" value="17th Jan 2025" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="752.5" y="198" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oT8xj38zDdm7z4ZwX7zW-32" value="15th Nov&lt;br&gt;2024" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="819.5" y="200" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oT8xj38zDdm7z4ZwX7zW-33" value="23th Jan 2025" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="892.5" y="198" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oT8xj38zDdm7z4ZwX7zW-34" value="20th Nov 2024" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="245" y="259" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oT8xj38zDdm7z4ZwX7zW-35" value="30 th Nov 2024" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="320" y="259" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oT8xj38zDdm7z4ZwX7zW-36" value="1st Dec 2024" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="395" y="259" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oT8xj38zDdm7z4ZwX7zW-37" value="14th&amp;nbsp; Dec 2024" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="460" y="261" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oT8xj38zDdm7z4ZwX7zW-38" value="15th Dec 2024" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="540" y="261" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oT8xj38zDdm7z4ZwX7zW-39" value="4th Jan 2025" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="610" y="261" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oT8xj38zDdm7z4ZwX7zW-40" value="5th Jan&lt;br&gt;2025" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="680" y="261" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oT8xj38zDdm7z4ZwX7zW-41" value="17th Jan 2025" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="750" y="259" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oT8xj38zDdm7z4ZwX7zW-42" value="15th Nov&lt;br&gt;2024" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="817" y="261" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oT8xj38zDdm7z4ZwX7zW-43" value="23th Jan 2025" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="890" y="259" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oT8xj38zDdm7z4ZwX7zW-44" value="20th Nov 2024" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="245" y="320" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oT8xj38zDdm7z4ZwX7zW-45" value="30 th Nov 2024" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="320" y="320" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oT8xj38zDdm7z4ZwX7zW-46" value="1st Dec 2024" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="395" y="320" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oT8xj38zDdm7z4ZwX7zW-47" value="14th&amp;nbsp; Dec 2024" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="460" y="322" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oT8xj38zDdm7z4ZwX7zW-48" value="15th Dec 2024" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="540" y="322" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oT8xj38zDdm7z4ZwX7zW-49" value="4th Jan 2025" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="610" y="322" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oT8xj38zDdm7z4ZwX7zW-50" value="5th Jan&lt;br&gt;2025" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="680" y="322" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oT8xj38zDdm7z4ZwX7zW-51" value="17th Jan 2025" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="750" y="320" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oT8xj38zDdm7z4ZwX7zW-52" value="15th Nov&lt;br&gt;2024" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="817" y="322" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oT8xj38zDdm7z4ZwX7zW-53" value="23th Jan 2025" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="890" y="320" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oT8xj38zDdm7z4ZwX7zW-54" value="20th Nov 2024" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="245" y="380" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oT8xj38zDdm7z4ZwX7zW-55" value="30 th Nov 2024" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="320" y="380" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oT8xj38zDdm7z4ZwX7zW-56" value="1st Dec 2024" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="395" y="380" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oT8xj38zDdm7z4ZwX7zW-57" value="14th&amp;nbsp; Dec 2024" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="460" y="382" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oT8xj38zDdm7z4ZwX7zW-58" value="15th Dec 2024" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="540" y="382" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oT8xj38zDdm7z4ZwX7zW-59" value="4th Jan 2025" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="610" y="382" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oT8xj38zDdm7z4ZwX7zW-60" value="5th Jan&lt;br&gt;2025" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="680" y="382" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oT8xj38zDdm7z4ZwX7zW-61" value="17th Jan 2025" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="750" y="380" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oT8xj38zDdm7z4ZwX7zW-62" value="15th Nov&lt;br&gt;2024" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="817" y="382" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oT8xj38zDdm7z4ZwX7zW-63" value="23th Jan 2025" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="890" y="380" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oT8xj38zDdm7z4ZwX7zW-64" value="20th Nov 2024" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="252.5" y="450" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oT8xj38zDdm7z4ZwX7zW-65" value="30 th Nov 2024" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="327.5" y="450" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oT8xj38zDdm7z4ZwX7zW-66" value="1st Dec 2024" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="402.5" y="450" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oT8xj38zDdm7z4ZwX7zW-67" value="14th&amp;nbsp; Dec 2024" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="457.5" y="452" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oT8xj38zDdm7z4ZwX7zW-68" value="15th Dec 2024" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="547.5" y="452" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oT8xj38zDdm7z4ZwX7zW-69" value="4th Jan 2025" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="617.5" y="452" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oT8xj38zDdm7z4ZwX7zW-70" value="5th Jan&lt;br&gt;2025" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="687.5" y="452" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oT8xj38zDdm7z4ZwX7zW-71" value="17th Jan 2025" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="757.5" y="450" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oT8xj38zDdm7z4ZwX7zW-72" value="15th Nov&lt;br&gt;2024" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="824.5" y="452" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oT8xj38zDdm7z4ZwX7zW-73" value="23th Jan 2025" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="897.5" y="450" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oT8xj38zDdm7z4ZwX7zW-75" value="" style="line;strokeWidth=1;direction=south;html=1;" vertex="1" parent="1">
+          <mxGeometry x="105" y="90" width="10" height="410" as="geometry" />
+        </mxCell>
+        <mxCell id="oT8xj38zDdm7z4ZwX7zW-76" value="&lt;b&gt;Audit Schedule&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="100" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oT8xj38zDdm7z4ZwX7zW-77" value="Annual" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="145" y="390" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oT8xj38zDdm7z4ZwX7zW-78" value="Multi Year" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="145" y="320" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oT8xj38zDdm7z4ZwX7zW-79" value="Multi Year" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="145" y="261" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oT8xj38zDdm7z4ZwX7zW-80" value="Annual" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="145" y="200" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oT8xj38zDdm7z4ZwX7zW-81" value="Annual" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="145" y="145" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oT8xj38zDdm7z4ZwX7zW-82" value="Multi Year" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="145" y="452" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oT8xj38zDdm7z4ZwX7zW-83" value="" style="shape=singleArrow;direction=west;whiteSpace=wrap;html=1;fillColor=#2BFF24;" vertex="1" parent="1">
+          <mxGeometry x="-100" y="210" width="110" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="oT8xj38zDdm7z4ZwX7zW-84" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;fillColor=#FF1726;" vertex="1" parent="1">
+          <mxGeometry x="980" y="200" width="100" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="oT8xj38zDdm7z4ZwX7zW-85" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Previous&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="280" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oT8xj38zDdm7z4ZwX7zW-86" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Next&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="980" y="261" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oT8xj38zDdm7z4ZwX7zW-87" value="" style="verticalLabelPosition=bottom;sketch=0;html=1;fillColor=#6ABD46;strokeColor=#ffffff;verticalAlign=top;align=center;points=[[0.085,0.085,0],[0.915,0.085,0],[0.915,0.915,0],[0.085,0.915,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];pointerEvents=1;shape=mxgraph.cisco_safe.compositeIcon;bgIcon=mxgraph.cisco_safe.architecture.generic_appliance;resIcon=mxgraph.cisco_safe.architecture.generic_appliance;" vertex="1" parent="1">
+          <mxGeometry x="913.75" y="57.5" width="27.5" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="oT8xj38zDdm7z4ZwX7zW-89" value="Save" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="860" y="57.5" width="50" height="25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
