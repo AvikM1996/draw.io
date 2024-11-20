@@ -148,7 +148,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="n-wbg8E86vrRZwKDdy0b-13" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;&lt;b&gt;&lt;u&gt;RAISE NON-CONFORMITY&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="230" y="63" width="340" height="40" as="geometry" />
+          <mxGeometry x="261" y="63" width="340" height="40" as="geometry" />
         </mxCell>
         <mxCell id="o8UrbgC1D1KuYhEBTo0t-1" value="&lt;li&gt;&lt;strong&gt;Nonconformity ID&lt;/strong&gt; (Auto-generated unique identifier)&lt;/li&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="79" y="120" width="320" height="40" as="geometry" />
