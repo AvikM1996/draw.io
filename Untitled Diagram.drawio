@@ -526,7 +526,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="J2l1ELJHpDlWPcjtg4Wr" name="Non Conformities Flow">
-    <mxGraphModel dx="1434" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2284" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -590,6 +590,11 @@
         <mxCell id="BResTFthe0nyfv94GuGZ-20" value="ROOT CAUSE ANALYSIS&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="410" y="320" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="BResTFthe0nyfv94GuGZ-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BResTFthe0nyfv94GuGZ-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="290" y="510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="BResTFthe0nyfv94GuGZ-24" value="CORRECTIVE ACTION PLAN" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="410" y="480" width="120" height="60" as="geometry" />
         </mxCell>
@@ -598,6 +603,31 @@
             <mxPoint x="530" y="420" as="sourcePoint" />
             <mxPoint x="530" y="480" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="BResTFthe0nyfv94GuGZ-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BResTFthe0nyfv94GuGZ-29">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="235" y="680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BResTFthe0nyfv94GuGZ-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BResTFthe0nyfv94GuGZ-29">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="85" y="510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BResTFthe0nyfv94GuGZ-29" value="AUDITOR" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="450" width="110" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="BResTFthe0nyfv94GuGZ-32" value="APPROVE" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="232" y="598" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BResTFthe0nyfv94GuGZ-34" value="LOCKED FOR FURTHER EDITING" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BResTFthe0nyfv94GuGZ-37" value="REJECT" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="95" y="478" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BResTFthe0nyfv94GuGZ-38" value="REQUEST REVISION" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="483" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
