@@ -543,13 +543,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BResTFthe0nyfv94GuGZ-2" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;RASISE NON CONFORMITY&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="170" width="120" height="60" as="geometry" />
+          <mxGeometry x="230" y="170" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BResTFthe0nyfv94GuGZ-4" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;AUDITOR&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="130" y="168" width="90" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="BResTFthe0nyfv94GuGZ-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BResTFthe0nyfv94GuGZ-5" target="BResTFthe0nyfv94GuGZ-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="BResTFthe0nyfv94GuGZ-5" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;LINK RELEVANT DOCUMENT&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="450" y="170" width="120" height="60" as="geometry" />
+          <mxGeometry x="410" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BResTFthe0nyfv94GuGZ-7" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;ASSIGN / NOTIFY TO AUDITEE/DEPARTMENT&lt;/b&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="100" width="210" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
