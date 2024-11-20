@@ -595,6 +595,11 @@
             <mxPoint x="290" y="510" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="BResTFthe0nyfv94GuGZ-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BResTFthe0nyfv94GuGZ-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="470" y="620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="BResTFthe0nyfv94GuGZ-24" value="CORRECTIVE ACTION PLAN" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="410" y="480" width="120" height="60" as="geometry" />
         </mxCell>
@@ -628,6 +633,15 @@
         </mxCell>
         <mxCell id="BResTFthe0nyfv94GuGZ-38" value="REQUEST REVISION" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-40" y="483" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BResTFthe0nyfv94GuGZ-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BResTFthe0nyfv94GuGZ-42" target="BResTFthe0nyfv94GuGZ-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BResTFthe0nyfv94GuGZ-42" value="AUDITORS / AUDITEE TRACK CAP" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BResTFthe0nyfv94GuGZ-43" value="NOTIFICATION / REMINDERS FOR DEADLINE &amp;amp; FOLLOW UP" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="370" y="750" width="200" height="190" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
