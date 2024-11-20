@@ -1220,13 +1220,13 @@
         <mxCell id="Jna2cg-BPMkH7hYQ4XHN-35" value="4" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="90" y="370" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Jna2cg-BPMkH7hYQ4XHN-36" value="Human Resources" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="220" y="315" width="120" height="30" as="geometry" />
+        <mxCell id="Jna2cg-BPMkH7hYQ4XHN-36" value="&lt;p&gt;Material Resources&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="210" y="320" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Jna2cg-BPMkH7hYQ4XHN-37" value="Human Resources" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="220" y="380" width="120" height="30" as="geometry" />
+        <mxCell id="Jna2cg-BPMkH7hYQ4XHN-37" value="Technological Resources" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="210" y="380" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Jna2cg-BPMkH7hYQ4XHN-38" value="Human Resources" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="Jna2cg-BPMkH7hYQ4XHN-38" value="Financial Resources" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="220" y="350" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Jna2cg-BPMkH7hYQ4XHN-39" value="Jhon Doe" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
