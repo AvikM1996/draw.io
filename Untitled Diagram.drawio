@@ -572,8 +572,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="BResTFthe0nyfv94GuGZ-16" value="&lt;font color=&quot;#00994d&quot;&gt;ACCEPT&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="553" y="392" width="70" height="30" as="geometry" />
+        <mxCell id="BResTFthe0nyfv94GuGZ-16" value="&lt;font style=&quot;font-size: 15px;&quot; color=&quot;#00994d&quot;&gt;&lt;b&gt;ACCEPT&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="543" y="392" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BResTFthe0nyfv94GuGZ-17" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="BResTFthe0nyfv94GuGZ-11">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -581,8 +581,8 @@
             <mxPoint x="705" y="550" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BResTFthe0nyfv94GuGZ-18" value="&lt;font color=&quot;#cc0000&quot;&gt;REJECT&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="705" y="498" width="70" height="30" as="geometry" />
+        <mxCell id="BResTFthe0nyfv94GuGZ-18" value="&lt;font style=&quot;font-size: 15px;&quot; color=&quot;#cc0000&quot;&gt;&lt;b&gt;REJECT&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="700" y="498" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BResTFthe0nyfv94GuGZ-19" value="MANDATORY JUSTIFICATION" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="655" y="550" width="120" height="60" as="geometry" />
@@ -622,14 +622,19 @@
         <mxCell id="BResTFthe0nyfv94GuGZ-29" value="AUDITOR" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="450" width="110" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="BResTFthe0nyfv94GuGZ-32" value="&lt;font color=&quot;#00994d&quot;&gt;APPROVE&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="232" y="598" width="80" height="30" as="geometry" />
+        <mxCell id="BResTFthe0nyfv94GuGZ-32" value="&lt;font style=&quot;font-size: 15px;&quot; color=&quot;#00994d&quot;&gt;&lt;b&gt;APPROVE&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="238" y="598" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BResTFthe0nyfv94GuGZ-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BResTFthe0nyfv94GuGZ-34">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="80" y="710" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="BResTFthe0nyfv94GuGZ-34" value="LOCKED FOR FURTHER EDITING" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="680" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BResTFthe0nyfv94GuGZ-37" value="&lt;font color=&quot;#ff0000&quot;&gt;REJECT&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="95" y="478" width="70" height="30" as="geometry" />
+        <mxCell id="BResTFthe0nyfv94GuGZ-37" value="&lt;font style=&quot;font-size: 15px;&quot; color=&quot;#ff0000&quot;&gt;&lt;b&gt;REJECT&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="90" y="478" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BResTFthe0nyfv94GuGZ-38" value="REQUEST REVISION" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="-40" y="483" width="120" height="60" as="geometry" />
@@ -642,6 +647,29 @@
         </mxCell>
         <mxCell id="BResTFthe0nyfv94GuGZ-43" value="NOTIFICATION / REMINDERS FOR DEADLINE &amp;amp; FOLLOW UP" style="rhombus;whiteSpace=wrap;html=1;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="370" y="750" width="200" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="BResTFthe0nyfv94GuGZ-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BResTFthe0nyfv94GuGZ-48">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-80" y="710" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BResTFthe0nyfv94GuGZ-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BResTFthe0nyfv94GuGZ-48" target="BResTFthe0nyfv94GuGZ-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BResTFthe0nyfv94GuGZ-48" value="AUDITOR" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="670" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BResTFthe0nyfv94GuGZ-51" value="&lt;font style=&quot;font-size: 15px;&quot; color=&quot;#009900&quot;&gt;&lt;b&gt;VERIFIED&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-85" y="678" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BResTFthe0nyfv94GuGZ-52" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="830" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BResTFthe0nyfv94GuGZ-54" value="&lt;font style=&quot;font-size: 15px;&quot; color=&quot;#cc0000&quot;&gt;&lt;b&gt;REJECTED&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="49" y="768" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BResTFthe0nyfv94GuGZ-55" value="NON CONFORMITY CLOSED" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-205" y="680" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
