@@ -413,7 +413,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="reR9_DbWjHWb0FPPJFHA-1" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=5;strokeColor=none;fillColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="reR9_DbWjHWb0FPPJFHA-1" value="" style="strokeWidth=1;shadow=1;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=5;strokeColor=none;fillColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="70" y="90" width="750" height="420" as="geometry" />
         </mxCell>
         <mxCell id="reR9_DbWjHWb0FPPJFHA-2" value="October 2014" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.anchor;fontColor=#999999;" vertex="1" parent="reR9_DbWjHWb0FPPJFHA-1">
@@ -578,8 +578,8 @@
         <mxCell id="reR9_DbWjHWb0FPPJFHA-56" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;font color=&quot;#f9fff0&quot;&gt;IT Audit Fiscal Year 2024&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008CFF;strokeColor=none;" vertex="1" parent="reR9_DbWjHWb0FPPJFHA-1">
           <mxGeometry x="46.88" y="307.2" width="283.12" height="10.8" as="geometry" />
         </mxCell>
-        <mxCell id="reR9_DbWjHWb0FPPJFHA-54" value="Global Audit Calander" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="70" y="40" width="750" height="40" as="geometry" />
+        <mxCell id="reR9_DbWjHWb0FPPJFHA-54" value="Global Audit Calander" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="50" width="750" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
