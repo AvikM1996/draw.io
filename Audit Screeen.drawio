@@ -1885,13 +1885,13 @@
           <mxGeometry x="500" y="460" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FyukzDM55jqu0Nnz3nMw-52" value="01" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F5F5F5;" vertex="1" parent="1">
-          <mxGeometry x="622" y="463" width="50" height="30" as="geometry" />
+          <mxGeometry x="622" y="461" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FyukzDM55jqu0Nnz3nMw-55" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="580" y="543" width="80" height="36" as="geometry" />
+          <mxGeometry x="545" y="543" width="80" height="36" as="geometry" />
         </mxCell>
         <mxCell id="FyukzDM55jqu0Nnz3nMw-56" value="Req on Docs" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="584" y="550.5" width="72" height="23" as="geometry" />
+          <mxGeometry x="549" y="549.5" width="72" height="23" as="geometry" />
         </mxCell>
         <mxCell id="FyukzDM55jqu0Nnz3nMw-57" value="No of Docs Reject" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="502" y="495" width="110" height="30" as="geometry" />
