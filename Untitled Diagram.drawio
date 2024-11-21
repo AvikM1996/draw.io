@@ -1348,7 +1348,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="FBv4k9nmp9HJ8Vn5q70i" name="Roles and Responsibilities">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1114" dy="550" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1378,10 +1378,10 @@
           <mxGeometry x="330" y="180" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_mKS96PIgVIiKiMGtgeX-3" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;textShadow=1;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="520" y="90" width="310" height="60" as="geometry" />
+          <mxGeometry x="500" y="90" width="310" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_mKS96PIgVIiKiMGtgeX-4" value="&lt;ul&gt;&lt;li&gt;&lt;span data-teams=&quot;true&quot;&gt;Set up systems to facilitate documentation sharing and audit tracking.&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" parent="1" vertex="1">
-          <mxGeometry x="530" y="80" width="260" height="80" as="geometry" />
+          <mxGeometry x="525" y="80" width="260" height="80" as="geometry" />
         </mxCell>
         <mxCell id="_mKS96PIgVIiKiMGtgeX-7" value="&lt;span data-teams=&quot;true&quot;&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;textShadow=1;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="500" y="165" width="310" height="65" as="geometry" />
@@ -1426,17 +1426,17 @@
         <mxCell id="_mKS96PIgVIiKiMGtgeX-17" value="&lt;ul&gt;&lt;li&gt;Provide access to required documentation (e.g., policies, records, procedures).&lt;/li&gt;&lt;li&gt;Identify key staff who will interact with auditors.&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" parent="1" vertex="1">
           <mxGeometry x="510" y="335" width="270" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="_mKS96PIgVIiKiMGtgeX-18" value="&lt;span data-teams=&quot;true&quot;&gt;&lt;strong&gt;Auditors&lt;/strong&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="_mKS96PIgVIiKiMGtgeX-18" value="&lt;span data-teams=&quot;true&quot;&gt;&lt;strong&gt;Auditors&lt;/strong&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="160" y="500" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_mKS96PIgVIiKiMGtgeX-19" value="" style="endArrow=none;html=1;rounded=0;curved=1;" edge="1" parent="1">
+        <mxCell id="_mKS96PIgVIiKiMGtgeX-19" value="" style="endArrow=none;html=1;rounded=0;curved=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="300" y="530" as="sourcePoint" />
             <mxPoint x="500" y="480" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_mKS96PIgVIiKiMGtgeX-20" value="" style="endArrow=none;html=1;rounded=0;curved=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="_mKS96PIgVIiKiMGtgeX-18">
+        <mxCell id="_mKS96PIgVIiKiMGtgeX-20" value="" style="endArrow=none;html=1;rounded=0;curved=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="_mKS96PIgVIiKiMGtgeX-18" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="350" y="560" as="sourcePoint" />
             <mxPoint x="500" y="550" as="targetPoint" />
@@ -1445,22 +1445,22 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="_mKS96PIgVIiKiMGtgeX-21" value="&lt;b&gt;Role&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=-20;" vertex="1" parent="1">
+        <mxCell id="_mKS96PIgVIiKiMGtgeX-21" value="&lt;b&gt;Role&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=-20;" parent="1" vertex="1">
           <mxGeometry x="355" y="480" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_mKS96PIgVIiKiMGtgeX-22" value="&lt;span data-teams=&quot;true&quot;&gt;&lt;strong&gt;Responsibilities&amp;nbsp;&lt;/strong&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=15;" vertex="1" parent="1">
+        <mxCell id="_mKS96PIgVIiKiMGtgeX-22" value="&lt;span data-teams=&quot;true&quot;&gt;&lt;strong&gt;Responsibilities&amp;nbsp;&lt;/strong&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=15;" parent="1" vertex="1">
           <mxGeometry x="330" y="540" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_mKS96PIgVIiKiMGtgeX-23" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;textShadow=1;shadow=1;" vertex="1" parent="1">
+        <mxCell id="_mKS96PIgVIiKiMGtgeX-23" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;textShadow=1;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="500" y="450" width="310" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_mKS96PIgVIiKiMGtgeX-24" value="&lt;ul&gt;&lt;li&gt;Conduct the audit based on the plan.&lt;/li&gt;&lt;li&gt;Identify and document nonconformities.&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="1">
+        <mxCell id="_mKS96PIgVIiKiMGtgeX-24" value="&lt;ul&gt;&lt;li&gt;Conduct the audit based on the plan.&lt;/li&gt;&lt;li&gt;Identify and document nonconformities.&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" parent="1" vertex="1">
           <mxGeometry x="510" y="440" width="260" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="_mKS96PIgVIiKiMGtgeX-25" value="&lt;span data-teams=&quot;true&quot;&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;textShadow=1;shadow=1;" vertex="1" parent="1">
+        <mxCell id="_mKS96PIgVIiKiMGtgeX-25" value="&lt;span data-teams=&quot;true&quot;&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;textShadow=1;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="500" y="525" width="310" height="65" as="geometry" />
         </mxCell>
-        <mxCell id="_mKS96PIgVIiKiMGtgeX-26" value="&lt;ul&gt;&lt;li&gt;Identify audit topics.&lt;/li&gt;&lt;li&gt;Define activities for the audit schedule.&lt;/li&gt;&lt;li&gt;Specify required resources for their audit scope.&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="1">
+        <mxCell id="_mKS96PIgVIiKiMGtgeX-26" value="&lt;ul&gt;&lt;li&gt;Identify audit topics.&lt;/li&gt;&lt;li&gt;Define activities for the audit schedule.&lt;/li&gt;&lt;li&gt;Specify required resources for their audit scope.&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" parent="1" vertex="1">
           <mxGeometry x="510" y="515" width="270" height="80" as="geometry" />
         </mxCell>
       </root>
