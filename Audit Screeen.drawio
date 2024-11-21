@@ -872,8 +872,8 @@
             <mxPoint x="403" y="518" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XF66pa3Y2nR7-TbKiucR-22" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;&lt;b&gt;Audit Topic&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="298" y="90" width="130" height="40" as="geometry" />
+        <mxCell id="XF66pa3Y2nR7-TbKiucR-22" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;&lt;b&gt;Audit Topic&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="339" y="110" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="XF66pa3Y2nR7-TbKiucR-26" value="Audit Start Date" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="573" y="411" width="200" height="30" as="geometry" />
