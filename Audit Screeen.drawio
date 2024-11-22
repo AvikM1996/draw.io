@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="24.8.6" pages="10">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="24.8.8" pages="11">
   <diagram id="33QvpFnVkrk_ctHwTZUG" name="Role ">
     <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -2613,6 +2613,244 @@
             <mxGeometry x="753" y="37" width="30" height="25.5" as="geometry" />
           </mxCell>
         </UserObject>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="YZE5mJ0fmTRnqnWvJ-ie" name="Followup">
+    <mxGraphModel dx="1114" dy="550" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="q7LMhbSJEVTTM7AS4-K1-1" value="&lt;h1 style=&quot;margin-top: 0px; line-height: 80%;&quot;&gt;&lt;font color=&quot;#1a1a1a&quot;&gt;Follow up&lt;/font&gt;&lt;/h1&gt;&lt;p style=&quot;line-height: 80%;&quot;&gt;&lt;font color=&quot;#666666&quot; style=&quot;font-size: 13px; line-height: 80%;&quot;&gt;Conducting detailed audits, gathering evidence, evaluating processes, ensuring compliance.&lt;/font&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="17" y="15" width="770" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="q7LMhbSJEVTTM7AS4-K1-2" value="&lt;h4&gt;&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 15px;&quot;&gt;Followup&lt;/font&gt;&lt;/h4&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#395587;fillColor=#253858;align=left;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="15" y="100" width="820" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="q7LMhbSJEVTTM7AS4-K1-3" value="&lt;h4&gt;&lt;font color=&quot;#ffffff&quot;&gt;S.No.&lt;/font&gt;&lt;/h4&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#395587;fillColor=#253858;fillStyle=auto;perimeterSpacing=0;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="15.5" y="153" width="51.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="q7LMhbSJEVTTM7AS4-K1-4" value="&lt;h4&gt;&lt;font color=&quot;#ffffff&quot;&gt;CAP&lt;/font&gt;&lt;/h4&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#395587;fillColor=#253858;fillStyle=auto;perimeterSpacing=0;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="153" width="500" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="q7LMhbSJEVTTM7AS4-K1-5" value="&lt;h4&gt;&lt;font color=&quot;#ffffff&quot;&gt;Status&lt;/font&gt;&lt;/h4&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#395587;fillColor=#253858;fillStyle=auto;perimeterSpacing=0;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="153" width="265" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="q7LMhbSJEVTTM7AS4-K1-6" value="&lt;h4&gt;&lt;font style=&quot;font-weight: normal;&quot; color=&quot;#1a1a1a&quot;&gt;1&lt;/font&gt;&lt;/h4&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#1A1A1A;fillColor=#FFFFFF;fillStyle=auto;perimeterSpacing=0;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="15.5" y="206" width="51.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="q7LMhbSJEVTTM7AS4-K1-7" value="&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;h4 style=&quot;&quot;&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;Has the organization determined external and internal issues relevant to its purpose and strategic direction?&lt;/span&gt;&lt;/h4&gt;&lt;/blockquote&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#1A1A1A;fillColor=#FFFFFF;fillStyle=auto;perimeterSpacing=0;shadow=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="70" y="206" width="500" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="q7LMhbSJEVTTM7AS4-K1-8" value="&lt;h4&gt;&lt;br&gt;&lt;/h4&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#1A1A1A;fillColor=#FFFFFF;fillStyle=auto;perimeterSpacing=0;shadow=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="570" y="206" width="265" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="q7LMhbSJEVTTM7AS4-K1-9" value="" style="dashed=0;labelPosition=right;align=left;shape=mxgraph.gmdl.checkbox;strokeColor=#666666;fillColor=none;strokeWidth=2;aspect=fixed;sketch=0;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="223" width="16" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="q7LMhbSJEVTTM7AS4-K1-10" value="&lt;b&gt;Approve&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="570" y="216" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="q7LMhbSJEVTTM7AS4-K1-11" value="" style="dashed=0;labelPosition=right;align=left;shape=mxgraph.gmdl.checkbox;strokeColor=#666666;fillColor=none;strokeWidth=2;aspect=fixed;sketch=0;html=1;" vertex="1" parent="1">
+          <mxGeometry x="778" y="223" width="16" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="q7LMhbSJEVTTM7AS4-K1-12" value="&lt;b&gt;Reject&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="707.5" y="216" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="q7LMhbSJEVTTM7AS4-K1-13" value="&lt;h4&gt;&lt;font style=&quot;font-weight: normal;&quot; color=&quot;#1a1a1a&quot;&gt;2&lt;/font&gt;&lt;/h4&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#1A1A1A;fillColor=#FFFFFF;fillStyle=auto;perimeterSpacing=0;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="17" y="260" width="51.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="q7LMhbSJEVTTM7AS4-K1-14" value="&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;h4 style=&quot;&quot;&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;Do these issues affect the ability to achieve the intended result of the QMS?&lt;/span&gt;&lt;/h4&gt;&lt;/blockquote&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#1A1A1A;fillColor=#FFFFFF;fillStyle=auto;perimeterSpacing=0;shadow=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="71.5" y="260" width="498.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="q7LMhbSJEVTTM7AS4-K1-15" value="&lt;h4&gt;&lt;br&gt;&lt;/h4&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#1A1A1A;fillColor=#FFFFFF;fillStyle=auto;perimeterSpacing=0;shadow=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="570" y="260" width="266.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="q7LMhbSJEVTTM7AS4-K1-16" value="" style="dashed=0;labelPosition=right;align=left;shape=mxgraph.gmdl.checkbox;strokeColor=#666666;fillColor=none;strokeWidth=2;aspect=fixed;sketch=0;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="277" width="16" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="q7LMhbSJEVTTM7AS4-K1-18" value="" style="dashed=0;labelPosition=right;align=left;shape=mxgraph.gmdl.checkbox;strokeColor=#666666;fillColor=none;strokeWidth=2;aspect=fixed;sketch=0;html=1;" vertex="1" parent="1">
+          <mxGeometry x="776.5" y="277" width="16" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="q7LMhbSJEVTTM7AS4-K1-19" value="&lt;b&gt;Reject&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="711" y="270" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="q7LMhbSJEVTTM7AS4-K1-20" value="&lt;h4&gt;&lt;font style=&quot;font-weight: normal;&quot; color=&quot;#1a1a1a&quot;&gt;3&lt;/font&gt;&lt;/h4&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#1A1A1A;fillColor=#FFFFFF;fillStyle=auto;perimeterSpacing=0;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="17" y="314" width="51.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="q7LMhbSJEVTTM7AS4-K1-21" value="&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;h4 style=&quot;&quot;&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;Is there a system to monitor and review information about internal and external issues?&lt;/span&gt;&lt;/h4&gt;&lt;/blockquote&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#1A1A1A;fillColor=#FFFFFF;fillStyle=auto;perimeterSpacing=0;shadow=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="71.5" y="314" width="498.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="q7LMhbSJEVTTM7AS4-K1-22" value="&lt;h4&gt;&lt;br&gt;&lt;/h4&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#1A1A1A;fillColor=#FFFFFF;fillStyle=auto;perimeterSpacing=0;shadow=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="570" y="314" width="266.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="q7LMhbSJEVTTM7AS4-K1-23" value="" style="dashed=0;labelPosition=right;align=left;shape=mxgraph.gmdl.checkbox;strokeColor=#666666;fillColor=none;strokeWidth=2;aspect=fixed;sketch=0;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="331" width="16" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="q7LMhbSJEVTTM7AS4-K1-24" value="&lt;b&gt;Approve&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="570" y="324" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="q7LMhbSJEVTTM7AS4-K1-25" value="" style="dashed=0;labelPosition=right;align=left;shape=mxgraph.gmdl.checkbox;strokeColor=#666666;fillColor=none;strokeWidth=2;aspect=fixed;sketch=0;html=1;" vertex="1" parent="1">
+          <mxGeometry x="776.5" y="331" width="16" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="q7LMhbSJEVTTM7AS4-K1-26" value="&lt;b&gt;Reject&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="711" y="324" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="q7LMhbSJEVTTM7AS4-K1-27" value="&lt;h4&gt;&lt;font style=&quot;font-weight: normal;&quot; color=&quot;#1a1a1a&quot;&gt;4&lt;/font&gt;&lt;/h4&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#1A1A1A;fillColor=#FFFFFF;fillStyle=auto;perimeterSpacing=0;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="17" y="368" width="51.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="q7LMhbSJEVTTM7AS4-K1-28" value="&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;h4 style=&quot;&quot;&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;Does the scope include the products and services covered by the QMS?&lt;/span&gt;&lt;/h4&gt;&lt;/blockquote&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#1A1A1A;fillColor=#FFFFFF;fillStyle=auto;perimeterSpacing=0;shadow=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="71.5" y="368" width="498.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="q7LMhbSJEVTTM7AS4-K1-29" value="&lt;h4&gt;&lt;br&gt;&lt;/h4&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#1A1A1A;fillColor=#FFFFFF;fillStyle=auto;perimeterSpacing=0;shadow=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="570" y="368" width="266.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="q7LMhbSJEVTTM7AS4-K1-30" value="" style="dashed=0;labelPosition=right;align=left;shape=mxgraph.gmdl.checkbox;strokeColor=#666666;fillColor=none;strokeWidth=2;aspect=fixed;sketch=0;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="385" width="16" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="q7LMhbSJEVTTM7AS4-K1-31" value="&lt;b&gt;Approve&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="580" y="378" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="q7LMhbSJEVTTM7AS4-K1-32" value="" style="dashed=0;labelPosition=right;align=left;shape=mxgraph.gmdl.checkbox;strokeColor=#666666;fillColor=none;strokeWidth=2;aspect=fixed;sketch=0;html=1;" vertex="1" parent="1">
+          <mxGeometry x="776.5" y="385" width="16" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="q7LMhbSJEVTTM7AS4-K1-33" value="&lt;b&gt;Reject&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="716.5" y="378" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="q7LMhbSJEVTTM7AS4-K1-34" value="&lt;h4&gt;&lt;font style=&quot;font-weight: normal;&quot; color=&quot;#1a1a1a&quot;&gt;5&lt;/font&gt;&lt;/h4&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#1A1A1A;fillColor=#FFFFFF;fillStyle=auto;perimeterSpacing=0;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="16.5" y="422" width="51.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="q7LMhbSJEVTTM7AS4-K1-35" value="&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;h4 style=&quot;&quot;&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;Do you monitor and review information about interested parties and their relevant requirements?&lt;/span&gt;&lt;/h4&gt;&lt;/blockquote&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#1A1A1A;fillColor=#FFFFFF;fillStyle=auto;perimeterSpacing=0;shadow=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="71" y="422" width="499" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="q7LMhbSJEVTTM7AS4-K1-36" value="&lt;h4&gt;&lt;br&gt;&lt;/h4&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#1A1A1A;fillColor=#FFFFFF;fillStyle=auto;perimeterSpacing=0;shadow=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="570" y="422" width="266" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="q7LMhbSJEVTTM7AS4-K1-37" value="" style="dashed=0;labelPosition=right;align=left;shape=mxgraph.gmdl.checkbox;strokeColor=#666666;fillColor=none;strokeWidth=2;aspect=fixed;sketch=0;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="439" width="16" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="q7LMhbSJEVTTM7AS4-K1-38" value="&lt;b&gt;Approve&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="580" y="432" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="q7LMhbSJEVTTM7AS4-K1-39" value="" style="dashed=0;labelPosition=right;align=left;shape=mxgraph.gmdl.checkbox;strokeColor=#666666;fillColor=none;strokeWidth=2;aspect=fixed;sketch=0;html=1;" vertex="1" parent="1">
+          <mxGeometry x="776.5" y="439" width="16" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="q7LMhbSJEVTTM7AS4-K1-40" value="&lt;b&gt;Reject&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="716.5" y="432" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="q7LMhbSJEVTTM7AS4-K1-41" value="&lt;h4&gt;&lt;font style=&quot;font-weight: normal;&quot; color=&quot;#1a1a1a&quot;&gt;6&lt;/font&gt;&lt;/h4&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#1A1A1A;fillColor=#FFFFFF;fillStyle=auto;perimeterSpacing=0;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="16.5" y="476" width="51.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="q7LMhbSJEVTTM7AS4-K1-42" value="&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;h4 style=&quot;&quot;&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;Has the scope of the QMS been defined and documented?&lt;/span&gt;&lt;/h4&gt;&lt;/blockquote&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#1A1A1A;fillColor=#FFFFFF;fillStyle=auto;perimeterSpacing=0;shadow=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="71" y="476" width="499" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="q7LMhbSJEVTTM7AS4-K1-43" value="&lt;h4&gt;&lt;br&gt;&lt;/h4&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#1A1A1A;fillColor=#FFFFFF;fillStyle=auto;perimeterSpacing=0;shadow=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="570" y="476" width="266" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="q7LMhbSJEVTTM7AS4-K1-44" value="" style="dashed=0;labelPosition=right;align=left;shape=mxgraph.gmdl.checkbox;strokeColor=#666666;fillColor=none;strokeWidth=2;aspect=fixed;sketch=0;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="492" width="16" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="q7LMhbSJEVTTM7AS4-K1-45" value="&lt;b&gt;Approve&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="580" y="486" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="q7LMhbSJEVTTM7AS4-K1-46" value="" style="dashed=0;labelPosition=right;align=left;shape=mxgraph.gmdl.checkbox;strokeColor=#666666;fillColor=none;strokeWidth=2;aspect=fixed;sketch=0;html=1;" vertex="1" parent="1">
+          <mxGeometry x="777.5" y="492" width="16" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="q7LMhbSJEVTTM7AS4-K1-47" value="&lt;b&gt;Reject&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="716.5" y="486" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="q7LMhbSJEVTTM7AS4-K1-48" value="&lt;h4&gt;&lt;font style=&quot;font-weight: normal;&quot; color=&quot;#1a1a1a&quot;&gt;7&lt;/font&gt;&lt;/h4&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#1A1A1A;fillColor=#FFFFFF;fillStyle=auto;perimeterSpacing=0;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="18" y="530" width="51.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="q7LMhbSJEVTTM7AS4-K1-49" value="&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;h4 style=&quot;&quot;&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;Have external and internal issues, interested parties, and organizational products/services been considered in defining the scope?&lt;/span&gt;&lt;/h4&gt;&lt;/blockquote&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#1A1A1A;fillColor=#FFFFFF;fillStyle=auto;perimeterSpacing=0;shadow=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="72.5" y="530" width="497.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="q7LMhbSJEVTTM7AS4-K1-50" value="&lt;h4&gt;&lt;br&gt;&lt;/h4&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#1A1A1A;fillColor=#FFFFFF;fillStyle=auto;perimeterSpacing=0;shadow=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="570" y="530" width="267.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="q7LMhbSJEVTTM7AS4-K1-51" value="" style="dashed=0;labelPosition=right;align=left;shape=mxgraph.gmdl.checkbox;strokeColor=#666666;fillColor=none;strokeWidth=2;aspect=fixed;sketch=0;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="550" width="16" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="q7LMhbSJEVTTM7AS4-K1-52" value="&lt;b&gt;Approve&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="580" y="542" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="q7LMhbSJEVTTM7AS4-K1-53" value="" style="dashed=0;labelPosition=right;align=left;shape=mxgraph.gmdl.checkbox;strokeColor=#666666;fillColor=none;strokeWidth=2;aspect=fixed;sketch=0;html=1;" vertex="1" parent="1">
+          <mxGeometry x="778" y="547" width="16" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="q7LMhbSJEVTTM7AS4-K1-54" value="&lt;b&gt;Reject&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="718" y="541" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="q7LMhbSJEVTTM7AS4-K1-55" value="&lt;h4&gt;&lt;font style=&quot;font-weight: normal;&quot; color=&quot;#1a1a1a&quot;&gt;8&lt;/font&gt;&lt;/h4&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#1A1A1A;fillColor=#FFFFFF;fillStyle=auto;perimeterSpacing=0;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="18" y="584" width="51.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="q7LMhbSJEVTTM7AS4-K1-56" value="&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;h4 style=&quot;&quot;&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;Has the application of the International Standard been determined and implemented?&lt;/span&gt;&lt;/h4&gt;&lt;/blockquote&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#1A1A1A;fillColor=#FFFFFF;fillStyle=auto;perimeterSpacing=0;shadow=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="72.5" y="584" width="497.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="q7LMhbSJEVTTM7AS4-K1-57" value="&lt;h4&gt;&lt;br&gt;&lt;/h4&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#1A1A1A;fillColor=#FFFFFF;fillStyle=auto;perimeterSpacing=0;shadow=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="570" y="584" width="267.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="q7LMhbSJEVTTM7AS4-K1-58" value="" style="dashed=0;labelPosition=right;align=left;shape=mxgraph.gmdl.checkbox;strokeColor=#666666;fillColor=none;strokeWidth=2;aspect=fixed;sketch=0;html=1;" vertex="1" parent="1">
+          <mxGeometry x="649" y="601" width="18" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="q7LMhbSJEVTTM7AS4-K1-59" value="&lt;b&gt;Approve&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="580" y="594" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="q7LMhbSJEVTTM7AS4-K1-60" value="" style="dashed=0;labelPosition=right;align=left;shape=mxgraph.gmdl.checkbox;strokeColor=#666666;fillColor=none;strokeWidth=2;aspect=fixed;sketch=0;html=1;" vertex="1" parent="1">
+          <mxGeometry x="778" y="602" width="16" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="q7LMhbSJEVTTM7AS4-K1-61" value="&lt;b&gt;Reject&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="717.5" y="594" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="q7LMhbSJEVTTM7AS4-K1-62" value="&lt;h4&gt;&lt;font style=&quot;font-weight: normal;&quot; color=&quot;#1a1a1a&quot;&gt;9&lt;/font&gt;&lt;/h4&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#1A1A1A;fillColor=#FFFFFF;fillStyle=auto;perimeterSpacing=0;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="18" y="638" width="51.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="q7LMhbSJEVTTM7AS4-K1-63" value="&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;h4 style=&quot;&quot;&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;Are inputs and outputs for processes identified?&lt;/span&gt;&lt;/h4&gt;&lt;/blockquote&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#1A1A1A;fillColor=#FFFFFF;fillStyle=auto;perimeterSpacing=0;shadow=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="72.5" y="638" width="497.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="q7LMhbSJEVTTM7AS4-K1-64" value="&lt;h4&gt;&lt;br&gt;&lt;/h4&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#1A1A1A;fillColor=#FFFFFF;fillStyle=auto;perimeterSpacing=0;shadow=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="570" y="638" width="267.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="q7LMhbSJEVTTM7AS4-K1-65" value="" style="dashed=0;labelPosition=right;align=left;shape=mxgraph.gmdl.checkbox;strokeColor=#666666;fillColor=none;strokeWidth=2;aspect=fixed;sketch=0;html=1;" vertex="1" parent="1">
+          <mxGeometry x="651" y="655" width="16" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="q7LMhbSJEVTTM7AS4-K1-66" value="&lt;b&gt;Approve&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="580" y="648" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="q7LMhbSJEVTTM7AS4-K1-67" value="" style="dashed=0;labelPosition=right;align=left;shape=mxgraph.gmdl.checkbox;strokeColor=#666666;fillColor=none;strokeWidth=2;aspect=fixed;sketch=0;html=1;" vertex="1" parent="1">
+          <mxGeometry x="778" y="655" width="16" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="q7LMhbSJEVTTM7AS4-K1-68" value="&lt;b&gt;Reject&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="716.5" y="648" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="q7LMhbSJEVTTM7AS4-K1-69" value="&lt;h4&gt;&lt;font style=&quot;font-weight: normal;&quot; color=&quot;#1a1a1a&quot;&gt;10&lt;/font&gt;&lt;/h4&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#1A1A1A;fillColor=#FFFFFF;fillStyle=auto;perimeterSpacing=0;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="17.5" y="692" width="51.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="q7LMhbSJEVTTM7AS4-K1-70" value="&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;h4 style=&quot;&quot;&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;Are risks and opportunities for processes identified and addressed?&lt;/span&gt;&lt;/h4&gt;&lt;/blockquote&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#1A1A1A;fillColor=#FFFFFF;fillStyle=auto;perimeterSpacing=0;shadow=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="72" y="692" width="498" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="q7LMhbSJEVTTM7AS4-K1-71" value="&lt;h4&gt;&lt;br&gt;&lt;/h4&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#1A1A1A;fillColor=#FFFFFF;fillStyle=auto;perimeterSpacing=0;shadow=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="570" y="692" width="267" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="q7LMhbSJEVTTM7AS4-K1-72" value="" style="dashed=0;labelPosition=right;align=left;shape=mxgraph.gmdl.checkbox;strokeColor=#666666;fillColor=none;strokeWidth=2;aspect=fixed;sketch=0;html=1;" vertex="1" parent="1">
+          <mxGeometry x="651" y="709" width="16" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="q7LMhbSJEVTTM7AS4-K1-73" value="&lt;b&gt;Approve&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="581" y="702" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="q7LMhbSJEVTTM7AS4-K1-74" value="" style="dashed=0;labelPosition=right;align=left;shape=mxgraph.gmdl.checkbox;strokeColor=#666666;fillColor=none;strokeWidth=2;aspect=fixed;sketch=0;html=1;" vertex="1" parent="1">
+          <mxGeometry x="778" y="709" width="16" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="q7LMhbSJEVTTM7AS4-K1-75" value="&lt;b&gt;Reject&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="718" y="702" width="60" height="30" as="geometry" />
+        </mxCell>
+        <UserObject label="" link="data:page/id,_xITnJutzqCFf8uO2TiN" id="q7LMhbSJEVTTM7AS4-K1-76">
+          <mxCell style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.back;" vertex="1" parent="1">
+            <mxGeometry x="753" y="37" width="30" height="25.5" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="q7LMhbSJEVTTM7AS4-K1-139" value="&lt;b&gt;Approve&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="570" y="272" width="70" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
