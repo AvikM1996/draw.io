@@ -271,7 +271,7 @@
           <mxGeometry x="426" y="40" width="254" height="30" as="geometry" />
         </mxCell>
         <mxCell id="E-sHhzWmIK0naYJYRtSK-2" value="Personnel Required&lt;br&gt;Multi-select dropdown for selecting team members (auditors, technical experts, etc.)." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="120" y="100" width="680" height="60" as="geometry" />
+          <mxGeometry x="120" y="100" width="800" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XKKasrAWKx0mt9vLgh9H-1" value="Document Name" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="118" y="201" width="110" height="60" as="geometry" />
