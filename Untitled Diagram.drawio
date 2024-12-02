@@ -186,6 +186,9 @@
         <mxCell id="9zPA8I8UCcgGELwzW3mL-3" value="&lt;b&gt;Audit Scope&lt;/b&gt;&lt;br&gt;To specify which part of the audit the nonconformity relates to (e.g., audit of production process, documentation review" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="441" y="580" width="320" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="9zPA8I8UCcgGELwzW3mL-5" value="&lt;b&gt;Status&lt;br&gt;(Open, In Progress, Closed)&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="79" y="680" width="320" height="70" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
