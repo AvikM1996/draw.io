@@ -1525,6 +1525,12 @@
         <mxCell id="lWC8rktvrAxToWntYc80-5" value="&lt;p&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;Evidence&lt;/b&gt;&lt;br&gt;&lt;/span&gt;File Upload&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="180" width="320" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="lWC8rktvrAxToWntYc80-6" value="&lt;p&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;Date Of RCA&lt;/b&gt;&lt;br&gt;&lt;/span&gt;DatePicker&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="280" width="320" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="lWC8rktvrAxToWntYc80-7" value="&lt;p&gt;&lt;b&gt;Auditee Name (Responsible Person for RCA)&lt;/b&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="445" y="280" width="320" height="70" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
