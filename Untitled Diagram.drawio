@@ -1572,7 +1572,7 @@
         <mxCell id="Va89kx4Lfn9dnZyaQYy8-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Va89kx4Lfn9dnZyaQYy8-2" target="Va89kx4Lfn9dnZyaQYy8-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Va89kx4Lfn9dnZyaQYy8-2" value="Audit Plan Listing" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Va89kx4Lfn9dnZyaQYy8-2" value="Audit Plan Listing" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="40" y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Va89kx4Lfn9dnZyaQYy8-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Va89kx4Lfn9dnZyaQYy8-3" target="Va89kx4Lfn9dnZyaQYy8-6">
@@ -1583,13 +1583,13 @@
             <mxPoint x="380" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Va89kx4Lfn9dnZyaQYy8-3" value="Non Conformity List" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Va89kx4Lfn9dnZyaQYy8-3" value="Non Conformity List" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="320" y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Va89kx4Lfn9dnZyaQYy8-5" value="Go To Non-Conformity" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="173" y="114" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Va89kx4Lfn9dnZyaQYy8-6" value="Raise Non Conformity Button" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Va89kx4Lfn9dnZyaQYy8-6" value="Raise Non Conformity Button" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="540" y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Va89kx4Lfn9dnZyaQYy8-10" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0.45;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="Va89kx4Lfn9dnZyaQYy8-3">
@@ -1606,7 +1606,7 @@
         <mxCell id="771ESusay2JzxZlqcpO1-1" value="Auditee Can View Assigned Non Conformity and Accept Or Reject" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="215" y="198" width="370" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="PoMa-A1Vgfb5EX5gBMw9-3" value="Root Cause &amp;amp; Cap Form Submission" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="PoMa-A1Vgfb5EX5gBMw9-3" value="Root Cause &amp;amp; Cap Form Submission" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="322" y="261" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="evnBcd1IljZuIhi_vS5h-1" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
@@ -1636,13 +1636,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="evnBcd1IljZuIhi_vS5h-3" value="Auditor View RCA &amp;amp; CAP and can Approve Or Reject Through Form" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="evnBcd1IljZuIhi_vS5h-3" value="Auditor View RCA &amp;amp; CAP and can Approve Or Reject Through Form" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="500" y="250" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="evnBcd1IljZuIhi_vS5h-4" value="After Verify Cap will Be Closed&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="evnBcd1IljZuIhi_vS5h-4" value="After Verify Cap will Be Closed&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="420" y="400" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Y169WSxPfSZ_xcj-LEsQ-1" value="If Rejected CAP will be reopened" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="Y169WSxPfSZ_xcj-LEsQ-1" value="If Rejected CAP will be reopened" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="560" y="400" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
