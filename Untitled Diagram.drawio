@@ -154,31 +154,37 @@
           <mxGeometry x="79" y="120" width="320" height="60" as="geometry" />
         </mxCell>
         <mxCell id="o8UrbgC1D1KuYhEBTo0t-2" value="&lt;b&gt;Non Conformity Type (Major, Minor, Critical)&lt;br&gt;Dropdown&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="441" y="120" width="320" height="60" as="geometry" />
+          <mxGeometry x="441" y="200" width="320" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="o8UrbgC1D1KuYhEBTo0t-3" value="Severity of Nonconformity(High, Medium, Low)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="79" y="200" width="320" height="40" as="geometry" />
+        <mxCell id="o8UrbgC1D1KuYhEBTo0t-3" value="&lt;b&gt;Severity of Nonconformity(High, Medium, Low)&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="79" y="200" width="320" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CCrLASGQos-RDN-FPQm--1" value="Non Conformity Description&lt;br&gt;Textarea" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="441" y="201" width="320" height="40" as="geometry" />
+          <mxGeometry x="441" y="281" width="320" height="59" as="geometry" />
         </mxCell>
-        <mxCell id="CCrLASGQos-RDN-FPQm--2" value="&#xa;&lt;strong&gt;Category of Nonconformity&lt;/strong&gt; (e.g., ISO standard violation, safety, compliance, quality, etc.)&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="79" y="270" width="320" height="70" as="geometry" />
+        <mxCell id="CCrLASGQos-RDN-FPQm--2" value="&lt;b&gt;Relevant Documents/Standards&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="79" y="277" width="320" height="70" as="geometry" />
         </mxCell>
         <mxCell id="CCrLASGQos-RDN-FPQm--3" value="&#xa;&lt;strong&gt;Severity/Impact&lt;/strong&gt; (e.g., Major, Minor, Critical)&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="441" y="271" width="320" height="70" as="geometry" />
+          <mxGeometry x="441" y="356" width="320" height="70" as="geometry" />
         </mxCell>
         <mxCell id="CCrLASGQos-RDN-FPQm--4" value="&#xa;&lt;strong&gt;Evidence/Supporting Documents&lt;/strong&gt; (Attach evidence like photos, documents, or logs)&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="79" y="360" width="320" height="70" as="geometry" />
+          <mxGeometry x="79" y="369" width="320" height="91" as="geometry" />
         </mxCell>
         <mxCell id="CCrLASGQos-RDN-FPQm--6" value="&#xa;&lt;strong&gt;Responsible Party&lt;/strong&gt; (Who is accountable for resolving the nonconformity&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="441" y="360" width="320" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="CCrLASGQos-RDN-FPQm--7" value="&lt;strong&gt;Root Cause (if known)&lt;/strong&gt; (Preliminary identification of the underlying cause)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="79" y="460" width="320" height="70" as="geometry" />
+          <mxGeometry x="441" y="449" width="320" height="91" as="geometry" />
         </mxCell>
         <mxCell id="CCrLASGQos-RDN-FPQm--8" value="&#xa;&lt;strong&gt;Deadline for Corrective Action&lt;/strong&gt; (When the issue needs to be resolved by)&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="441" y="460" width="320" height="70" as="geometry" />
+          <mxGeometry x="81" y="487" width="320" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="9zPA8I8UCcgGELwzW3mL-1" value="&lt;b&gt;Date Raised&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="120" width="320" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9zPA8I8UCcgGELwzW3mL-2" value="&lt;b&gt;Auditor Name&lt;/b&gt;&lt;br&gt;To identify who documented the nonconformity." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="79" y="580" width="320" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="9zPA8I8UCcgGELwzW3mL-3" value="&lt;b&gt;Audit Scope&lt;/b&gt;&lt;br&gt;To specify which part of the audit the nonconformity relates to (e.g., audit of production process, documentation review" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="441" y="580" width="320" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
