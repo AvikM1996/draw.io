@@ -1552,6 +1552,12 @@
         <mxCell id="lWC8rktvrAxToWntYc80-14" value="&lt;p&gt;&lt;b&gt;CAP (Review Status)&lt;br&gt;Pending, Approve, Rejected&lt;/b&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="453" y="640" width="320" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="lWC8rktvrAxToWntYc80-15" value="&lt;p&gt;&lt;b&gt;Date Of Submission&lt;/b&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="98" y="750" width="320" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="lWC8rktvrAxToWntYc80-16" value="&lt;p&gt;&lt;b&gt;Auditor Comment&lt;br&gt;The auditor can provide feedback&lt;/b&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="458" y="750" width="320" height="70" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
