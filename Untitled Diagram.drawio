@@ -1621,26 +1621,26 @@
     </mxGraphModel>
   </diagram>
   <diagram id="fRd11XET0BavF6BrzOzC" name="Dashboard">
-    <mxGraphModel dx="2390" dy="1287" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2607" dy="1404" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="1iBi_VyiYaZd1PNsxerC-3" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
-          <mxGeometry x="81" y="40" width="740" height="1220" as="geometry" />
+        <mxCell id="1iBi_VyiYaZd1PNsxerC-3" value="" style="swimlane;startSize=0;strokeColor=#0066CC;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="82" y="29" width="740" height="1220" as="geometry" />
         </mxCell>
         <mxCell id="1iBi_VyiYaZd1PNsxerC-4" value="&lt;b&gt;&lt;font style=&quot;font-size: 32px;&quot;&gt;&lt;u style=&quot;&quot;&gt;Audit Dashboard&lt;/u&gt;&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1iBi_VyiYaZd1PNsxerC-3">
           <mxGeometry x="230" y="14" width="340" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="1iBi_VyiYaZd1PNsxerC-7" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Total Audit Findings&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1iBi_VyiYaZd1PNsxerC-3">
+        <mxCell id="1iBi_VyiYaZd1PNsxerC-7" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Total Audit Findings&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" vertex="1" parent="1iBi_VyiYaZd1PNsxerC-3">
           <mxGeometry x="20" y="80" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="1iBi_VyiYaZd1PNsxerC-8" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Total CAP&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1iBi_VyiYaZd1PNsxerC-3">
+        <mxCell id="1iBi_VyiYaZd1PNsxerC-8" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Total CAP&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1iBi_VyiYaZd1PNsxerC-3">
           <mxGeometry x="200" y="80" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="1iBi_VyiYaZd1PNsxerC-9" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Total Active Non Conformity&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1iBi_VyiYaZd1PNsxerC-3">
+        <mxCell id="1iBi_VyiYaZd1PNsxerC-9" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Total Active Non Conformity&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6a00ff;strokeColor=#3700CC;fontColor=#ffffff;" vertex="1" parent="1iBi_VyiYaZd1PNsxerC-3">
           <mxGeometry x="380" y="80" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="1iBi_VyiYaZd1PNsxerC-10" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Total Closed Non Conformity&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1iBi_VyiYaZd1PNsxerC-3">
+        <mxCell id="1iBi_VyiYaZd1PNsxerC-10" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Total Closed Non Conformity&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#a20025;strokeColor=#6F0000;fontColor=#ffffff;" vertex="1" parent="1iBi_VyiYaZd1PNsxerC-3">
           <mxGeometry x="560" y="80" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="1iBi_VyiYaZd1PNsxerC-11" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/unicons-line-vol-3/24/graph-bar-128.png" vertex="1" parent="1iBi_VyiYaZd1PNsxerC-3">
