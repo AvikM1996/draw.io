@@ -1644,28 +1644,28 @@
           <mxGeometry x="560" y="80" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="1iBi_VyiYaZd1PNsxerC-11" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/unicons-line-vol-3/24/graph-bar-128.png" vertex="1" parent="1iBi_VyiYaZd1PNsxerC-3">
-          <mxGeometry x="36" y="200" width="194" height="194" as="geometry" />
+          <mxGeometry x="83" y="200" width="194" height="194" as="geometry" />
         </mxCell>
         <mxCell id="jfDG9ySA8r87--NL7T1i-1" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/success-filloutline/64/chart-analysis-analytics-data_analytics-pie-128.png" vertex="1" parent="1iBi_VyiYaZd1PNsxerC-3">
-          <mxGeometry x="390" y="200" width="198" height="198" as="geometry" />
+          <mxGeometry x="413" y="200" width="198" height="198" as="geometry" />
         </mxCell>
         <mxCell id="Zt41V7k1cLj9pzDe_11r-1" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/business-startup-10/50/54-128.png" vertex="1" parent="1iBi_VyiYaZd1PNsxerC-3">
-          <mxGeometry x="60" y="520" width="190" height="190" as="geometry" />
+          <mxGeometry x="89" y="520" width="190" height="190" as="geometry" />
         </mxCell>
         <mxCell id="MPziwgCdpzxlbJTpe7bs-1" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/essential-app-2/16/pie-chart-stat-graph-128.png" vertex="1" parent="1iBi_VyiYaZd1PNsxerC-3">
-          <mxGeometry x="400" y="520" width="178" height="178" as="geometry" />
+          <mxGeometry x="438" y="520" width="178" height="178" as="geometry" />
         </mxCell>
         <mxCell id="1iBi_VyiYaZd1PNsxerC-12" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Total Audit Findings&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="140" y="449" width="140" height="30" as="geometry" />
+          <mxGeometry x="192" y="449" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Zt41V7k1cLj9pzDe_11r-2" value="Over Due Actions that had passed due date" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="96" y="757" width="260" height="30" as="geometry" />
+          <mxGeometry x="146" y="757" width="260" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MPziwgCdpzxlbJTpe7bs-2" value="Actions Closed On Time" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="475" y="758" width="150" height="30" as="geometry" />
+          <mxGeometry x="529" y="758" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MPziwgCdpzxlbJTpe7bs-3" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Non Conformity Counts&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="478" y="448" width="170" height="30" as="geometry" />
+          <mxGeometry x="510" y="448" width="170" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
