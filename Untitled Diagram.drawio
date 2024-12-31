@@ -1837,8 +1837,8 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="6llCPN4NT-mppqQb98rW-1" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;DMS (DOCUMENT MANAGEMENT SYSTEM)&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="228" y="48" width="320" height="30" as="geometry" />
+        <mxCell id="6llCPN4NT-mppqQb98rW-1" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;DMS (DOCUMENT MANAGEMENT SYSTEM)&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="246" y="43" width="400" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
