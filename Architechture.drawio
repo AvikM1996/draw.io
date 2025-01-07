@@ -109,7 +109,7 @@
           <mxGeometry x="10" y="360" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="P2YMnBT6173FjMLmRPba-68" value="PORT-4201" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="20" y="485" width="90" height="30" as="geometry" />
+          <mxGeometry x="11" y="485" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="P2YMnBT6173FjMLmRPba-73" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="-247" y="230" width="157" height="285" as="geometry" />
