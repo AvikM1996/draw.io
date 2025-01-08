@@ -248,7 +248,7 @@
         <mxCell id="P6wXZ-fsSafUP4HuAL4X-17" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 14px;&quot;&gt;GRC Service&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="563" y="553.62" width="140" height="15.31" as="geometry" />
         </mxCell>
-        <mxCell id="P6wXZ-fsSafUP4HuAL4X-18" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 13px;&quot;&gt;PORT :- 8083&lt;br&gt;Private IP : 192.168.224.5&lt;br&gt;DNS : 8.8.8.8&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="P6wXZ-fsSafUP4HuAL4X-18" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 13px;&quot;&gt;PORT :- 8083&lt;br&gt;Private IP : 192.168.224.5&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="563" y="565.65" width="156" height="59.35" as="geometry" />
         </mxCell>
         <mxCell id="P6wXZ-fsSafUP4HuAL4X-19" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.polygon;polyCoords=[[0.25,0],[0.75,0],[1,0.25],[1,0.75],[0.75,1],[0.25,1],[0,0.75],[0,0.25]];polyline=0;rotation=0;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" parent="1" vertex="1">
