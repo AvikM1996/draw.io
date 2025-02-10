@@ -3602,7 +3602,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="o_OP1nrRyCMM9hBFiXzQ-1" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;strokeColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="680" y="2660" width="1210" height="780" as="geometry" />
+          <mxGeometry x="680" y="2660" width="1210" height="720" as="geometry" />
         </mxCell>
         <mxCell id="o_OP1nrRyCMM9hBFiXzQ-2" value="&lt;div style=&quot;&quot;&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;b&gt;Document Category&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(128, 128, 128);&quot;&gt;Select the relevant category for this document type&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1190" y="2780" width="315" height="30" as="geometry" />
