@@ -369,6 +369,18 @@
             <mxRectangle width="132" height="36" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="q_VBhUt5SAlTEGs03yuy-1" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/unicons-line-vol-3/24/edit-128.png" vertex="1" parent="1">
+          <mxGeometry x="965" y="810" width="17" height="17" as="geometry" />
+        </mxCell>
+        <mxCell id="q_VBhUt5SAlTEGs03yuy-2" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/ios-web-user-interface-multi-circle-flat-vol-5/512/Delete_dustbin_empty_recycle_recycling_remove_trash-128.png" vertex="1" parent="1">
+          <mxGeometry x="949" y="810" width="16" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="q_VBhUt5SAlTEGs03yuy-3" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/unicons-line-vol-3/24/edit-128.png" vertex="1" parent="1">
+          <mxGeometry x="965" y="848" width="17" height="17" as="geometry" />
+        </mxCell>
+        <mxCell id="q_VBhUt5SAlTEGs03yuy-4" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/ios-web-user-interface-multi-circle-flat-vol-5/512/Delete_dustbin_empty_recycle_recycling_remove_trash-128.png" vertex="1" parent="1">
+          <mxGeometry x="949" y="848" width="16" height="16" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
@@ -3585,12 +3597,12 @@
     </mxGraphModel>
   </diagram>
   <diagram id="XHs5qhM9zxwXuE_Fsn-k" name="CAP">
-    <mxGraphModel dx="2284" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1694" dy="434" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="zSA0_7ifFGrZLjKxjP4h-91" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-10" y="30" width="1090" height="890" as="geometry" />
+          <mxGeometry x="-60" y="20" width="1090" height="890" as="geometry" />
         </mxCell>
         <mxCell id="zSA0_7ifFGrZLjKxjP4h-2" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;gradientColor=none;container=0;strokeWidth=1;strokeColor=#808080;" vertex="1" parent="1">
           <mxGeometry x="68.5" y="506" width="890" height="60" as="geometry" />
@@ -3789,6 +3801,18 @@
           <mxGeometry x="256" width="126" height="36" as="geometry">
             <mxRectangle width="126" height="36" as="alternateBounds" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="zSA0_7ifFGrZLjKxjP4h-92" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/unicons-line-vol-3/24/edit-128.png" vertex="1" parent="1">
+          <mxGeometry x="965" y="773" width="17" height="17" as="geometry" />
+        </mxCell>
+        <mxCell id="zSA0_7ifFGrZLjKxjP4h-95" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/unicons-line-vol-3/24/edit-128.png" vertex="1" parent="1">
+          <mxGeometry x="965" y="806" width="17" height="17" as="geometry" />
+        </mxCell>
+        <mxCell id="zSA0_7ifFGrZLjKxjP4h-97" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/ios-web-user-interface-multi-circle-flat-vol-5/512/Delete_dustbin_empty_recycle_recycling_remove_trash-128.png" vertex="1" parent="1">
+          <mxGeometry x="948" y="773" width="16" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="zSA0_7ifFGrZLjKxjP4h-98" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/ios-web-user-interface-multi-circle-flat-vol-5/512/Delete_dustbin_empty_recycle_recycling_remove_trash-128.png" vertex="1" parent="1">
+          <mxGeometry x="949" y="806" width="16" height="16" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
