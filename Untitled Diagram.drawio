@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.11" pages="28">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="25.0.1" pages="28">
   <diagram id="lnwSR8R6jfKk9h6Ie3Bd" name="Audit Plan">
     <mxGraphModel dx="1434" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -142,7 +142,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Raise Non - Conformity" id="mW-6R9g2St-HQa-Gvcc2">
-    <mxGraphModel dx="1434" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1195" dy="615" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -176,17 +176,14 @@
         <mxCell id="CCrLASGQos-RDN-FPQm--8" value="&#xa;&lt;strong&gt;Deadline for Corrective Action&lt;/strong&gt; (When the issue needs to be resolved by)&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="81" y="487" width="320" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="9zPA8I8UCcgGELwzW3mL-1" value="&lt;b&gt;Date Raised&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="9zPA8I8UCcgGELwzW3mL-1" value="&lt;b&gt;Date Raised&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="440" y="120" width="320" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="9zPA8I8UCcgGELwzW3mL-2" value="&lt;b&gt;Auditor Name&lt;/b&gt;&lt;br&gt;To identify who documented the nonconformity." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="9zPA8I8UCcgGELwzW3mL-2" value="&lt;b&gt;Auditor Name&lt;/b&gt;&lt;br&gt;To identify who documented the nonconformity." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="79" y="580" width="320" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="9zPA8I8UCcgGELwzW3mL-3" value="&lt;b&gt;Audit Scope&lt;/b&gt;&lt;br&gt;To specify which part of the audit the nonconformity relates to (e.g., audit of production process, documentation review" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="9zPA8I8UCcgGELwzW3mL-3" value="&lt;b&gt;Audit Scope&lt;/b&gt;&lt;br&gt;To specify which part of the audit the nonconformity relates to (e.g., audit of production process, documentation review" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="441" y="580" width="320" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="9zPA8I8UCcgGELwzW3mL-5" value="&lt;b&gt;Status&lt;br&gt;(Open, In Progress, Closed)&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="79" y="680" width="320" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -2414,7 +2411,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="wBk3JqpgLfI83rQeLtI1" name="Audit Topic IA">
-    <mxGraphModel dx="1964" dy="550" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2284" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2842,7 +2839,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="J9MGJ0XQzakvOWxrCH8p" name="Audit Checklist IA">
-    <mxGraphModel dx="2154" dy="1802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3008,7 +3005,7 @@
         <mxCell id="f_TZMJWl6dIt8Au2FdAX-52" value="&lt;font face=&quot;Lucida Console&quot;&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;Is there a process for identifying and addressing customer complaints?&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#E6E6E6;fillColor=#FFFFFF;align=left;" parent="1" vertex="1">
           <mxGeometry x="75.25" y="334" width="330" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="f_TZMJWl6dIt8Au2FdAX-69" value="Save" style="rounded=1;fillColor=#0057D8;strokeColor=none;html=1;whiteSpace=wrap;fontColor=#ffffff;align=center;verticalAlign=middle;fontStyle=0;fontSize=12;sketch=0;" parent="1" vertex="1">
+        <mxCell id="f_TZMJWl6dIt8Au2FdAX-69" value="&lt;div&gt;Submit&lt;/div&gt;" style="rounded=1;fillColor=#0057D8;strokeColor=none;html=1;whiteSpace=wrap;fontColor=#ffffff;align=center;verticalAlign=middle;fontStyle=0;fontSize=12;sketch=0;" parent="1" vertex="1">
           <mxGeometry x="60" y="760" width="780" height="33" as="geometry" />
         </mxCell>
         <mxCell id="bQUJC3TqiL2jmMR4rIFs-1" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;" parent="1" vertex="1">
