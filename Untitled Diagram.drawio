@@ -3653,7 +3653,7 @@
           <mxGeometry x="715" y="2670" width="770" height="80" as="geometry" />
         </mxCell>
         <mxCell id="o_OP1nrRyCMM9hBFiXzQ-22" value="Save" style="rounded=1;fillColor=#0057D8;strokeColor=none;html=1;whiteSpace=wrap;fontColor=#ffffff;align=center;verticalAlign=middle;fontStyle=0;fontSize=12;sketch=0;" vertex="1" parent="1">
-          <mxGeometry x="717.5" y="3080" width="846" height="33" as="geometry" />
+          <mxGeometry x="717.5" y="3080" width="492.5" height="33" as="geometry" />
         </mxCell>
         <UserObject label="" link="data:page/id,ja6iycpVBGkESJw6KsYl" id="o_OP1nrRyCMM9hBFiXzQ-23">
           <mxCell style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.back;" vertex="1" parent="1">
