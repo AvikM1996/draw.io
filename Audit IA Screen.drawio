@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.11" pages="7">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.11" pages="8">
   <diagram name="Stepper" id="ozX3I0Ez_NRGyyj6ZaVc">
     <mxGraphModel dx="1393" dy="688" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1783,6 +1783,227 @@
         </mxCell>
         <mxCell id="C_Yb5yNiYE8En9QOt0lT-63" value="&lt;font face=&quot;Lucida Console&quot;&gt;HR&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1650" y="3270" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="Gt2jT9WNhNZGfNTEvrLW" name="Corrective Action Plan">
+    <mxGraphModel dx="2875" dy="1000" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ZUckDknefDeoPNkYLaLX-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="20" width="1090" height="890" as="geometry" />
+        </mxCell>
+        <mxCell id="ZUckDknefDeoPNkYLaLX-2" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;gradientColor=none;container=0;strokeWidth=1;strokeColor=#808080;" vertex="1" parent="1">
+          <mxGeometry x="68.5" y="506" width="890" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZUckDknefDeoPNkYLaLX-3" value="&lt;font color=&quot;#808080&quot; style=&quot;font-size: 14px;&quot;&gt;Enter auditor comment&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="79.5" y="523" width="199" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="ZUckDknefDeoPNkYLaLX-4" value="&lt;div style=&quot;&quot;&gt;&lt;b&gt;Auditor Comment&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="71" y="470" width="315" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZUckDknefDeoPNkYLaLX-5" value="&lt;div style=&quot;&quot;&gt;&lt;b&gt;Responsible Person&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="70" y="200" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZUckDknefDeoPNkYLaLX-6" value="&lt;font color=&quot;#808080&quot;&gt;Choose a responsible person&lt;/font&gt;" style="rounded=1;html=1;whiteSpace=wrap;align=left;fontSize=12;spacingLeft=10;sketch=0;strokeColor=#808080;" vertex="1" parent="1">
+          <mxGeometry x="70" y="229" width="281.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZUckDknefDeoPNkYLaLX-7" value="" style="shape=triangle;direction=south;fillColor=#596780;strokeColor=none;html=1;sketch=0;" vertex="1" parent="ZUckDknefDeoPNkYLaLX-6">
+          <mxGeometry x="1" y="0.5" width="12" height="6" relative="1" as="geometry">
+            <mxPoint x="-20" y="-3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZUckDknefDeoPNkYLaLX-8" value="Save" style="rounded=1;fillColor=#0057D8;strokeColor=none;html=1;whiteSpace=wrap;fontColor=#ffffff;align=center;verticalAlign=middle;fontStyle=0;fontSize=12;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="70" y="640" width="890" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="ZUckDknefDeoPNkYLaLX-9" value="&lt;h1 style=&quot;margin-top: 0px; line-height: 90%;&quot;&gt;&lt;font color=&quot;#1a1a1a&quot;&gt;Corrective Action Plan&lt;/font&gt;&lt;/h1&gt;&lt;p style=&quot;line-height: 90%;&quot;&gt;&lt;span style=&quot;color: rgb(118, 118, 118); font-family: latoBold; font-size: 14px; background-color: rgb(248, 249, 250);&quot;&gt;Fill form and upload documents to create cap and upload its relevant documents.&lt;/span&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="90" width="770" height="80" as="geometry" />
+        </mxCell>
+        <UserObject label="" id="ZUckDknefDeoPNkYLaLX-10">
+          <mxCell style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.back;" vertex="1" parent="1">
+            <mxGeometry x="890" y="90" width="30" height="25.5" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="ZUckDknefDeoPNkYLaLX-11" value="&lt;div style=&quot;&quot;&gt;&lt;b&gt;Completion Deadline&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="376.25" y="200" width="278.75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZUckDknefDeoPNkYLaLX-12" value="&lt;font color=&quot;#808080&quot;&gt;Choose a date&lt;/font&gt;" style="rounded=1;html=1;whiteSpace=wrap;align=left;fontSize=12;spacingLeft=10;sketch=0;strokeColor=#808080;" vertex="1" parent="1">
+          <mxGeometry x="376.25" y="229" width="281.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZUckDknefDeoPNkYLaLX-13" value="" style="shape=triangle;direction=south;fillColor=#596780;strokeColor=none;html=1;sketch=0;" vertex="1" parent="ZUckDknefDeoPNkYLaLX-12">
+          <mxGeometry x="1" y="0.5" width="12" height="6" relative="1" as="geometry">
+            <mxPoint x="-20" y="-3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZUckDknefDeoPNkYLaLX-14" value="&lt;div style=&quot;&quot;&gt;&lt;b&gt;Submission Date&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="674.25" y="200" width="278.75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZUckDknefDeoPNkYLaLX-15" value="&lt;font color=&quot;#808080&quot;&gt;Choose a submission date&lt;/font&gt;" style="rounded=1;html=1;whiteSpace=wrap;align=left;fontSize=12;spacingLeft=10;sketch=0;strokeColor=#808080;" vertex="1" parent="1">
+          <mxGeometry x="674.25" y="229" width="285.75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZUckDknefDeoPNkYLaLX-16" value="" style="shape=triangle;direction=south;fillColor=#596780;strokeColor=none;html=1;sketch=0;" vertex="1" parent="ZUckDknefDeoPNkYLaLX-15">
+          <mxGeometry x="1" y="0.5" width="12" height="6" relative="1" as="geometry">
+            <mxPoint x="-20" y="-3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZUckDknefDeoPNkYLaLX-17" value="&lt;div style=&quot;&quot;&gt;&lt;b&gt;Root Cause&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="68.5" y="280" width="461.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZUckDknefDeoPNkYLaLX-18" value="&lt;font color=&quot;#808080&quot;&gt;Select a root cause&lt;/font&gt;" style="rounded=1;html=1;whiteSpace=wrap;align=left;fontSize=12;spacingLeft=10;sketch=0;strokeColor=#808080;" vertex="1" parent="1">
+          <mxGeometry x="68.5" y="309" width="461.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZUckDknefDeoPNkYLaLX-19" value="" style="shape=triangle;direction=south;fillColor=#596780;strokeColor=none;html=1;sketch=0;" vertex="1" parent="ZUckDknefDeoPNkYLaLX-18">
+          <mxGeometry x="1" y="0.5" width="12" height="6" relative="1" as="geometry">
+            <mxPoint x="-20" y="-3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZUckDknefDeoPNkYLaLX-20" value="&lt;div style=&quot;&quot;&gt;&lt;b&gt;Implementation Status&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="550" y="280" width="410" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZUckDknefDeoPNkYLaLX-21" value="&lt;font color=&quot;#808080&quot;&gt;Select a implementation status&lt;/font&gt;" style="rounded=1;html=1;whiteSpace=wrap;align=left;fontSize=12;spacingLeft=10;sketch=0;strokeColor=#808080;" vertex="1" parent="1">
+          <mxGeometry x="550" y="309" width="410" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZUckDknefDeoPNkYLaLX-22" value="" style="shape=triangle;direction=south;fillColor=#596780;strokeColor=none;html=1;sketch=0;" vertex="1" parent="ZUckDknefDeoPNkYLaLX-21">
+          <mxGeometry x="1" y="0.5" width="12" height="6" relative="1" as="geometry">
+            <mxPoint x="-20" y="-3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZUckDknefDeoPNkYLaLX-23" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;gradientColor=none;container=0;strokeWidth=1;strokeColor=#808080;" vertex="1" parent="1">
+          <mxGeometry x="68.5" y="396" width="890" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZUckDknefDeoPNkYLaLX-24" value="&lt;font color=&quot;#808080&quot; style=&quot;font-size: 14px;&quot;&gt;Enter description&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="79.5" y="413" width="199" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="ZUckDknefDeoPNkYLaLX-25" value="&lt;div style=&quot;&quot;&gt;&lt;b&gt;Description&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="71" y="360" width="315" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZUckDknefDeoPNkYLaLX-26" value="Assets" style="childLayout=tableLayout;recursiveResize=0;strokeColor=#98bf21;fillColor=#A7C942;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="78.5" y="740" width="500" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="ZUckDknefDeoPNkYLaLX-27" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;strokeColor=inherit;fillColor=#ffffff;" vertex="1" parent="ZUckDknefDeoPNkYLaLX-26">
+          <mxGeometry width="500" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="ZUckDknefDeoPNkYLaLX-28" value="Reference ID" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=#A7C942;align=center;fontStyle=1;fontColor=#FFFFFF;html=1;" vertex="1" parent="ZUckDknefDeoPNkYLaLX-27">
+          <mxGeometry width="160" height="39" as="geometry">
+            <mxRectangle width="160" height="39" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZUckDknefDeoPNkYLaLX-29" value="Auditor Comment" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=#A7C942;align=center;fontStyle=1;fontColor=#FFFFFF;html=1;" vertex="1" parent="ZUckDknefDeoPNkYLaLX-27">
+          <mxGeometry x="160" width="174" height="39" as="geometry">
+            <mxRectangle width="174" height="39" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZUckDknefDeoPNkYLaLX-30" value="CAP Verification" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=#A7C942;align=center;fontStyle=1;fontColor=#FFFFFF;html=1;" vertex="1" parent="ZUckDknefDeoPNkYLaLX-27">
+          <mxGeometry x="334" width="166" height="39" as="geometry">
+            <mxRectangle width="166" height="39" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZUckDknefDeoPNkYLaLX-31" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;strokeColor=inherit;fillColor=#ffffff;" vertex="1" parent="ZUckDknefDeoPNkYLaLX-26">
+          <mxGeometry y="39" width="500" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="ZUckDknefDeoPNkYLaLX-32" value="CAP017687" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="ZUckDknefDeoPNkYLaLX-31">
+          <mxGeometry width="160" height="37" as="geometry">
+            <mxRectangle width="160" height="37" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZUckDknefDeoPNkYLaLX-33" value="Review of Billing Process for Accuracy" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="ZUckDknefDeoPNkYLaLX-31">
+          <mxGeometry x="160" width="174" height="37" as="geometry">
+            <mxRectangle width="174" height="37" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZUckDknefDeoPNkYLaLX-34" value="Verified" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="ZUckDknefDeoPNkYLaLX-31">
+          <mxGeometry x="334" width="166" height="37" as="geometry">
+            <mxRectangle width="166" height="37" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZUckDknefDeoPNkYLaLX-35" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;strokeColor=inherit;fillColor=#EAF2D3;" vertex="1" parent="ZUckDknefDeoPNkYLaLX-26">
+          <mxGeometry y="76" width="500" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="ZUckDknefDeoPNkYLaLX-36" value="CAP017688" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;whiteSpace=wrap;html=1;" vertex="1" parent="ZUckDknefDeoPNkYLaLX-35">
+          <mxGeometry width="160" height="34" as="geometry">
+            <mxRectangle width="160" height="34" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZUckDknefDeoPNkYLaLX-37" value="Inspection of equipment maintenance records" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;whiteSpace=wrap;html=1;" vertex="1" parent="ZUckDknefDeoPNkYLaLX-35">
+          <mxGeometry x="160" width="174" height="34" as="geometry">
+            <mxRectangle width="174" height="34" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZUckDknefDeoPNkYLaLX-38" value="Verified" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;whiteSpace=wrap;html=1;" vertex="1" parent="ZUckDknefDeoPNkYLaLX-35">
+          <mxGeometry x="334" width="166" height="34" as="geometry">
+            <mxRectangle width="166" height="34" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZUckDknefDeoPNkYLaLX-39" value="Assets" style="childLayout=tableLayout;recursiveResize=0;strokeColor=#98bf21;fillColor=#A7C942;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="578.5" y="740" width="381.5" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="ZUckDknefDeoPNkYLaLX-40" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;strokeColor=inherit;fillColor=#ffffff;" vertex="1" parent="ZUckDknefDeoPNkYLaLX-39">
+          <mxGeometry width="381.5" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="ZUckDknefDeoPNkYLaLX-41" value="Submission Date" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=#A7C942;align=center;fontStyle=1;fontColor=#FFFFFF;html=1;" vertex="1" parent="ZUckDknefDeoPNkYLaLX-40">
+          <mxGeometry width="127" height="39" as="geometry">
+            <mxRectangle width="127" height="39" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZUckDknefDeoPNkYLaLX-42" value="Created By" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=#A7C942;align=center;fontStyle=1;fontColor=#FFFFFF;html=1;" vertex="1" parent="ZUckDknefDeoPNkYLaLX-40">
+          <mxGeometry x="127" width="129" height="39" as="geometry">
+            <mxRectangle width="129" height="39" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZUckDknefDeoPNkYLaLX-43" value="CAP Status" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=#A7C942;align=center;fontStyle=1;fontColor=#FFFFFF;html=1;" vertex="1" parent="ZUckDknefDeoPNkYLaLX-40">
+          <mxGeometry x="256" width="126" height="39" as="geometry">
+            <mxRectangle width="126" height="39" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZUckDknefDeoPNkYLaLX-44" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;strokeColor=inherit;fillColor=#ffffff;" vertex="1" parent="ZUckDknefDeoPNkYLaLX-39">
+          <mxGeometry y="39" width="381.5" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="ZUckDknefDeoPNkYLaLX-45" value="10th Feb 2025" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="ZUckDknefDeoPNkYLaLX-44">
+          <mxGeometry width="127" height="35" as="geometry">
+            <mxRectangle width="127" height="35" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZUckDknefDeoPNkYLaLX-46" value="Vaskar Das" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="ZUckDknefDeoPNkYLaLX-44">
+          <mxGeometry x="127" width="129" height="35" as="geometry">
+            <mxRectangle width="129" height="35" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZUckDknefDeoPNkYLaLX-47" value="OPENED" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="ZUckDknefDeoPNkYLaLX-44">
+          <mxGeometry x="256" width="126" height="35" as="geometry">
+            <mxRectangle width="126" height="35" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZUckDknefDeoPNkYLaLX-48" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;strokeColor=inherit;fillColor=#EAF2D3;" vertex="1" parent="ZUckDknefDeoPNkYLaLX-39">
+          <mxGeometry y="74" width="381.5" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="ZUckDknefDeoPNkYLaLX-49" value="12th Feb 2025" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;whiteSpace=wrap;html=1;" vertex="1" parent="ZUckDknefDeoPNkYLaLX-48">
+          <mxGeometry width="127" height="36" as="geometry">
+            <mxRectangle width="127" height="36" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZUckDknefDeoPNkYLaLX-50" value="Pramit Pal" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;whiteSpace=wrap;html=1;" vertex="1" parent="ZUckDknefDeoPNkYLaLX-48">
+          <mxGeometry x="127" width="129" height="36" as="geometry">
+            <mxRectangle width="129" height="36" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZUckDknefDeoPNkYLaLX-51" value="CLOSED" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;whiteSpace=wrap;html=1;" vertex="1" parent="ZUckDknefDeoPNkYLaLX-48">
+          <mxGeometry x="256" width="126" height="36" as="geometry">
+            <mxRectangle width="126" height="36" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZUckDknefDeoPNkYLaLX-52" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/unicons-line-vol-3/24/edit-128.png" vertex="1" parent="1">
+          <mxGeometry x="965" y="773" width="17" height="17" as="geometry" />
+        </mxCell>
+        <mxCell id="ZUckDknefDeoPNkYLaLX-53" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/unicons-line-vol-3/24/edit-128.png" vertex="1" parent="1">
+          <mxGeometry x="965" y="806" width="17" height="17" as="geometry" />
+        </mxCell>
+        <mxCell id="ZUckDknefDeoPNkYLaLX-54" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/ios-web-user-interface-multi-circle-flat-vol-5/512/Delete_dustbin_empty_recycle_recycling_remove_trash-128.png" vertex="1" parent="1">
+          <mxGeometry x="948" y="773" width="16" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="ZUckDknefDeoPNkYLaLX-55" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/ios-web-user-interface-multi-circle-flat-vol-5/512/Delete_dustbin_empty_recycle_recycling_remove_trash-128.png" vertex="1" parent="1">
+          <mxGeometry x="949" y="806" width="16" height="16" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
