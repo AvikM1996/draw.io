@@ -2678,7 +2678,7 @@
           <mxGeometry x="1310" y="2170" width="315" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Gje5fKJkDpDcuBeXUkjP-26" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;strokeColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="600" y="2640" width="1090" height="850" as="geometry" />
+          <mxGeometry x="611.25" y="2640" width="1090" height="850" as="geometry" />
         </mxCell>
         <mxCell id="Gje5fKJkDpDcuBeXUkjP-27" value="&lt;div style=&quot;&quot;&gt;&lt;div&gt;&lt;b&gt;Participants&lt;/b&gt;&lt;/div&gt;&lt;font color=&quot;#808080&quot;&gt;Select the participants for the meetings&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1135" y="2780" width="315" height="30" as="geometry" />
