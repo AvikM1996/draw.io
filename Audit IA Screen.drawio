@@ -1994,16 +1994,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ZUckDknefDeoPNkYLaLX-52" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/unicons-line-vol-3/24/edit-128.png" vertex="1" parent="1">
-          <mxGeometry x="965" y="773" width="17" height="17" as="geometry" />
+          <mxGeometry x="965" y="790" width="17" height="17" as="geometry" />
         </mxCell>
         <mxCell id="ZUckDknefDeoPNkYLaLX-53" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/unicons-line-vol-3/24/edit-128.png" vertex="1" parent="1">
-          <mxGeometry x="965" y="806" width="17" height="17" as="geometry" />
+          <mxGeometry x="965" y="823" width="17" height="17" as="geometry" />
         </mxCell>
         <mxCell id="ZUckDknefDeoPNkYLaLX-54" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/ios-web-user-interface-multi-circle-flat-vol-5/512/Delete_dustbin_empty_recycle_recycling_remove_trash-128.png" vertex="1" parent="1">
-          <mxGeometry x="948" y="773" width="16" height="16" as="geometry" />
+          <mxGeometry x="930" y="790" width="16" height="16" as="geometry" />
         </mxCell>
         <mxCell id="ZUckDknefDeoPNkYLaLX-55" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/ios-web-user-interface-multi-circle-flat-vol-5/512/Delete_dustbin_empty_recycle_recycling_remove_trash-128.png" vertex="1" parent="1">
-          <mxGeometry x="949" y="806" width="16" height="16" as="geometry" />
+          <mxGeometry x="930" y="823.5" width="16" height="16" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
