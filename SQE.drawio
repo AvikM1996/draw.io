@@ -132,8 +132,8 @@
         <mxCell id="ANIjlBxXcbf-SwfHsriw-35" value="&amp;nbsp;Additional notes or remarks about the change" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="117" y="710" width="584" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="ANIjlBxXcbf-SwfHsriw-36" value="Send Notification to SQE" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#33A64C;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" vertex="1" parent="1">
-          <mxGeometry x="410" y="880" width="160" height="50" as="geometry" />
+        <mxCell id="ANIjlBxXcbf-SwfHsriw-36" value="Notify SQE &amp;amp; Update Log" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#33A64C;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" vertex="1" parent="1">
+          <mxGeometry x="360" y="880" width="210" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ANIjlBxXcbf-SwfHsriw-37" value="Submit" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#0085FC;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" vertex="1" parent="1">
           <mxGeometry x="577" y="880" width="124" height="50" as="geometry" />
