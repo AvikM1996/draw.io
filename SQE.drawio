@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="27.2.0" pages="8">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="27.2.0" pages="9">
   <diagram name="Index" id="W85f6WsWDxsVGWoGbG5t">
     <mxGraphModel dx="1056" dy="550" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -766,7 +766,7 @@
             <mxGeometry x="17" y="60" width="100" height="40" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="Next" id="r7kNE16w5Pibjtsfz5In-3">
+        <UserObject label="Next" link="data:page/id,r05eRth4sH7ZjfakICrM" id="r7kNE16w5Pibjtsfz5In-3">
           <mxCell style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#DB2843;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" vertex="1" parent="1">
             <mxGeometry x="737" y="60" width="80" height="40" as="geometry" />
           </mxCell>
@@ -860,6 +860,62 @@
         </mxCell>
         <mxCell id="sNEty_zwEB63bNVx9PXh-6" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="1232" y="745" width="163.5" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="r05eRth4sH7ZjfakICrM" name="Final Signature">
+    <mxGraphModel dx="1426" dy="743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="HKy2yY1gZP7VyhDIky8T-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TVSlyIe2JuRkl_gaP0pK-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="600" y="235" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TVSlyIe2JuRkl_gaP0pK-1" value="&lt;strong data-end=&quot;126&quot; data-start=&quot;53&quot;&gt;Change Owner completes Part C of the Initial Safety Impact Assessment&lt;/strong&gt; – Final part of ISIA documentation." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="65" y="160" width="375" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="HKy2yY1gZP7VyhDIky8T-1" value="&lt;b&gt;&lt;span style=&quot;font-size: 12pt; font-family: Arial, sans-serif;&quot; lang=&quot;EN-GB&quot;&gt;&lt;font style=&quot;color: rgb(26, 26, 26);&quot;&gt;Change Owner Arranges For&lt;br/&gt;Final Signature&lt;/font&gt;&lt;/span&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="275" y="30" width="320" height="60" as="geometry" />
+        </mxCell>
+        <UserObject label="Back" link="data:page/id,GOHELj9lou1cLiW3nqMm" id="HKy2yY1gZP7VyhDIky8T-2">
+          <mxCell style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#6C767D;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" vertex="1" parent="1">
+            <mxGeometry x="25" y="60" width="100" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Next" id="HKy2yY1gZP7VyhDIky8T-3">
+          <mxCell style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#DB2843;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" vertex="1" parent="1">
+            <mxGeometry x="745" y="60" width="80" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="HKy2yY1gZP7VyhDIky8T-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HKy2yY1gZP7VyhDIky8T-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="785" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HKy2yY1gZP7VyhDIky8T-4" value="&lt;strong data-end=&quot;225&quot; data-start=&quot;168&quot;&gt;Change Owner arranges for final signature of the ISIA&lt;/strong&gt; – Initiates formal sign-off process." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="605" y="160" width="360" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="HKy2yY1gZP7VyhDIky8T-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HKy2yY1gZP7VyhDIky8T-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="450" y="455" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HKy2yY1gZP7VyhDIky8T-5" value="&lt;strong data-end=&quot;309&quot; data-start=&quot;268&quot;&gt;Change Project Manager signs the ISIA&lt;/strong&gt; – Provides formal acknowledgment and validation." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="380" width="360" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="HKy2yY1gZP7VyhDIky8T-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HKy2yY1gZP7VyhDIky8T-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="260" y="660" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HKy2yY1gZP7VyhDIky8T-6" value="&lt;strong data-end=&quot;402&quot; data-start=&quot;364&quot;&gt;SQE Focal Point(s) review the ISIA&lt;/strong&gt; – Mandatory review step before approval." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="383" width="360" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="HKy2yY1gZP7VyhDIky8T-7" value="&lt;strong data-end=&quot;490&quot; data-start=&quot;449&quot;&gt;Authorized Approver approves the ISIA&lt;/strong&gt; – Approval proceeds only after SQE review." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="670" width="360" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
