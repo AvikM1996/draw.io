@@ -42,9 +42,11 @@
         <mxCell id="edplR38cuE2-fBMiFALA-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.669;entryY=0.017;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="JtpWSxbDYgldt98DF7_z-4" target="JtpWSxbDYgldt98DF7_z-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="edplR38cuE2-fBMiFALA-2" value="Initiate Level of Assessment" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="480" y="230" width="120" height="60" as="geometry" />
-        </mxCell>
+        <UserObject label="Initiate Level of Assessment" link="data:page/id,0LrbE2yxxSZM6FkUb-jM" id="edplR38cuE2-fBMiFALA-2">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+            <mxGeometry x="480" y="230" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
@@ -607,7 +609,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="0LrbE2yxxSZM6FkUb-jM" name="Initiate Appropriate Level of Assessment">
-    <mxGraphModel dx="1426" dy="743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2208" dy="708" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -624,26 +626,95 @@
             <mxGeometry x="740" y="110" width="80" height="40" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="NUFR5SE9A7aMkFNSKO7i-4" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;Change Request&lt;/span&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="115" y="199" width="580" height="101" as="geometry" />
+        <mxCell id="V9N8ak2poZs0EzkQYXOc-1" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px; color: rgb(0, 102, 51);&quot;&gt;&lt;u style=&quot;&quot;&gt;Safety Risk Assessment Form&lt;/u&gt;&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="111.5" y="200" width="280" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="NUFR5SE9A7aMkFNSKO7i-5" value="&amp;nbsp;Choose a change request" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="115" y="239" width="635" height="40" as="geometry" />
+        <mxCell id="rcy9nrIL5T8uhzZLSd6n-2" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;Revised Risk Class&lt;/span&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="121.5" y="820" width="310" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="NUFR5SE9A7aMkFNSKO7i-6" value="" style="html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;shadow=0;dashed=0;strokeWidth=2;shape=mxgraph.ios7.misc.down;strokeColor=#0080f0;" vertex="1" parent="1">
-          <mxGeometry x="727" y="257" width="12" height="6" as="geometry" />
+        <mxCell id="rcy9nrIL5T8uhzZLSd6n-3" value="&amp;nbsp;Choose a risk class from the list" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="121.5" y="860" width="578.5" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="NUFR5SE9A7aMkFNSKO7i-7" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;Level of Assessment Required ?&lt;/span&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="112.5" y="293" width="580" height="101" as="geometry" />
+        <mxCell id="rcy9nrIL5T8uhzZLSd6n-4" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;Initial Severity&lt;/span&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="121.5" y="541" width="310" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="NUFR5SE9A7aMkFNSKO7i-8" value="&amp;nbsp;Choose a level eg. High, Medium, Low" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="112.5" y="333" width="635" height="40" as="geometry" />
+        <mxCell id="rcy9nrIL5T8uhzZLSd6n-5" value="&amp;nbsp;Choose a severity from the list" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="121.5" y="581" width="270" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="NUFR5SE9A7aMkFNSKO7i-9" value="" style="html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;shadow=0;dashed=0;strokeWidth=2;shape=mxgraph.ios7.misc.down;strokeColor=#0080f0;" vertex="1" parent="1">
-          <mxGeometry x="724.5" y="351" width="12" height="6" as="geometry" />
+        <mxCell id="rcy9nrIL5T8uhzZLSd6n-6" value="" style="html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;shadow=0;dashed=0;strokeWidth=2;shape=mxgraph.ios7.misc.down;strokeColor=#0080f0;" vertex="1" parent="1">
+          <mxGeometry x="371.5" y="598" width="12" height="6" as="geometry" />
         </mxCell>
-        <mxCell id="NUFR5SE9A7aMkFNSKO7i-10" value="Submit" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#0085FC;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" vertex="1" parent="1">
-          <mxGeometry x="626" y="420" width="124" height="50" as="geometry" />
+        <mxCell id="rcy9nrIL5T8uhzZLSd6n-7" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;Hazard Description&lt;/span&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="120.5" y="360" width="310" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="rcy9nrIL5T8uhzZLSd6n-8" value="&amp;nbsp;Enter hazard description" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="121.5" y="400" width="584" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="rcy9nrIL5T8uhzZLSd6n-9" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&amp;nbsp;Date of Assignment&lt;/span&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="1038" width="580" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="rcy9nrIL5T8uhzZLSd6n-10" value="&amp;nbsp;Choose a date" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="1078" width="580" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rcy9nrIL5T8uhzZLSd6n-11" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.calendar;" vertex="1" parent="1">
+          <mxGeometry x="503" y="1088" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="rcy9nrIL5T8uhzZLSd6n-12" value="Submit" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#0085FC;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" vertex="1" parent="1">
+          <mxGeometry x="626.5" y="964" width="124" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="rcy9nrIL5T8uhzZLSd6n-13" value="" style="html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;shadow=0;dashed=0;strokeWidth=2;shape=mxgraph.ios7.misc.down;strokeColor=#0080f0;" vertex="1" parent="1">
+          <mxGeometry x="673.5" y="877" width="12" height="6" as="geometry" />
+        </mxCell>
+        <mxCell id="rcy9nrIL5T8uhzZLSd6n-14" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;Hazard Id (AUTO GENERATED)&lt;/span&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="123" y="260" width="580" height="101" as="geometry" />
+        </mxCell>
+        <mxCell id="rcy9nrIL5T8uhzZLSd6n-15" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&amp;nbsp; HZ-01&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="123" y="300" width="580" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rcy9nrIL5T8uhzZLSd6n-17" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;Initial Likelihood&lt;/span&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="433.5" y="541" width="310" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="rcy9nrIL5T8uhzZLSd6n-18" value="&amp;nbsp;Choose a likelihood from the list" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="433.5" y="581" width="270" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rcy9nrIL5T8uhzZLSd6n-19" value="" style="html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;shadow=0;dashed=0;strokeWidth=2;shape=mxgraph.ios7.misc.down;strokeColor=#0080f0;" vertex="1" parent="1">
+          <mxGeometry x="683.5" y="598" width="12" height="6" as="geometry" />
+        </mxCell>
+        <mxCell id="rcy9nrIL5T8uhzZLSd6n-23" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;Risk Class&lt;/span&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="120.5" y="631" width="310" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="rcy9nrIL5T8uhzZLSd6n-24" value="&amp;nbsp;Choose a risk class from the list" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="120.5" y="671" width="270" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rcy9nrIL5T8uhzZLSd6n-25" value="" style="html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;shadow=0;dashed=0;strokeWidth=2;shape=mxgraph.ios7.misc.down;strokeColor=#0080f0;" vertex="1" parent="1">
+          <mxGeometry x="370.5" y="688" width="12" height="6" as="geometry" />
+        </mxCell>
+        <mxCell id="rcy9nrIL5T8uhzZLSd6n-26" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;Mitigation Measure&lt;/span&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="432.5" y="631" width="310" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="rcy9nrIL5T8uhzZLSd6n-27" value="&amp;nbsp;Choose a proper description from the list" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="432.5" y="671" width="270" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rcy9nrIL5T8uhzZLSd6n-28" value="" style="html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;shadow=0;dashed=0;strokeWidth=2;shape=mxgraph.ios7.misc.down;strokeColor=#0080f0;" vertex="1" parent="1">
+          <mxGeometry x="682.5" y="688" width="12" height="6" as="geometry" />
+        </mxCell>
+        <mxCell id="rcy9nrIL5T8uhzZLSd6n-29" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;Post Mitigation Severity&lt;/span&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="121.5" y="721" width="310" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="rcy9nrIL5T8uhzZLSd6n-30" value="&amp;nbsp;Choose a risk class from the list" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="121.5" y="761" width="270" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rcy9nrIL5T8uhzZLSd6n-31" value="" style="html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;shadow=0;dashed=0;strokeWidth=2;shape=mxgraph.ios7.misc.down;strokeColor=#0080f0;" vertex="1" parent="1">
+          <mxGeometry x="371.5" y="778" width="12" height="6" as="geometry" />
+        </mxCell>
+        <mxCell id="rcy9nrIL5T8uhzZLSd6n-32" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;Post Mitigation Likelihood&lt;/span&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="433.5" y="721" width="310" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="rcy9nrIL5T8uhzZLSd6n-33" value="&amp;nbsp;Choose a proper description from the list" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="433.5" y="761" width="270" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rcy9nrIL5T8uhzZLSd6n-34" value="" style="html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;shadow=0;dashed=0;strokeWidth=2;shape=mxgraph.ios7.misc.down;strokeColor=#0080f0;" vertex="1" parent="1">
+          <mxGeometry x="683.5" y="778" width="12" height="6" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
