@@ -7,7 +7,7 @@
         <mxCell id="XvhzNb-j8ufbyhRzJYGK-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;glass=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="40" width="680" height="640" as="geometry" />
         </mxCell>
-        <mxCell id="XvhzNb-j8ufbyhRzJYGK-4" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;shadow=1;strokeWidth=0;" vertex="1" parent="1">
+        <mxCell id="XvhzNb-j8ufbyhRzJYGK-4" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;shadow=1;strokeWidth=0;glass=1;" vertex="1" parent="1">
           <mxGeometry x="110" y="90" width="310" height="170" as="geometry" />
         </mxCell>
         <mxCell id="XvhzNb-j8ufbyhRzJYGK-5" value="Selec Business Process &amp;amp; business Unit" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
@@ -19,7 +19,7 @@
         <mxCell id="XvhzNb-j8ufbyhRzJYGK-7" value="Business Unit" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="160" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="XvhzNb-j8ufbyhRzJYGK-8" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=0;shadow=1;" vertex="1" parent="1">
+        <mxCell id="XvhzNb-j8ufbyhRzJYGK-8" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=0;shadow=1;glass=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="90" width="300" height="350" as="geometry" />
         </mxCell>
         <mxCell id="XvhzNb-j8ufbyhRzJYGK-9" value="Back Dated Posting Of Invoices&amp;nbsp; in system" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;strokeWidth=0;" vertex="1" parent="1">
