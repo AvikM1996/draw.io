@@ -38,7 +38,7 @@
         <mxCell id="CJG-8lXNs9m_DfE3-FID-5" edge="1" parent="1" source="CJG-8lXNs9m_DfE3-FID-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="CJG-8lXNs9m_DfE3-FID-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <UserObject label="Step 1" link="data:page/id,KDW61lTQtivt4lZsWGZ2" id="CJG-8lXNs9m_DfE3-FID-1">
+        <UserObject label="Identification" link="data:page/id,KDW61lTQtivt4lZsWGZ2" id="CJG-8lXNs9m_DfE3-FID-1">
           <mxCell parent="1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1">
             <mxGeometry height="60" width="120" x="125" y="100" as="geometry" />
           </mxCell>
