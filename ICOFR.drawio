@@ -38,7 +38,7 @@
         <mxCell id="CJG-8lXNs9m_DfE3-FID-5" edge="1" parent="1" source="CJG-8lXNs9m_DfE3-FID-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="CJG-8lXNs9m_DfE3-FID-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <UserObject label="Identification" link="data:page/id,KDW61lTQtivt4lZsWGZ2" id="CJG-8lXNs9m_DfE3-FID-1">
+        <UserObject label="&lt;span data-teams=&quot;true&quot;&gt;Risk Identification&lt;/span&gt;" link="data:page/id,KDW61lTQtivt4lZsWGZ2" id="CJG-8lXNs9m_DfE3-FID-1">
           <mxCell parent="1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1">
             <mxGeometry height="60" width="120" x="125" y="100" as="geometry" />
           </mxCell>
@@ -46,7 +46,7 @@
         <mxCell id="CJG-8lXNs9m_DfE3-FID-7" edge="1" parent="1" source="CJG-8lXNs9m_DfE3-FID-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="CJG-8lXNs9m_DfE3-FID-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <UserObject label="Step 3" link="data:page/id,9McWwwBYSQHdFLDSw126" id="CJG-8lXNs9m_DfE3-FID-2">
+        <UserObject label="&lt;span data-teams=&quot;true&quot;&gt;Control Mapping&lt;/span&gt;" link="data:page/id,9McWwwBYSQHdFLDSw126" id="CJG-8lXNs9m_DfE3-FID-2">
           <mxCell parent="1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1">
             <mxGeometry height="60" width="120" x="445" y="100" as="geometry" />
           </mxCell>
@@ -54,7 +54,7 @@
         <mxCell id="CJG-8lXNs9m_DfE3-FID-6" edge="1" parent="1" source="CJG-8lXNs9m_DfE3-FID-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="CJG-8lXNs9m_DfE3-FID-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <UserObject label="Step 2" link="data:page/id,7tH6-RTZGULDcIosGRtS" id="CJG-8lXNs9m_DfE3-FID-3">
+        <UserObject label="&lt;span data-teams=&quot;true&quot;&gt;Risk Assessment&lt;/span&gt;" link="data:page/id,7tH6-RTZGULDcIosGRtS" id="CJG-8lXNs9m_DfE3-FID-3">
           <mxCell parent="1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1">
             <mxGeometry height="60" width="120" x="285" y="100" as="geometry" />
           </mxCell>
@@ -62,7 +62,7 @@
         <mxCell id="l1JXp6F5j1CtQBtAJzRW-3" edge="1" parent="1" source="CJG-8lXNs9m_DfE3-FID-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="l1JXp6F5j1CtQBtAJzRW-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <UserObject label="Step 4" link="data:page/id,z2_WI9cxYsiLxOMos1KT" id="CJG-8lXNs9m_DfE3-FID-4">
+        <UserObject label="&lt;span data-teams=&quot;true&quot;&gt;Residual Risk&lt;/span&gt;" link="data:page/id,z2_WI9cxYsiLxOMos1KT" id="CJG-8lXNs9m_DfE3-FID-4">
           <mxCell parent="1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1">
             <mxGeometry height="60" width="120" x="605" y="100" as="geometry" />
           </mxCell>
@@ -75,23 +75,17 @@
         </mxCell>
         <UserObject label="End" link="data:page/id,Cvjs9j838dMz5HE-Yy5d" id="CJG-8lXNs9m_DfE3-FID-10">
           <mxCell parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1">
-            <mxGeometry height="60" width="60" x="330" y="200" as="geometry" />
+            <mxGeometry height="60" width="60" x="505" y="200" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="l1JXp6F5j1CtQBtAJzRW-4" edge="1" parent="1" source="l1JXp6F5j1CtQBtAJzRW-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="l1JXp6F5j1CtQBtAJzRW-2">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="l1JXp6F5j1CtQBtAJzRW-4" edge="1" parent="1" source="l1JXp6F5j1CtQBtAJzRW-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="565" y="230" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <UserObject label="Step 5" link="data:page/id,jTs10U32-C9a4XnzwuNs" id="l1JXp6F5j1CtQBtAJzRW-1">
+        <UserObject label="&lt;span data-teams=&quot;true&quot;&gt;Monitoring &amp;amp; Review&lt;/span&gt;" link="data:page/id,jTs10U32-C9a4XnzwuNs" id="l1JXp6F5j1CtQBtAJzRW-1">
           <mxCell parent="1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1">
             <mxGeometry height="60" width="120" x="605" y="200" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <mxCell id="l1JXp6F5j1CtQBtAJzRW-5" edge="1" parent="1" source="l1JXp6F5j1CtQBtAJzRW-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="CJG-8lXNs9m_DfE3-FID-10">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <UserObject label="Step 6" link="data:page/id,aY88sLv83Qu37RyVMjNn" id="l1JXp6F5j1CtQBtAJzRW-2">
-          <mxCell parent="1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1">
-            <mxGeometry height="60" width="120" x="445" y="200" as="geometry" />
           </mxCell>
         </UserObject>
       </root>
@@ -222,7 +216,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="9McWwwBYSQHdFLDSw126" name="STEP-3">
-    <mxGraphModel dx="1178" dy="619" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -291,7 +285,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="aY88sLv83Qu37RyVMjNn" name="STEP-6">
-    <mxGraphModel dx="975" dy="512" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
