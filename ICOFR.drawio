@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" pages="9">
+<mxfile host="app.diagrams.net" pages="10">
   <diagram name="ICOFR Flow" id="aX-vXTLFgsDiJWQ0WC2C">
     <mxGraphModel dx="1030" dy="562" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -639,7 +639,7 @@
         <mxCell id="DnZkODVCUHvbk_5iC16l-11" edge="1" parent="1" source="DnZkODVCUHvbk_5iC16l-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="DnZkODVCUHvbk_5iC16l-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DnZkODVCUHvbk_5iC16l-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#fa6800, #7e5335);fontColor=#000000;strokeColor=#C73500;" value="Master Data System&lt;br&gt;(Predefined master data)" vertex="1">
+        <mxCell id="DnZkODVCUHvbk_5iC16l-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;gradientColor=#b3b3b3;" value="Master Data System&lt;br&gt;(Predefined master data)" vertex="1">
           <mxGeometry height="60" width="220" x="290" y="40" as="geometry" />
         </mxCell>
         <mxCell id="DnZkODVCUHvbk_5iC16l-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" value="User&lt;br&gt;(Risk Owner / CRO)" vertex="1">
@@ -678,6 +678,14 @@
         <mxCell id="DnZkODVCUHvbk_5iC16l-16" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Risk Master Data" vertex="1">
           <mxGeometry height="50" width="100" x="450" y="160" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="zf3Mxt5uZg8y5iY3sEBB" name="Page-11">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
